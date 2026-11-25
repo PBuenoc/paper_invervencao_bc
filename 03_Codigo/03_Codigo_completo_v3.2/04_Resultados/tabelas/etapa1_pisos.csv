@@ -1,0 +1,9 @@
+piso,valor_usd_bi,tipo
+100% ARA (recalculada),327.94800853379326,calculado
+120% ARA (recalculada),393.5376102405519,calculado
+150% ARA (recalculada),491.9220128006899,calculado
+Greenspan-Guidotti (DCP com intercompanhia),224.42771026601,calculado
+"100% ARA (M4 sem intercompanhia, regra v2 — sensibilidade)",336.5503787164058,calculado
+"100% ARA implícita FMI (fim 2025, comparação)",299.0123481096959,calculado (estimativa FMI)
+"120% ARA implícita FMI (fim 2025, comparação)",358.81481773163506,calculado (estimativa FMI)
+"150% ARA implícita FMI (fim 2025, comparação)",448.5185221645438,calculado (estimativa FMI)

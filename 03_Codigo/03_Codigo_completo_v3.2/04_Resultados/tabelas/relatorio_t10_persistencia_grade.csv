@@ -1,0 +1,33 @@
+persistencia,versao,lambda,p12,p48,med48
+permanente,não substituível,0.5,0.5836,1.0,10.0
+permanente,não substituível,1.0,1.0,1.0,6.0
+permanente,não substituível,1.5,1.0,1.0,4.0
+permanente,não substituível,2.0,1.0,1.0,3.0
+permanente,substituível,0.5,0.075,1.0,25.0
+permanente,substituível,1.0,0.5834,1.0,11.0
+permanente,substituível,1.5,0.6893,1.0,7.0
+permanente,substituível,2.0,0.9955,1.0,6.0
+"recorrente 0,50/ano",não substituível,0.5,0.3553,0.7119,25.0
+"recorrente 0,50/ano",não substituível,1.0,0.692,0.9138,9.0
+"recorrente 0,50/ano",não substituível,1.5,0.9072,0.9746,2.0
+"recorrente 0,50/ano",não substituível,2.0,0.9091,0.976,2.0
+"recorrente 0,50/ano",substituível,0.5,0.0062,0.356,
+"recorrente 0,50/ano",substituível,1.0,0.2915,0.7706,25.0
+"recorrente 0,50/ano",substituível,1.5,0.6489,0.9114,3.0
+"recorrente 0,50/ano",substituível,2.0,0.9033,0.9735,2.0
+"recorrente 0,25/ano",não substituível,0.5,0.3247,0.5455,40.0
+"recorrente 0,25/ano",não substituível,1.0,0.643,0.814,9.0
+"recorrente 0,25/ano",não substituível,1.5,0.8858,0.9411,2.0
+"recorrente 0,25/ano",não substituível,2.0,0.8864,0.9417,2.0
+"recorrente 0,25/ano",substituível,0.5,0.0023,0.1704,
+"recorrente 0,25/ano",substituível,1.0,0.2242,0.5545,41.0
+"recorrente 0,25/ano",substituível,1.5,0.6148,0.8063,3.0
+"recorrente 0,25/ano",substituível,2.0,0.8838,0.9399,2.0
+episódio único,não substituível,0.5,0.29,0.29,
+episódio único,não substituível,1.0,0.5832,0.5832,9.0
+episódio único,não substituível,1.5,0.8612,0.8612,2.0
+episódio único,não substituível,2.0,0.8612,0.8612,2.0
+episódio único,substituível,0.5,0.0,0.0,
+episódio único,substituível,1.0,0.1434,0.1434,
+episódio único,substituível,1.5,0.5708,0.5708,3.0
+episódio único,substituível,2.0,0.8612,0.8612,2.0

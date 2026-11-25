@@ -1,0 +1,11 @@
+{
+  "norma_conversao_2009_2018": 0.9444226277579137,
+  "excesso_2021_2025_usd_bi": 200.10866166914695,
+  "fluxo_mensal_medio_2021_2025_usd_bi": 3.3351443611524494,
+  "recuo_observado_2024": {
+    "excesso_2023": 43.73743300337092,
+    "excesso_2024": 20.88885050247736,
+    "fracao_revertida": 0.5224033723957366
+  },
+  "fontes": "SGS 13962 (câmbio contratado, exportação, total) e SGS 22708 (exportações de bens, BP)"
+}

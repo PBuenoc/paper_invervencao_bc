@@ -1,0 +1,48 @@
+LOO nenhum [np.float64(62.0), np.float64(100.0), np.float64(100.0), 9]
+LOO 2002 [np.float64(77.0), np.float64(100.0), np.float64(100.0), 6]
+LOO 2008 [np.float64(58.0), np.float64(100.0), np.float64(100.0), 10]
+LOO 2013 [np.float64(54.2), np.float64(100.0), np.float64(100.0), 10]
+LOO 2015 [np.float64(62.3), np.float64(100.0), np.float64(100.0), 9]
+LOO mar/2020 [np.float64(57.9), np.float64(100.0), np.float64(100.0), 10]
+LOO dez/2024 [np.float64(59.9), np.float64(100.0), np.float64(100.0), 10]
+SAMPLE 273 3.516918132418874 [[0.82488479 0.17511521]
+ [0.69090909 0.30909091]] means         dep      spot      temp        sw
+0 -1.368750 -0.783550  1.036784 -0.189192
+1  6.487042 -0.074912  1.679903  1.973915
+missing {'fx': 0, 'dep': 0, 'sel': 0, 'ds': 0, 'emb': 26, 'de': 26, 'sw': 0, 'spot': 0, 'temp': 0}
+REG 246 0.4467728182372709              beta        lo         hi             p
+const    1.146936  0.047783   2.246088  4.083820e-02
+ds      -0.372378 -1.333539   0.588784  4.476501e-01
+de       8.803539  7.061278  10.545800  4.016385e-23
+dep_lag -0.016683 -0.118940   0.085573  7.491445e-01
+sel_lag -0.072347 -0.173054   0.028359  1.591208e-01
+WELCH 20 75 0.7586687373447324 TtestResult(statistic=np.float64(3.3384802980187294), pvalue=np.float64(0.0024277823007533153), df=np.float64(27.52274204852375))
+SIM stress 0.5 ([np.float64(16.4), np.float64(57.9), np.float64(94.2), 22], [np.float64(0.0), np.float64(1.2), np.float64(15.8), '>48'])
+SIM stress 1 ([np.float64(56.4), np.float64(87.7), np.float64(98.9), 11], [np.float64(11.7), np.float64(35.4), np.float64(71.3), 32])
+SIM stress 1.5 ([np.float64(75.2), np.float64(94.4), np.float64(99.7), 7], [np.float64(35.8), np.float64(65.1), np.float64(88.0), 17])
+SIM stress 2 ([np.float64(82.6), np.float64(96.6), np.float64(99.8), 6], [np.float64(52.5), np.float64(78.1), np.float64(93.2), 12])
+SIM markov 0.5 ([np.float64(3.5), np.float64(10.1), np.float64(25.7), '>48'], [np.float64(0.0), np.float64(0.0), np.float64(0.2), '>48'])
+SIM markov 1 ([np.float64(20.3), np.float64(37.5), np.float64(57.5), 37], [np.float64(3.0), np.float64(6.1), np.float64(10.2), '>48'])
+SIM markov 1.5 ([np.float64(37.5), np.float64(56.6), np.float64(73.3), 19], [np.float64(13.0), np.float64(21.0), np.float64(28.4), '>48'])
+SIM markov 2 ([np.float64(48.1), np.float64(67.0), np.float64(80.3), 13], [np.float64(23.1), np.float64(34.1), np.float64(42.0), '>48'])
+SIM normal 0.5 ([np.float64(1.5), np.float64(4.1), np.float64(9.4), '>48'], [np.float64(0.0), np.float64(0.0), np.float64(0.0), '>48'])
+SIM normal 1 ([np.float64(8.8), np.float64(17.6), np.float64(29.1), '>48'], [np.float64(1.5), np.float64(2.9), np.float64(4.4), '>48'])
+SIM normal 1.5 ([np.float64(18.3), np.float64(31.2), np.float64(44.2), '>48'], [np.float64(6.5), np.float64(10.5), np.float64(13.9), '>48'])
+SIM normal 2 ([np.float64(26.7), np.float64(41.8), np.float64(54.6), 37], [np.float64(12.2), np.float64(18.9), np.float64(23.1), '>48'])
+SENS 0 114.918 ([np.float64(20.3), np.float64(37.5), np.float64(57.5), 37], [np.float64(2.2), np.float64(4.0), np.float64(5.6), '>48'])
+SENS 0 143.6475 ([np.float64(3.9), np.float64(9.9), np.float64(23.5), '>48'], [np.float64(2.2), np.float64(4.0), np.float64(5.6), '>48'])
+SENS 0 172.377 ([np.float64(2.3), np.float64(4.7), np.float64(9.6), '>48'], [np.float64(2.2), np.float64(4.0), np.float64(5.6), '>48'])
+SENS 0.5 114.918 ([np.float64(20.3), np.float64(37.5), np.float64(57.5), 37], [np.float64(3.0), np.float64(6.1), np.float64(10.2), '>48'])
+SENS 0.5 143.6475 ([np.float64(3.9), np.float64(9.9), np.float64(23.5), '>48'], [np.float64(2.3), np.float64(4.3), np.float64(6.6), '>48'])
+SENS 0.5 172.377 ([np.float64(2.3), np.float64(4.7), np.float64(9.6), '>48'], [np.float64(2.2), np.float64(4.0), np.float64(5.8), '>48'])
+SENS 1 114.918 ([np.float64(3.6), np.float64(8.7), np.float64(16.6), '>48'], [np.float64(4.8), np.float64(10.4), np.float64(18.7), '>48'])
+SENS 1 143.6475 ([np.float64(1.0), np.float64(2.7), np.float64(6.0), '>48'], [np.float64(2.5), np.float64(4.9), np.float64(8.5), '>48'])
+SENS 1 172.377 ([np.float64(0.8), np.float64(1.8), np.float64(3.4), '>48'], [np.float64(2.3), np.float64(4.1), np.float64(6.2), '>48'])
+PISO 258.8293 ([np.float64(18.6), np.float64(35.2), np.float64(55.5), 40], [np.float64(0.0), np.float64(0.0), np.float64(0.0), '>48'])
+PISO 319.4484 ([np.float64(18.7), np.float64(35.5), np.float64(55.9), 40], [np.float64(0.3), np.float64(1.0), np.float64(2.4), '>48'])
+PISO 336.5503787164058 ([np.float64(20.3), np.float64(37.5), np.float64(57.5), 37], [np.float64(3.0), np.float64(6.1), np.float64(10.2), '>48'])
+PISO 167.7635 ([np.float64(18.6), np.float64(35.2), np.float64(55.5), 40], [np.float64(0.0), np.float64(0.0), np.float64(0.0), '>48'])
+DYN ([np.float64(21.3), np.float64(41.6), np.float64(63.7), 31], [np.float64(3.9), np.float64(10.6), np.float64(18.7), '>48'])
+APORTE ([np.float64(19.0), np.float64(35.9), np.float64(56.3), 39], [np.float64(0.9), np.float64(2.3), np.float64(4.7), '>48'])
+DELTA ([np.float64(20.3), np.float64(33.0), np.float64(51.1), 47], [np.float64(3.0), np.float64(4.3), np.float64(6.3), '>48'])
+BOTH ([np.float64(19.0), np.float64(31.7), np.float64(50.2), 48], [np.float64(0.9), np.float64(1.4), np.float64(2.5), '>48'])

@@ -1,0 +1,9 @@
+cenario,p12,p24,p48,mediana,piso48,compras
+stress_lam1_sub0.5,56.5,87.7,98.9,11,71.3,33.21
+markov_lam1_sub0.5,20.3,37.5,57.5,37,10.2,51.64
+normal_lam1_sub0.5,8.8,17.6,29.1,>48,4.4,56.76
+markov_sub0,20.3,37.5,57.5,37,5.6,51.64
+markov_sub1,3.6,8.7,16.6,>48,18.7,51.64
+markov_D1_normais_zerados,11.8,23.5,48.9,>48,6.5,7.31
+markov_D2_sem_compras_normais,21.3,41.2,67.3,31,41.3,7.31
+markov_D1_sub1,1.2,3.6,13.2,>48,13.9,7.31

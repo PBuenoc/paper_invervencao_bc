@@ -1,0 +1,19 @@
+{
+  "cenario_b": {
+    "natureza": "afirmação de terceiro, não dado oficial (valor mínimo implícito)",
+    "fonte": "Lara Resende (16/11/2026), p. 4–5: reservas + dólares de exportadores no exterior > US$ 400 bi",
+    "reservas_na_data_da_afirmacao_usd_bi": 363.843,
+    "data_reservas": "2026-11-16",
+    "estoque_implicito_minimo_usd_bi": 36.15699999999998,
+    "requisito_legal": "Lei 14.286/2021, art. 26: manutenção no exterior é facultativa; exige lei nova"
+  },
+  "cenario_c": {
+    "participacao_lft_data_ref": 0.5119889204574636,
+    "mes": "2026-06-01",
+    "fonte_atual": "Tesouro, estoque da DPF (DPMFi em mercado)",
+    "participacao_alvo": 0.3,
+    "fonte_alvo": "De Bolle (16/11/2026), p. 8",
+    "delta_max": 0.414049820195427,
+    "mes_inicio": 13
+  }
+}

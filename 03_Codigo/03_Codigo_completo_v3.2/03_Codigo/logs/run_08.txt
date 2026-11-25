@@ -1,0 +1,10 @@
+Relatório: 157381 caracteres, 406 linhas.
+                                                  verificacao  valor_referencia  valor_obtido       dif_pct      status
+0                          Reservas em 31/12/2025 (SGS 13621)           358.230  3.582340e+02  1.116601e-03          ok
+1                          Reservas em 30/09/2026 (SGS 13621)           362.800  3.628210e+02  5.788313e-03          ok
+2                Razão reservas/ARA, fim de 2025 (DataMapper)             1.210  1.198058e+00 -9.869797e-01  comparação
+3                       Vendas à vista do BC, 12 a 31/12/2024            21.574  2.157450e+01  2.317605e-03          ok
+4                        Vendas com recompra, 12 a 31/12/2024            11.000  1.100000e+01  0.000000e+00          ok
+5      Estoque de swaps reconstruído × SGS 29723 (30/06/2026)            93.250  9.325000e+01  3.774758e-13          ok
+6  Linhas com recompra reconstruídas × SGS 29722 (30/06/2026)             4.050  4.050000e+00 -1.554312e-13          ok
+7                Soma das contribuições da ARA = total da ARA             0.000  5.684342e-14           NaN          ok

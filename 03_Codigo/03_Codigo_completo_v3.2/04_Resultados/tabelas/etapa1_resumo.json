@@ -1,0 +1,42 @@
+{
+  "data_referencia": "2026-06-30",
+  "reservas_usd_bi": 367.558,
+  "reservas_data": "2026-06-30",
+  "swap_em_aberto_usd_bi": 93.25000000000036,
+  "linha_em_aberto_usd_bi": 4.049999999999994,
+  "swap_max_usd_bi": 114.91800000000038,
+  "swap_max_data": "2015-03-31",
+  "ultima_reserva": {
+    "data": "2026-11-19",
+    "valor_usd_bi": 363.058
+  },
+  "agregado_monetario_principal": "m3_ic",
+  "agregado_regra_v2": "m4",
+  "erro_abs_medio_pp_por_especificacao": {
+    "m2": 36.73255256842747,
+    "m3": 3.506003991688763,
+    "m4": 1.9348508620661622,
+    "m2_ic": 30.662877202198242,
+    "m3_ic": 1.0162798893937008,
+    "m4_ic": 5.400294515922954,
+    "m2_icB": 24.99766893665387,
+    "m3_icB": 4.358972059883052,
+    "m4_icB": 8.972671603040952
+  },
+  "erro_pct_nivel_moeda_vs_fmi": {
+    "m2": 46.658146586644634,
+    "m3": 1.8272873928633637,
+    "m4": 10.417197641650247
+  },
+  "ultimo_swap": {
+    "data": "2026-10-27",
+    "valor_usd_bi": 90.25000000000036
+  },
+  "ara_dinamica": {
+    "g_m3_mediana_12m_2016_2026": 0.10288919331773294,
+    "n_anos": 5,
+    "erro_abs_medio_estatica": 28.78305326551193,
+    "erro_abs_medio_dinamica": 14.863250331180955,
+    "contrib_moeda_ref_usd_bi": 135.1845375246301
+  }
+}

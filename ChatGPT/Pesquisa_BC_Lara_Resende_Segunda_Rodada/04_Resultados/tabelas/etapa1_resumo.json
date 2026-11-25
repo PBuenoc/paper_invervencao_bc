@@ -1,0 +1,23 @@
+{
+  "data_referencia": "2026-06-30",
+  "reservas_usd_bi": 367.558,
+  "reservas_data": "2026-06-30",
+  "swap_em_aberto_usd_bi": 93.25000000000036,
+  "linha_em_aberto_usd_bi": 4.049999999999994,
+  "swap_max_usd_bi": 114.91800000000038,
+  "swap_max_data": "2015-03-31",
+  "ultima_reserva": {
+    "data": "2026-11-19",
+    "valor_usd_bi": 363.058
+  },
+  "agregado_monetario_principal": "m4",
+  "erro_abs_medio_pp_por_agregado": {
+    "m2": 37.34289826772868,
+    "m3": 3.6197414224348767,
+    "m4": 1.7812479384714912
+  },
+  "ultimo_swap": {
+    "data": "2026-10-27",
+    "valor_usd_bi": 90.25000000000036
+  }
+}

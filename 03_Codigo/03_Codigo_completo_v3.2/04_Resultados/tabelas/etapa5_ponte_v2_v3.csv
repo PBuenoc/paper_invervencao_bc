@@ -1,0 +1,13 @@
+passo,versao,p_falha_12,p_falha_48,mediana_incondicional_48,mediana_entre_falhas_48
+"v2: episódios v2, piso M4 sem intercompanhia, sem devolução das linhas em aberto",substituível,0.6202,1.0,9.0,9.0
+"v2: episódios v2, piso M4 sem intercompanhia, sem devolução das linhas em aberto",não substituível,1.0,1.0,6.0,6.0
++ piso v3 (M3 + DCP com intercompanhia),substituível,0.5718,1.0,10.0,10.0
++ piso v3 (M3 + DCP com intercompanhia),não substituível,1.0,1.0,6.0,6.0
++ devolução das linhas em aberto (US$ 4.05 bi),substituível,0.5636,1.0,11.0,11.0
++ devolução das linhas em aberto (US$ 4.05 bi),não substituível,1.0,1.0,7.0,7.0
++ episódio de 2018 na lista (= permanente v3),substituível,0.5834,1.0,11.0,11.0
++ episódio de 2018 na lista (= permanente v3),não substituível,1.0,1.0,6.0,6.0
+"+ persistência: recorrente 0,25/ano (calmaria zero)",substituível,0.2242,0.5545,41.0,17.0
+"+ persistência: recorrente 0,25/ano (calmaria zero)",não substituível,0.643,0.814,9.0,2.0
++ persistência: episódio único,substituível,0.1434,0.1434,,5.0
++ persistência: episódio único,não substituível,0.5832,0.5832,9.0,2.0

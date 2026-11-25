@@ -1,0 +1,6 @@
+teto,valor_usd_bi,origem,regra,espaco_usd_bi
+pico histórico (preferência revelada),114.91800000000038,dado observado,máximo do estoque em 2015-03-31,21.66800000000002
+pico escalado pelo PIB em US$,120.90448526150931,calculado,pico/PIB 12m (0.0484) x PIB 12m de 2026-06-30 (2495.7),27.654485261508952
+pico escalado pelas reservas,116.44308450036425,calculado,pico/reservas (0.3168) x reservas de 2026-06-30 (367.558),23.193084500363895
+pico +25% (hipótese sem âncora histórica),143.64750000000046,hipótese,ilustrativo,50.39750000000011
+pico +50% (hipótese sem âncora histórica),172.37700000000058,hipótese,ilustrativo,79.12700000000022

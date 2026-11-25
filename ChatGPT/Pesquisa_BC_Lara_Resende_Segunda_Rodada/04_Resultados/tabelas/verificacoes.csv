@@ -1,0 +1,8 @@
+verificacao,valor_referencia,fonte,valor_obtido,dif_abs,dif_pct,tolerancia_pct,status,obs
+Reservas em 31/12/2025 (SGS 13621),358.23,"BCB, Relatório de Gestão das Reservas 2026",358.234,0.003999999999962256,0.001116601066343482,0.5,ok,valor de 2025-12-31
+Reservas em 30/09/2026 (SGS 13621),362.8,"BCB, Nota do setor externo de out/2026",362.821,0.021000000000015007,0.0057883131201805415,0.5,ok,valor de 2026-09-30
+"Razão reservas/ARA, fim de 2025 (DataMapper)",1.21,"FMI, Artigo IV 2026, p. 17 e p. 60 do PDF",1.198057546,-0.011942453999999936,-0.9869796694214823,,comparação,"comparação: diferença reportada, sem tolerância"
+"Vendas à vista do BC, 12 a 31/12/2024",21.574,"Imprensa: Folha de Pernambuco, 05/01/2025",21.5745,0.0004999999999988347,0.002317604523958629,1.0,ok,base de atuações
+"Vendas com recompra, 12 a 31/12/2024",11.0,"Imprensa: Folha de Pernambuco, 05/01/2025",11.0,0.0,0.0,2.0,ok,base de atuações
+Estoque de swaps reconstruído × série oficial,,BCB,93.25000000000036,,,,pendência,série oficial diária de estoque não localizada em API pública; ver Pendências
+Soma das contribuições da ARA = total da ARA,0.0,interna,5.684341886080802e-14,5.684341886080802e-14,,,ok,maior diferença absoluta entre as datas (US$ bi)

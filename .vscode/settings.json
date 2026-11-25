@@ -1,0 +1,4 @@
+{
+  "python.defaultInterpreterPath": "${workspaceFolder}\\03_Codigo\\03_Codigo_completo_v3.2\\03_Codigo\\.venv\\Scripts\\python.exe",
+  "python.terminal.activateEnvironment": true
+}

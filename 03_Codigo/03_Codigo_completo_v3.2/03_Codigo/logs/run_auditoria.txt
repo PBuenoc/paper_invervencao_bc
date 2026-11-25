@@ -1,0 +1,206 @@
+{
+ "amostra_meses": 273,
+ "limiar_p80_dep": 3.516918132418874,
+ "matriz_transicao": [
+  [
+   0.8249,
+   0.1751
+  ],
+  [
+   0.6909,
+   0.3091
+  ]
+ ],
+ "medias_por_regime": {
+  "dep": {
+   "0": -1.3687,
+   "1": 6.487
+  },
+  "spot": {
+   "0": -0.7836,
+   "1": -0.0749
+  },
+  "temp": {
+   "0": 1.0368,
+   "1": 1.6799
+  },
+  "sw": {
+   "0": -0.1892,
+   "1": 1.9739
+  }
+ },
+ "compras_normais_total_usd_bi": 257.75,
+ "compras_normais_2006_2012_pct": 91.2,
+ "loo": {
+  "nenhum": [
+   64.3,
+   100.0,
+   100.0,
+   8
+  ],
+  "2002": [
+   78.1,
+   100.0,
+   100.0,
+   6
+  ],
+  "2008": [
+   59.9,
+   100.0,
+   100.0,
+   10
+  ],
+  "2013": [
+   59.6,
+   100.0,
+   100.0,
+   9
+  ],
+  "2015": [
+   64.2,
+   100.0,
+   100.0,
+   9
+  ],
+  "2018": [
+   62.0,
+   100.0,
+   100.0,
+   9
+  ],
+  "mar/2020": [
+   60.6,
+   100.0,
+   100.0,
+   10
+  ],
+  "dez/2024": [
+   62.1,
+   100.0,
+   100.0,
+   9
+  ]
+ },
+ "simulacoes": {
+  "stress_lam1_sub0.5": {
+   "primeira_falha": [
+    56.5,
+    87.7,
+    98.9,
+    11
+   ],
+   "reservas_no_piso": [
+    11.7,
+    35.4,
+    71.3,
+    32
+   ],
+   "compras_medias_48m_usd_bi": 33.21
+  },
+  "markov_lam1_sub0.5": {
+   "primeira_falha": [
+    20.3,
+    37.5,
+    57.5,
+    37
+   ],
+   "reservas_no_piso": [
+    3.0,
+    6.1,
+    10.2,
+    ">48"
+   ],
+   "compras_medias_48m_usd_bi": 51.64
+  },
+  "normal_lam1_sub0.5": {
+   "primeira_falha": [
+    8.8,
+    17.6,
+    29.1,
+    ">48"
+   ],
+   "reservas_no_piso": [
+    1.5,
+    2.9,
+    4.4,
+    ">48"
+   ],
+   "compras_medias_48m_usd_bi": 56.76
+  },
+  "markov_sub0": {
+   "primeira_falha": [
+    20.3,
+    37.5,
+    57.5,
+    37
+   ],
+   "reservas_no_piso": [
+    2.2,
+    4.0,
+    5.6,
+    ">48"
+   ],
+   "compras_medias_48m_usd_bi": 51.64
+  },
+  "markov_sub1": {
+   "primeira_falha": [
+    3.6,
+    8.7,
+    16.6,
+    ">48"
+   ],
+   "reservas_no_piso": [
+    4.8,
+    10.4,
+    18.7,
+    ">48"
+   ],
+   "compras_medias_48m_usd_bi": 51.64
+  },
+  "markov_D1_normais_zerados": {
+   "primeira_falha": [
+    11.8,
+    23.5,
+    48.9,
+    ">48"
+   ],
+   "reservas_no_piso": [
+    0.8,
+    1.8,
+    6.5,
+    ">48"
+   ],
+   "compras_medias_48m_usd_bi": 7.31
+  },
+  "markov_D2_sem_compras_normais": {
+   "primeira_falha": [
+    21.3,
+    41.2,
+    67.3,
+    31
+   ],
+   "reservas_no_piso": [
+    4.6,
+    14.5,
+    41.3,
+    ">48"
+   ],
+   "compras_medias_48m_usd_bi": 7.31
+  },
+  "markov_D1_sub1": {
+   "primeira_falha": [
+    1.2,
+    3.6,
+    13.2,
+    ">48"
+   ],
+   "reservas_no_piso": [
+    1.6,
+    4.1,
+    13.9,
+    ">48"
+   ],
+   "compras_medias_48m_usd_bi": 7.31
+  }
+ }
+}

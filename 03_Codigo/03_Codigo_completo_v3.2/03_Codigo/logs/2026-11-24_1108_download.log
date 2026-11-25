@@ -1,0 +1,42 @@
+2026-11-24 11:08:35 | META 29723: {'nome': 'Estoque de Swap Cambial - Nocional - diária', 'unidade': 'US$ (milhões)', 'periodicidade': 'D'}
+2026-11-24 11:08:38 | GET https://api.bcb.gov.br/dados/serie/bcdata.sgs.29723/dados?formato=json&dataInicial=01%2F01%2F2001&dataFinal=31%2F12%2F2005 -> 200 (37004 bytes) tentativa 1
+2026-11-24 11:08:40 | GET https://api.bcb.gov.br/dados/serie/bcdata.sgs.29723/dados?formato=json&dataInicial=01%2F01%2F2006&dataFinal=31%2F12%2F2010 -> 200 (52536 bytes) tentativa 1
+2026-11-24 11:08:43 | GET https://api.bcb.gov.br/dados/serie/bcdata.sgs.29723/dados?formato=json&dataInicial=01%2F01%2F2011&dataFinal=31%2F12%2F2015 -> 200 (51932 bytes) tentativa 1
+2026-11-24 11:08:46 | GET https://api.bcb.gov.br/dados/serie/bcdata.sgs.29723/dados?formato=json&dataInicial=01%2F01%2F2016&dataFinal=31%2F12%2F2020 -> 200 (53579 bytes) tentativa 1
+2026-11-24 11:08:49 | GET https://api.bcb.gov.br/dados/serie/bcdata.sgs.29723/dados?formato=json&dataInicial=01%2F01%2F2021&dataFinal=31%2F12%2F2025 -> 200 (54421 bytes) tentativa 1
+2026-11-24 11:08:50 | GET https://api.bcb.gov.br/dados/serie/bcdata.sgs.29723/dados?formato=json&dataInicial=01%2F01%2F2026&dataFinal=24%2F11%2F2026 -> 200 (9432 bytes) tentativa 1
+2026-11-24 11:08:50 | SALVO BCB-SGS_29723_swap_estoque_nocional_oficial_diario_2026-11-24.json sha256=7c5324d808239068a1136fcb59b670734beb8d04f2a48eb3e58c2a7084a50496
+2026-11-24 11:08:50 | OK 29723 swap_estoque_nocional_oficial_diario: 6318 obs, 08/07/2002 a 23/11/2026
+2026-11-24 11:08:51 | META 13967: {'nome': 'Cambio contratado-Operações no segmento comercial-saldo', 'unidade': 'US$ (milhões)', 'periodicidade': 'D'}
+2026-11-24 11:08:51 | GET https://api.bcb.gov.br/dados/serie/bcdata.sgs.13967/dados?formato=json&dataInicial=01%2F01%2F1990&dataFinal=31%2F12%2F1994 -> 404 (112 bytes) tentativa 1
+2026-11-24 11:08:52 | GET https://api.bcb.gov.br/dados/serie/bcdata.sgs.13967/dados?formato=json&dataInicial=01%2F01%2F1995&dataFinal=31%2F12%2F1999 -> 404 (112 bytes) tentativa 1
+2026-11-24 11:08:53 | GET https://api.bcb.gov.br/dados/serie/bcdata.sgs.13967/dados?formato=json&dataInicial=01%2F01%2F2000&dataFinal=31%2F12%2F2004 -> 404 (112 bytes) tentativa 1
+2026-11-24 11:08:54 | GET https://api.bcb.gov.br/dados/serie/bcdata.sgs.13967/dados?formato=json&dataInicial=01%2F01%2F2005&dataFinal=31%2F12%2F2009 -> 200 (15148 bytes) tentativa 1
+2026-11-24 11:08:57 | GET https://api.bcb.gov.br/dados/serie/bcdata.sgs.13967/dados?formato=json&dataInicial=01%2F01%2F2010&dataFinal=31%2F12%2F2014 -> 200 (56957 bytes) tentativa 1
+2026-11-24 11:08:59 | GET https://api.bcb.gov.br/dados/serie/bcdata.sgs.13967/dados?formato=json&dataInicial=01%2F01%2F2015&dataFinal=31%2F12%2F2019 -> 200 (56294 bytes) tentativa 1
+2026-11-24 11:09:02 | GET https://api.bcb.gov.br/dados/serie/bcdata.sgs.13967/dados?formato=json&dataInicial=01%2F01%2F2020&dataFinal=31%2F12%2F2024 -> 200 (56523 bytes) tentativa 1
+2026-11-24 11:09:04 | GET https://api.bcb.gov.br/dados/serie/bcdata.sgs.13967/dados?formato=json&dataInicial=01%2F01%2F2025&dataFinal=24%2F11%2F2026 -> 200 (21140 bytes) tentativa 1
+2026-11-24 11:09:04 | SALVO BCB-SGS_13967_fluxo_cambial_comercial_diario_2026-11-24.json sha256=719fb557dbafbbd6d304692c62728e591851a5f44134ef4f63dfe91d4ff45378
+2026-11-24 11:09:04 | OK 13967 fluxo_cambial_comercial_diario: 4563 obs, 01/09/2008 a 13/11/2026
+2026-11-24 11:09:07 | META 13970: {'nome': 'Cambio contratado-Operações com cliente no segmento financeiro-saldo', 'unidade': 'US$ (milhões)', 'periodicidade': 'D'}
+2026-11-24 11:09:08 | GET https://api.bcb.gov.br/dados/serie/bcdata.sgs.13970/dados?formato=json&dataInicial=01%2F01%2F1990&dataFinal=31%2F12%2F1994 -> 404 (112 bytes) tentativa 1
+2026-11-24 11:09:09 | GET https://api.bcb.gov.br/dados/serie/bcdata.sgs.13970/dados?formato=json&dataInicial=01%2F01%2F1995&dataFinal=31%2F12%2F1999 -> 404 (112 bytes) tentativa 1
+2026-11-24 11:09:11 | GET https://api.bcb.gov.br/dados/serie/bcdata.sgs.13970/dados?formato=json&dataInicial=01%2F01%2F2000&dataFinal=31%2F12%2F2004 -> 404 (112 bytes) tentativa 1
+2026-11-24 11:09:12 | GET https://api.bcb.gov.br/dados/serie/bcdata.sgs.13970/dados?formato=json&dataInicial=01%2F01%2F2005&dataFinal=31%2F12%2F2009 -> 200 (15241 bytes) tentativa 1
+2026-11-24 11:09:16 | GET https://api.bcb.gov.br/dados/serie/bcdata.sgs.13970/dados?formato=json&dataInicial=01%2F01%2F2010&dataFinal=31%2F12%2F2014 -> 200 (57173 bytes) tentativa 1
+2026-11-24 11:09:20 | GET https://api.bcb.gov.br/dados/serie/bcdata.sgs.13970/dados?formato=json&dataInicial=01%2F01%2F2015&dataFinal=31%2F12%2F2019 -> 200 (56962 bytes) tentativa 1
+2026-11-24 11:09:23 | GET https://api.bcb.gov.br/dados/serie/bcdata.sgs.13970/dados?formato=json&dataInicial=01%2F01%2F2020&dataFinal=31%2F12%2F2024 -> 200 (56999 bytes) tentativa 1
+2026-11-24 11:09:25 | GET https://api.bcb.gov.br/dados/serie/bcdata.sgs.13970/dados?formato=json&dataInicial=01%2F01%2F2025&dataFinal=24%2F11%2F2026 -> 200 (21368 bytes) tentativa 1
+2026-11-24 11:09:26 | SALVO BCB-SGS_13970_fluxo_cambial_financeiro_diario_2026-11-24.json sha256=77588c1520946399b90d12daac02e0aba0837cb96d484af4c73f200f650ed3d4
+2026-11-24 11:09:26 | OK 13970 fluxo_cambial_financeiro_diario: 4563 obs, 01/09/2008 a 13/11/2026
+2026-11-24 11:09:27 | META 13962: {'nome': 'Cambio contratado-Operações com clientes no segmento comercial-exportação - total', 'unidade': 'US$ (milhões)', 'periodicidade': 'D'}
+2026-11-24 11:09:28 | GET https://api.bcb.gov.br/dados/serie/bcdata.sgs.13962/dados?formato=json&dataInicial=01%2F01%2F1990&dataFinal=31%2F12%2F1994 -> 404 (112 bytes) tentativa 1
+2026-11-24 11:09:29 | GET https://api.bcb.gov.br/dados/serie/bcdata.sgs.13962/dados?formato=json&dataInicial=01%2F01%2F1995&dataFinal=31%2F12%2F1999 -> 404 (112 bytes) tentativa 1
+2026-11-24 11:09:31 | GET https://api.bcb.gov.br/dados/serie/bcdata.sgs.13962/dados?formato=json&dataInicial=01%2F01%2F2000&dataFinal=31%2F12%2F2004 -> 404 (112 bytes) tentativa 1
+2026-11-24 11:09:32 | GET https://api.bcb.gov.br/dados/serie/bcdata.sgs.13962/dados?formato=json&dataInicial=01%2F01%2F2005&dataFinal=31%2F12%2F2009 -> 200 (15132 bytes) tentativa 1
+2026-11-24 11:09:36 | GET https://api.bcb.gov.br/dados/serie/bcdata.sgs.13962/dados?formato=json&dataInicial=01%2F01%2F2010&dataFinal=31%2F12%2F2014 -> 200 (56981 bytes) tentativa 1
+2026-11-24 11:09:41 | GET https://api.bcb.gov.br/dados/serie/bcdata.sgs.13962/dados?formato=json&dataInicial=01%2F01%2F2015&dataFinal=31%2F12%2F2019 -> 200 (56417 bytes) tentativa 1
+2026-11-24 11:09:45 | GET https://api.bcb.gov.br/dados/serie/bcdata.sgs.13962/dados?formato=json&dataInicial=01%2F01%2F2020&dataFinal=31%2F12%2F2024 -> 200 (56806 bytes) tentativa 1
+2026-11-24 11:09:47 | GET https://api.bcb.gov.br/dados/serie/bcdata.sgs.13962/dados?formato=json&dataInicial=01%2F01%2F2025&dataFinal=24%2F11%2F2026 -> 200 (21337 bytes) tentativa 1
+2026-11-24 11:09:47 | SALVO BCB-SGS_13962_cambio_contratado_exportacao_diario_2026-11-24.json sha256=d51d5c2afe3641e80d102dba4a3096c91b67cb164052ba48db8e0dcfb849e8f8
+2026-11-24 11:09:47 | OK 13962 cambio_contratado_exportacao_diario: 4563 obs, 01/09/2008 a 13/11/2026

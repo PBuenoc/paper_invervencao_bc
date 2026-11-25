@@ -1,0 +1,76 @@
+C:\Users\PedroBueno\Downloads\Pesquisa_BC\03_Codigo\03_Codigo_completo_v3.2\03_Codigo\09_persistencia.py:201: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`). Please use a specific unit instead.
+  a, z = cam.loc[:pd.Timestamp(ini) - pd.Timedelta(days=1)], cam.loc[:pd.Timestamp(fim)]
+2026-11-24 11:54:54 | Etapa 5 concluída em 13.3s
+                                            mediana_incondicional       p_esgotar_ate_H       
+horizonte_meses                                                12    48              12     48
+persistencia        versao           lambda                                                   
+episódio único      não substituível 0.5                      NaN   NaN           0.290  0.290
+                                     1.0                      9.0   9.0           0.583  0.583
+                                     1.5                      2.0   2.0           0.861  0.861
+                                     2.0                      2.0   2.0           0.861  0.861
+                    substituível     0.5                      NaN   NaN           0.000  0.000
+                                     1.0                      NaN   NaN           0.143  0.143
+                                     1.5                      3.0   3.0           0.571  0.571
+                                     2.0                      2.0   2.0           0.861  0.861
+permanente          não substituível 0.5                     10.0  10.0           0.584  1.000
+                                     1.0                      6.0   6.0           1.000  1.000
+                                     1.5                      4.0   4.0           1.000  1.000
+                                     2.0                      3.0   3.0           1.000  1.000
+                    substituível     0.5                      NaN  25.0           0.075  1.000
+                                     1.0                     11.0  11.0           0.583  1.000
+                                     1.5                      7.0   7.0           0.689  1.000
+                                     2.0                      6.0   6.0           0.996  1.000
+recorrente 0,25/ano não substituível 0.5                      NaN  40.0           0.325  0.546
+                                     1.0                      9.0   9.0           0.643  0.814
+                                     1.5                      2.0   2.0           0.886  0.941
+                                     2.0                      2.0   2.0           0.886  0.942
+                    substituível     0.5                      NaN   NaN           0.002  0.170
+                                     1.0                      NaN  41.0           0.224  0.554
+                                     1.5                      3.0   3.0           0.615  0.806
+                                     2.0                      2.0   2.0           0.884  0.940
+recorrente 0,50/ano não substituível 0.5                      NaN  25.0           0.355  0.712
+                                     1.0                      9.0   9.0           0.692  0.914
+                                     1.5                      2.0   2.0           0.907  0.975
+                                     2.0                      2.0   2.0           0.909  0.976
+                    substituível     0.5                      NaN   NaN           0.006  0.356
+                                     1.0                      NaN  25.0           0.292  0.771
+                                     1.5                      3.0   3.0           0.649  0.911
+                                     2.0                      2.0   2.0           0.903  0.974
+    episodio  meses_episodio            versao  T_F  T_R  T_S
+2       2002              13      substituível  inf  inf  9.0
+3       2002              13  não substituível  9.0  inf  9.0
+10      2008               5      substituível  inf  inf  2.0
+11      2008               5  não substituível  2.0  inf  2.0
+18      2013              23      substituível  5.0  5.0  2.0
+19      2013              23  não substituível  2.0  inf  2.0
+26      2015               1      substituível  inf  inf  inf
+27      2015               1  não substituível  inf  inf  inf
+34      2018               2      substituível  inf  inf  2.0
+35      2018               2  não substituível  2.0  inf  2.0
+42  mar/2020               5      substituível  inf  inf  inf
+43  mar/2020               5  não substituível  inf  inf  inf
+50  dez/2024               3      substituível  inf  inf  inf
+51  dez/2024               3  não substituível  inf  inf  inf
+teto     pico +50% (hipótese sem âncora histórica)              pico escalado pelo PIB em US$              pico histórico (preferência revelada)              sem teto (limite só nas reservas)             
+versao                            não substituível substituível              não substituível substituível                      não substituível substituível                  não substituível substituível
+episodio                                                                                                                                                                                                    
+2002                                          2.43         3.06                          0.85         1.78                                  0.67         1.63                              4.67          inf
+2008                                          1.65         2.08                          0.81         1.20                                  0.63         1.10                              1.65          inf
+2013                                          0.69         0.98                          0.24         0.57                                  0.19         0.52                              2.65          inf
+2015                                          5.40         9.94                          5.40         5.70                                  4.89         5.21                              5.40          inf
+2018                                          1.45         2.05                          0.51         1.18                                  0.40         1.08                              9.97          inf
+dez/2024                                      1.04         2.96                          1.04         1.71                                  1.04         1.56                              1.04          inf
+mar/2020                                      1.02         1.92                          1.02         1.11                                  1.01         1.01                              1.02          inf
+                                                                               passo            versao  p_falha_12  p_falha_48  mediana_incondicional_48  mediana_entre_falhas_48
+0   v2: episódios v2, piso M4 sem intercompanhia, sem devolução das linhas em aberto      substituível       0.620       1.000                       9.0                      9.0
+1   v2: episódios v2, piso M4 sem intercompanhia, sem devolução das linhas em aberto  não substituível       1.000       1.000                       6.0                      6.0
+2                                            + piso v3 (M3 + DCP com intercompanhia)      substituível       0.572       1.000                      10.0                     10.0
+3                                            + piso v3 (M3 + DCP com intercompanhia)  não substituível       1.000       1.000                       6.0                      6.0
+4                                     + devolução das linhas em aberto (US$ 4.05 bi)      substituível       0.564       1.000                      11.0                     11.0
+5                                     + devolução das linhas em aberto (US$ 4.05 bi)  não substituível       1.000       1.000                       7.0                      7.0
+6                                      + episódio de 2018 na lista (= permanente v3)      substituível       0.583       1.000                      11.0                     11.0
+7                                      + episódio de 2018 na lista (= permanente v3)  não substituível       1.000       1.000                       6.0                      6.0
+8                                + persistência: recorrente 0,25/ano (calmaria zero)      substituível       0.224       0.554                      41.0                     17.0
+9                                + persistência: recorrente 0,25/ano (calmaria zero)  não substituível       0.643       0.814                       9.0                      2.0
+10                                                    + persistência: episódio único      substituível       0.143       0.143                       NaN                      5.0
+11                                                    + persistência: episódio único  não substituível       0.583       0.583                       9.0                      2.0

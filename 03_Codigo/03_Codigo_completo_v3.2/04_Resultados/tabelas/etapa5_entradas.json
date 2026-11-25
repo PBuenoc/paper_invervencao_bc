@@ -1,0 +1,174 @@
+{
+  "data_ref": "2026-06-30",
+  "R0": 367.558,
+  "S0": 93.25000000000036,
+  "pisos": {
+    "100% ARA (M3_IC)": 327.94800853379326,
+    "100% ARA (M4, v2)": 336.5503787164058,
+    "Greenspan-Guidotti (v3)": 224.42771026601
+  },
+  "piso_base": "100% ARA (M3_IC)",
+  "tetos": {
+    "pico histórico (preferência revelada)": 114.91800000000038,
+    "pico escalado pelo PIB em US$": 120.90448526150932,
+    "pico escalado pelas reservas": 116.44308450036424,
+    "pico +25% (hipótese sem âncora histórica)": 143.64750000000046,
+    "pico +50% (hipótese sem âncora histórica)": 172.37700000000058
+  },
+  "teto_base": "pico histórico (preferência revelada)",
+  "linhas_abertas": [
+    {
+      "data": "2026-02-20",
+      "volume_aceito_usd_bi": 0.25,
+      "data_vencimento": "2026-07-02",
+      "mes": 1
+    },
+    {
+      "data": "2026-03-23",
+      "volume_aceito_usd_bi": 1.8,
+      "data_vencimento": "2026-07-02",
+      "mes": 1
+    },
+    {
+      "data": "2026-05-12",
+      "volume_aceito_usd_bi": 0.5,
+      "data_vencimento": "2026-09-02",
+      "mes": 3
+    },
+    {
+      "data": "2026-05-12",
+      "volume_aceito_usd_bi": 0.5,
+      "data_vencimento": "2026-11-04",
+      "mes": 5
+    },
+    {
+      "data": "2026-05-22",
+      "volume_aceito_usd_bi": 0.5,
+      "data_vencimento": "2026-09-02",
+      "mes": 3
+    },
+    {
+      "data": "2026-05-22",
+      "volume_aceito_usd_bi": 0.5,
+      "data_vencimento": "2026-11-04",
+      "mes": 5
+    }
+  ],
+  "entradas_linhas": [
+    2.05,
+    0.0,
+    1.0,
+    0.0,
+    1.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "juros_mensal_mediana": 0.6216474387023865,
+  "juros_periodo": [
+    "2018-07-01",
+    "2026-09-01"
+  ],
+  "hazard_mensal": {
+    "episódio único": 0.0,
+    "recorrente 0,25/ano": 0.02061781866875978,
+    "recorrente 0,50/ano": 0.040810542890861834
+  },
+  "n_blocos_calma_historica": 245,
+  "calma_historica_media_avista": -0.9491889425665003,
+  "calma_historica_media_swap": -0.6028327947638387,
+  "calma_historica_compras_soma": 295.76873210526315,
+  "episodios": [
+    "2002",
+    "2008",
+    "2013",
+    "2015",
+    "2018",
+    "mar/2020",
+    "dez/2024"
+  ],
+  "meses_por_episodio": [
+    13,
+    5,
+    23,
+    1,
+    2,
+    5,
+    3
+  ],
+  "prazo_global_meses": 5,
+  "ara_dinamica_piso": {
+    "permanente": {
+      "mediana": 285.1722641820962,
+      "p10": 261.98271885248323,
+      "p90": 325.3901100233952,
+      "mediana_mes12": 323.273167533619
+    },
+    "recorrente 0,25/ano": {
+      "mediana": 351.3493984134251,
+      "p10": 316.56543039088916,
+      "p90": 388.64307995234344,
+      "mediana_mes12": 330.86777586966645
+    },
+    "episódio único": {
+      "mediana": 377.59157808281464,
+      "p10": 328.2330676741617,
+      "p90": 404.22964755836085,
+      "mediana_mes12": 330.86777586966645
+    }
+  },
+  "g_m3": 0.10288919331773294,
+  "fluxo_b_mensal": 3.3351443611524494,
+  "episodios_robustez": [
+    "2002",
+    "2008",
+    "2013",
+    "2015",
+    "2018",
+    "mar/2020",
+    "dez/2024",
+    "extra 01/2021",
+    "extra 01/2022"
+  ],
+  "segundos": 14.7
+}

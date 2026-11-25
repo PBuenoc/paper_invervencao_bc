@@ -1,0 +1,337 @@
+cenario,lambda,versao,f,mes_entrada,aporte_usd_bi,delta,horizonte_meses,p_esgotar_ate_H,mediana_entre_esgotadas,p10_entre_esgotadas,p90_entre_esgotadas
+b) dólares de exportadores (lei nova),0.5,não substituível,0.1,1.0,3.615699999999999,,12,0.5567,7.0,5.0,11.0
+b) dólares de exportadores (lei nova),0.5,não substituível,0.1,1.0,3.615699999999999,,24,1.0,11.0,5.0,18.0
+b) dólares de exportadores (lei nova),0.5,não substituível,0.1,1.0,3.615699999999999,,36,1.0,11.0,5.0,18.0
+b) dólares de exportadores (lei nova),0.5,não substituível,0.1,1.0,3.615699999999999,,48,1.0,11.0,5.0,18.0
+b) dólares de exportadores (lei nova),0.5,não substituível,0.1,6.0,3.615699999999999,,12,0.5567,7.0,5.0,11.0
+b) dólares de exportadores (lei nova),0.5,não substituível,0.1,6.0,3.615699999999999,,24,1.0,11.0,5.0,18.0
+b) dólares de exportadores (lei nova),0.5,não substituível,0.1,6.0,3.615699999999999,,36,1.0,11.0,5.0,18.0
+b) dólares de exportadores (lei nova),0.5,não substituível,0.1,6.0,3.615699999999999,,48,1.0,11.0,5.0,18.0
+b) dólares de exportadores (lei nova),0.5,não substituível,0.1,12.0,3.615699999999999,,12,0.5587,7.0,5.0,11.0
+b) dólares de exportadores (lei nova),0.5,não substituível,0.1,12.0,3.615699999999999,,24,1.0,11.0,5.0,18.0
+b) dólares de exportadores (lei nova),0.5,não substituível,0.1,12.0,3.615699999999999,,36,1.0,11.0,5.0,18.0
+b) dólares de exportadores (lei nova),0.5,não substituível,0.1,12.0,3.615699999999999,,48,1.0,11.0,5.0,18.0
+b) dólares de exportadores (lei nova),0.5,não substituível,0.25,1.0,9.039249999999996,,12,0.5558,7.0,5.0,11.0
+b) dólares de exportadores (lei nova),0.5,não substituível,0.25,1.0,9.039249999999996,,24,1.0,11.0,5.0,18.0
+b) dólares de exportadores (lei nova),0.5,não substituível,0.25,1.0,9.039249999999996,,36,1.0,11.0,5.0,18.0
+b) dólares de exportadores (lei nova),0.5,não substituível,0.25,1.0,9.039249999999996,,48,1.0,11.0,5.0,18.0
+b) dólares de exportadores (lei nova),0.5,não substituível,0.25,6.0,9.039249999999996,,12,0.5558,7.0,5.0,11.0
+b) dólares de exportadores (lei nova),0.5,não substituível,0.25,6.0,9.039249999999996,,24,1.0,11.0,5.0,18.0
+b) dólares de exportadores (lei nova),0.5,não substituível,0.25,6.0,9.039249999999996,,36,1.0,11.0,5.0,18.0
+b) dólares de exportadores (lei nova),0.5,não substituível,0.25,6.0,9.039249999999996,,48,1.0,11.0,5.0,18.0
+b) dólares de exportadores (lei nova),0.5,não substituível,0.25,12.0,9.039249999999996,,12,0.5585,7.0,5.0,11.0
+b) dólares de exportadores (lei nova),0.5,não substituível,0.25,12.0,9.039249999999996,,24,1.0,11.0,5.0,18.0
+b) dólares de exportadores (lei nova),0.5,não substituível,0.25,12.0,9.039249999999996,,36,1.0,11.0,5.0,18.0
+b) dólares de exportadores (lei nova),0.5,não substituível,0.25,12.0,9.039249999999996,,48,1.0,11.0,5.0,18.0
+b) dólares de exportadores (lei nova),0.5,não substituível,0.5,1.0,18.07849999999999,,12,0.5524,7.0,5.0,11.0
+b) dólares de exportadores (lei nova),0.5,não substituível,0.5,1.0,18.07849999999999,,24,1.0,11.0,5.0,18.0
+b) dólares de exportadores (lei nova),0.5,não substituível,0.5,1.0,18.07849999999999,,36,1.0,11.0,5.0,18.0
+b) dólares de exportadores (lei nova),0.5,não substituível,0.5,1.0,18.07849999999999,,48,1.0,11.0,5.0,18.0
+b) dólares de exportadores (lei nova),0.5,não substituível,0.5,6.0,18.07849999999999,,12,0.5536,7.0,5.0,11.0
+b) dólares de exportadores (lei nova),0.5,não substituível,0.5,6.0,18.07849999999999,,24,1.0,11.0,5.0,18.0
+b) dólares de exportadores (lei nova),0.5,não substituível,0.5,6.0,18.07849999999999,,36,1.0,11.0,5.0,18.0
+b) dólares de exportadores (lei nova),0.5,não substituível,0.5,6.0,18.07849999999999,,48,1.0,11.0,5.0,18.0
+b) dólares de exportadores (lei nova),0.5,não substituível,0.5,12.0,18.07849999999999,,12,0.5585,7.0,5.0,11.0
+b) dólares de exportadores (lei nova),0.5,não substituível,0.5,12.0,18.07849999999999,,24,1.0,11.0,5.0,18.0
+b) dólares de exportadores (lei nova),0.5,não substituível,0.5,12.0,18.07849999999999,,36,1.0,11.0,5.0,18.0
+b) dólares de exportadores (lei nova),0.5,não substituível,0.5,12.0,18.07849999999999,,48,1.0,11.0,5.0,18.0
+b) dólares de exportadores (lei nova),0.5,substituível,0.1,1.0,3.615699999999999,,12,0.1289,11.0,9.0,12.0
+b) dólares de exportadores (lei nova),0.5,substituível,0.1,1.0,3.615699999999999,,24,0.817,20.0,11.0,23.0
+b) dólares de exportadores (lei nova),0.5,substituível,0.1,1.0,3.615699999999999,,36,0.9827,21.0,11.0,28.0
+b) dólares de exportadores (lei nova),0.5,substituível,0.1,1.0,3.615699999999999,,48,1.0,21.0,11.0,29.0
+b) dólares de exportadores (lei nova),0.5,substituível,0.1,6.0,3.615699999999999,,12,0.1289,11.0,9.0,12.0
+b) dólares de exportadores (lei nova),0.5,substituível,0.1,6.0,3.615699999999999,,24,0.8169,20.0,11.0,23.0
+b) dólares de exportadores (lei nova),0.5,substituível,0.1,6.0,3.615699999999999,,36,0.9827,21.0,11.0,28.0
+b) dólares de exportadores (lei nova),0.5,substituível,0.1,6.0,3.615699999999999,,48,1.0,21.0,11.0,29.0
+b) dólares de exportadores (lei nova),0.5,substituível,0.1,12.0,3.615699999999999,,12,0.1538,10.0,8.0,11.0
+b) dólares de exportadores (lei nova),0.5,substituível,0.1,12.0,3.615699999999999,,24,0.817,20.0,10.0,23.0
+b) dólares de exportadores (lei nova),0.5,substituível,0.1,12.0,3.615699999999999,,36,0.9827,21.0,10.0,28.0
+b) dólares de exportadores (lei nova),0.5,substituível,0.1,12.0,3.615699999999999,,48,1.0,21.0,10.0,29.0
+b) dólares de exportadores (lei nova),0.5,substituível,0.25,1.0,9.039249999999996,,12,0.0944,11.0,10.0,12.0
+b) dólares de exportadores (lei nova),0.5,substituível,0.25,1.0,9.039249999999996,,24,0.6491,22.0,12.0,24.0
+b) dólares de exportadores (lei nova),0.5,substituível,0.25,1.0,9.039249999999996,,36,0.9694,23.0,13.0,29.0
+b) dólares de exportadores (lei nova),0.5,substituível,0.25,1.0,9.039249999999996,,48,1.0,23.0,13.0,31.0
+b) dólares de exportadores (lei nova),0.5,substituível,0.25,6.0,9.039249999999996,,12,0.0944,11.0,10.0,12.0
+b) dólares de exportadores (lei nova),0.5,substituível,0.25,6.0,9.039249999999996,,24,0.6491,22.0,12.0,24.0
+b) dólares de exportadores (lei nova),0.5,substituível,0.25,6.0,9.039249999999996,,36,0.9694,23.0,13.0,29.0
+b) dólares de exportadores (lei nova),0.5,substituível,0.25,6.0,9.039249999999996,,48,1.0,23.0,13.0,31.0
+b) dólares de exportadores (lei nova),0.5,substituível,0.25,12.0,9.039249999999996,,12,0.1475,10.0,8.0,11.0
+b) dólares de exportadores (lei nova),0.5,substituível,0.25,12.0,9.039249999999996,,24,0.65,22.0,9.900000000000093,24.0
+b) dólares de exportadores (lei nova),0.5,substituível,0.25,12.0,9.039249999999996,,36,0.9694,23.0,10.0,29.0
+b) dólares de exportadores (lei nova),0.5,substituível,0.25,12.0,9.039249999999996,,48,1.0,23.0,10.0,31.0
+b) dólares de exportadores (lei nova),0.5,substituível,0.5,1.0,18.07849999999999,,12,0.0069,12.0,10.0,12.0
+b) dólares de exportadores (lei nova),0.5,substituível,0.5,1.0,18.07849999999999,,24,0.2663,22.0,14.0,24.0
+b) dólares de exportadores (lei nova),0.5,substituível,0.5,1.0,18.07849999999999,,36,0.9464,27.0,19.0,33.0
+b) dólares de exportadores (lei nova),0.5,substituível,0.5,1.0,18.07849999999999,,48,0.9999,27.0,19.0,34.0
+b) dólares de exportadores (lei nova),0.5,substituível,0.5,6.0,18.07849999999999,,12,0.0068,12.0,10.0,12.0
+b) dólares de exportadores (lei nova),0.5,substituível,0.5,6.0,18.07849999999999,,24,0.2663,22.0,14.0,24.0
+b) dólares de exportadores (lei nova),0.5,substituível,0.5,6.0,18.07849999999999,,36,0.9464,27.0,19.0,33.0
+b) dólares de exportadores (lei nova),0.5,substituível,0.5,6.0,18.07849999999999,,48,0.9999,27.0,19.0,34.0
+b) dólares de exportadores (lei nova),0.5,substituível,0.5,12.0,18.07849999999999,,12,0.1469,10.0,8.0,11.0
+b) dólares de exportadores (lei nova),0.5,substituível,0.5,12.0,18.07849999999999,,24,0.3006,15.0,9.0,24.0
+b) dólares de exportadores (lei nova),0.5,substituível,0.5,12.0,18.07849999999999,,36,0.9464,26.0,10.0,33.0
+b) dólares de exportadores (lei nova),0.5,substituível,0.5,12.0,18.07849999999999,,48,0.9999,27.0,10.0,34.0
+b) dólares de exportadores (lei nova),1.0,não substituível,0.1,1.0,3.615699999999999,,12,1.0,6.0,2.0,10.0
+b) dólares de exportadores (lei nova),1.0,não substituível,0.1,1.0,3.615699999999999,,24,1.0,6.0,2.0,10.0
+b) dólares de exportadores (lei nova),1.0,não substituível,0.1,1.0,3.615699999999999,,36,1.0,6.0,2.0,10.0
+b) dólares de exportadores (lei nova),1.0,não substituível,0.1,1.0,3.615699999999999,,48,1.0,6.0,2.0,10.0
+b) dólares de exportadores (lei nova),1.0,não substituível,0.1,6.0,3.615699999999999,,12,1.0,6.0,2.0,10.0
+b) dólares de exportadores (lei nova),1.0,não substituível,0.1,6.0,3.615699999999999,,24,1.0,6.0,2.0,10.0
+b) dólares de exportadores (lei nova),1.0,não substituível,0.1,6.0,3.615699999999999,,36,1.0,6.0,2.0,10.0
+b) dólares de exportadores (lei nova),1.0,não substituível,0.1,6.0,3.615699999999999,,48,1.0,6.0,2.0,10.0
+b) dólares de exportadores (lei nova),1.0,não substituível,0.1,12.0,3.615699999999999,,12,1.0,6.0,2.0,10.0
+b) dólares de exportadores (lei nova),1.0,não substituível,0.1,12.0,3.615699999999999,,24,1.0,6.0,2.0,10.0
+b) dólares de exportadores (lei nova),1.0,não substituível,0.1,12.0,3.615699999999999,,36,1.0,6.0,2.0,10.0
+b) dólares de exportadores (lei nova),1.0,não substituível,0.1,12.0,3.615699999999999,,48,1.0,6.0,2.0,10.0
+b) dólares de exportadores (lei nova),1.0,não substituível,0.25,1.0,9.039249999999996,,12,1.0,6.0,2.0,10.0
+b) dólares de exportadores (lei nova),1.0,não substituível,0.25,1.0,9.039249999999996,,24,1.0,6.0,2.0,10.0
+b) dólares de exportadores (lei nova),1.0,não substituível,0.25,1.0,9.039249999999996,,36,1.0,6.0,2.0,10.0
+b) dólares de exportadores (lei nova),1.0,não substituível,0.25,1.0,9.039249999999996,,48,1.0,6.0,2.0,10.0
+b) dólares de exportadores (lei nova),1.0,não substituível,0.25,6.0,9.039249999999996,,12,1.0,6.0,2.0,10.0
+b) dólares de exportadores (lei nova),1.0,não substituível,0.25,6.0,9.039249999999996,,24,1.0,6.0,2.0,10.0
+b) dólares de exportadores (lei nova),1.0,não substituível,0.25,6.0,9.039249999999996,,36,1.0,6.0,2.0,10.0
+b) dólares de exportadores (lei nova),1.0,não substituível,0.25,6.0,9.039249999999996,,48,1.0,6.0,2.0,10.0
+b) dólares de exportadores (lei nova),1.0,não substituível,0.25,12.0,9.039249999999996,,12,1.0,6.0,2.0,10.0
+b) dólares de exportadores (lei nova),1.0,não substituível,0.25,12.0,9.039249999999996,,24,1.0,6.0,2.0,10.0
+b) dólares de exportadores (lei nova),1.0,não substituível,0.25,12.0,9.039249999999996,,36,1.0,6.0,2.0,10.0
+b) dólares de exportadores (lei nova),1.0,não substituível,0.25,12.0,9.039249999999996,,48,1.0,6.0,2.0,10.0
+b) dólares de exportadores (lei nova),1.0,não substituível,0.5,1.0,18.07849999999999,,12,0.9987,7.0,2.0,10.0
+b) dólares de exportadores (lei nova),1.0,não substituível,0.5,1.0,18.07849999999999,,24,1.0,7.0,2.0,10.0
+b) dólares de exportadores (lei nova),1.0,não substituível,0.5,1.0,18.07849999999999,,36,1.0,7.0,2.0,10.0
+b) dólares de exportadores (lei nova),1.0,não substituível,0.5,1.0,18.07849999999999,,48,1.0,7.0,2.0,10.0
+b) dólares de exportadores (lei nova),1.0,não substituível,0.5,6.0,18.07849999999999,,12,0.9987,6.0,2.0,10.0
+b) dólares de exportadores (lei nova),1.0,não substituível,0.5,6.0,18.07849999999999,,24,1.0,6.0,2.0,10.0
+b) dólares de exportadores (lei nova),1.0,não substituível,0.5,6.0,18.07849999999999,,36,1.0,6.0,2.0,10.0
+b) dólares de exportadores (lei nova),1.0,não substituível,0.5,6.0,18.07849999999999,,48,1.0,6.0,2.0,10.0
+b) dólares de exportadores (lei nova),1.0,não substituível,0.5,12.0,18.07849999999999,,12,1.0,6.0,2.0,10.0
+b) dólares de exportadores (lei nova),1.0,não substituível,0.5,12.0,18.07849999999999,,24,1.0,6.0,2.0,10.0
+b) dólares de exportadores (lei nova),1.0,não substituível,0.5,12.0,18.07849999999999,,36,1.0,6.0,2.0,10.0
+b) dólares de exportadores (lei nova),1.0,não substituível,0.5,12.0,18.07849999999999,,48,1.0,6.0,2.0,10.0
+b) dólares de exportadores (lei nova),1.0,substituível,0.1,1.0,3.615699999999999,,12,0.5812,6.0,4.0,11.0
+b) dólares de exportadores (lei nova),1.0,substituível,0.1,1.0,3.615699999999999,,24,1.0,10.0,4.0,18.0
+b) dólares de exportadores (lei nova),1.0,substituível,0.1,1.0,3.615699999999999,,36,1.0,10.0,4.0,18.0
+b) dólares de exportadores (lei nova),1.0,substituível,0.1,1.0,3.615699999999999,,48,1.0,10.0,4.0,18.0
+b) dólares de exportadores (lei nova),1.0,substituível,0.1,6.0,3.615699999999999,,12,0.5812,5.0,4.0,11.0
+b) dólares de exportadores (lei nova),1.0,substituível,0.1,6.0,3.615699999999999,,24,1.0,10.0,4.0,18.0
+b) dólares de exportadores (lei nova),1.0,substituível,0.1,6.0,3.615699999999999,,36,1.0,10.0,4.0,18.0
+b) dólares de exportadores (lei nova),1.0,substituível,0.1,6.0,3.615699999999999,,48,1.0,10.0,4.0,18.0
+b) dólares de exportadores (lei nova),1.0,substituível,0.1,12.0,3.615699999999999,,12,0.604,5.0,4.0,10.0
+b) dólares de exportadores (lei nova),1.0,substituível,0.1,12.0,3.615699999999999,,24,1.0,9.0,4.0,18.0
+b) dólares de exportadores (lei nova),1.0,substituível,0.1,12.0,3.615699999999999,,36,1.0,9.0,4.0,18.0
+b) dólares de exportadores (lei nova),1.0,substituível,0.1,12.0,3.615699999999999,,48,1.0,9.0,4.0,18.0
+b) dólares de exportadores (lei nova),1.0,substituível,0.25,1.0,9.039249999999996,,12,0.5718,6.0,5.0,11.0
+b) dólares de exportadores (lei nova),1.0,substituível,0.25,1.0,9.039249999999996,,24,1.0,10.0,5.0,19.0
+b) dólares de exportadores (lei nova),1.0,substituível,0.25,1.0,9.039249999999996,,36,1.0,10.0,5.0,19.0
+b) dólares de exportadores (lei nova),1.0,substituível,0.25,1.0,9.039249999999996,,48,1.0,10.0,5.0,19.0
+b) dólares de exportadores (lei nova),1.0,substituível,0.25,6.0,9.039249999999996,,12,0.5718,5.0,4.0,11.0
+b) dólares de exportadores (lei nova),1.0,substituível,0.25,6.0,9.039249999999996,,24,1.0,10.0,4.0,19.0
+b) dólares de exportadores (lei nova),1.0,substituível,0.25,6.0,9.039249999999996,,36,1.0,10.0,4.0,19.0
+b) dólares de exportadores (lei nova),1.0,substituível,0.25,6.0,9.039249999999996,,48,1.0,10.0,4.0,19.0
+b) dólares de exportadores (lei nova),1.0,substituível,0.25,12.0,9.039249999999996,,12,0.6038,5.0,4.0,10.0
+b) dólares de exportadores (lei nova),1.0,substituível,0.25,12.0,9.039249999999996,,24,1.0,9.0,4.0,19.0
+b) dólares de exportadores (lei nova),1.0,substituível,0.25,12.0,9.039249999999996,,36,1.0,9.0,4.0,19.0
+b) dólares de exportadores (lei nova),1.0,substituível,0.25,12.0,9.039249999999996,,48,1.0,9.0,4.0,19.0
+b) dólares de exportadores (lei nova),1.0,substituível,0.5,1.0,18.07849999999999,,12,0.5067,7.0,6.0,12.0
+b) dólares de exportadores (lei nova),1.0,substituível,0.5,1.0,18.07849999999999,,24,0.9657,12.0,6.0,20.0
+b) dólares de exportadores (lei nova),1.0,substituível,0.5,1.0,18.07849999999999,,36,1.0,12.0,6.0,21.0
+b) dólares de exportadores (lei nova),1.0,substituível,0.5,1.0,18.07849999999999,,48,1.0,12.0,6.0,21.0
+b) dólares de exportadores (lei nova),1.0,substituível,0.5,6.0,18.07849999999999,,12,0.5483,5.0,4.0,11.0
+b) dólares de exportadores (lei nova),1.0,substituível,0.5,6.0,18.07849999999999,,24,0.9657,11.0,4.0,20.0
+b) dólares de exportadores (lei nova),1.0,substituível,0.5,6.0,18.07849999999999,,36,1.0,12.0,4.0,21.0
+b) dólares de exportadores (lei nova),1.0,substituível,0.5,6.0,18.07849999999999,,48,1.0,12.0,4.0,21.0
+b) dólares de exportadores (lei nova),1.0,substituível,0.5,12.0,18.07849999999999,,12,0.5935,5.0,4.0,10.0
+b) dólares de exportadores (lei nova),1.0,substituível,0.5,12.0,18.07849999999999,,24,0.9657,9.0,4.0,20.0
+b) dólares de exportadores (lei nova),1.0,substituível,0.5,12.0,18.07849999999999,,36,1.0,9.0,4.0,21.0
+b) dólares de exportadores (lei nova),1.0,substituível,0.5,12.0,18.07849999999999,,48,1.0,9.0,4.0,21.0
+b) dólares de exportadores (lei nova),1.5,não substituível,0.1,1.0,3.615699999999999,,12,1.0,4.0,2.0,7.0
+b) dólares de exportadores (lei nova),1.5,não substituível,0.1,1.0,3.615699999999999,,24,1.0,4.0,2.0,7.0
+b) dólares de exportadores (lei nova),1.5,não substituível,0.1,1.0,3.615699999999999,,36,1.0,4.0,2.0,7.0
+b) dólares de exportadores (lei nova),1.5,não substituível,0.1,1.0,3.615699999999999,,48,1.0,4.0,2.0,7.0
+b) dólares de exportadores (lei nova),1.5,não substituível,0.1,6.0,3.615699999999999,,12,1.0,4.0,2.0,7.0
+b) dólares de exportadores (lei nova),1.5,não substituível,0.1,6.0,3.615699999999999,,24,1.0,4.0,2.0,7.0
+b) dólares de exportadores (lei nova),1.5,não substituível,0.1,6.0,3.615699999999999,,36,1.0,4.0,2.0,7.0
+b) dólares de exportadores (lei nova),1.5,não substituível,0.1,6.0,3.615699999999999,,48,1.0,4.0,2.0,7.0
+b) dólares de exportadores (lei nova),1.5,não substituível,0.1,12.0,3.615699999999999,,12,1.0,4.0,2.0,7.0
+b) dólares de exportadores (lei nova),1.5,não substituível,0.1,12.0,3.615699999999999,,24,1.0,4.0,2.0,7.0
+b) dólares de exportadores (lei nova),1.5,não substituível,0.1,12.0,3.615699999999999,,36,1.0,4.0,2.0,7.0
+b) dólares de exportadores (lei nova),1.5,não substituível,0.1,12.0,3.615699999999999,,48,1.0,4.0,2.0,7.0
+b) dólares de exportadores (lei nova),1.5,não substituível,0.25,1.0,9.039249999999996,,12,1.0,4.0,2.0,7.0
+b) dólares de exportadores (lei nova),1.5,não substituível,0.25,1.0,9.039249999999996,,24,1.0,4.0,2.0,7.0
+b) dólares de exportadores (lei nova),1.5,não substituível,0.25,1.0,9.039249999999996,,36,1.0,4.0,2.0,7.0
+b) dólares de exportadores (lei nova),1.5,não substituível,0.25,1.0,9.039249999999996,,48,1.0,4.0,2.0,7.0
+b) dólares de exportadores (lei nova),1.5,não substituível,0.25,6.0,9.039249999999996,,12,1.0,4.0,2.0,7.0
+b) dólares de exportadores (lei nova),1.5,não substituível,0.25,6.0,9.039249999999996,,24,1.0,4.0,2.0,7.0
+b) dólares de exportadores (lei nova),1.5,não substituível,0.25,6.0,9.039249999999996,,36,1.0,4.0,2.0,7.0
+b) dólares de exportadores (lei nova),1.5,não substituível,0.25,6.0,9.039249999999996,,48,1.0,4.0,2.0,7.0
+b) dólares de exportadores (lei nova),1.5,não substituível,0.25,12.0,9.039249999999996,,12,1.0,4.0,2.0,7.0
+b) dólares de exportadores (lei nova),1.5,não substituível,0.25,12.0,9.039249999999996,,24,1.0,4.0,2.0,7.0
+b) dólares de exportadores (lei nova),1.5,não substituível,0.25,12.0,9.039249999999996,,36,1.0,4.0,2.0,7.0
+b) dólares de exportadores (lei nova),1.5,não substituível,0.25,12.0,9.039249999999996,,48,1.0,4.0,2.0,7.0
+b) dólares de exportadores (lei nova),1.5,não substituível,0.5,1.0,18.07849999999999,,12,1.0,4.0,2.0,7.0
+b) dólares de exportadores (lei nova),1.5,não substituível,0.5,1.0,18.07849999999999,,24,1.0,4.0,2.0,7.0
+b) dólares de exportadores (lei nova),1.5,não substituível,0.5,1.0,18.07849999999999,,36,1.0,4.0,2.0,7.0
+b) dólares de exportadores (lei nova),1.5,não substituível,0.5,1.0,18.07849999999999,,48,1.0,4.0,2.0,7.0
+b) dólares de exportadores (lei nova),1.5,não substituível,0.5,6.0,18.07849999999999,,12,1.0,4.0,2.0,7.0
+b) dólares de exportadores (lei nova),1.5,não substituível,0.5,6.0,18.07849999999999,,24,1.0,4.0,2.0,7.0
+b) dólares de exportadores (lei nova),1.5,não substituível,0.5,6.0,18.07849999999999,,36,1.0,4.0,2.0,7.0
+b) dólares de exportadores (lei nova),1.5,não substituível,0.5,6.0,18.07849999999999,,48,1.0,4.0,2.0,7.0
+b) dólares de exportadores (lei nova),1.5,não substituível,0.5,12.0,18.07849999999999,,12,1.0,4.0,2.0,7.0
+b) dólares de exportadores (lei nova),1.5,não substituível,0.5,12.0,18.07849999999999,,24,1.0,4.0,2.0,7.0
+b) dólares de exportadores (lei nova),1.5,não substituível,0.5,12.0,18.07849999999999,,36,1.0,4.0,2.0,7.0
+b) dólares de exportadores (lei nova),1.5,não substituível,0.5,12.0,18.07849999999999,,48,1.0,4.0,2.0,7.0
+b) dólares de exportadores (lei nova),1.5,substituível,0.1,1.0,3.615699999999999,,12,0.9109,6.0,3.0,12.0
+b) dólares de exportadores (lei nova),1.5,substituível,0.1,1.0,3.615699999999999,,24,1.0,7.0,3.0,12.0
+b) dólares de exportadores (lei nova),1.5,substituível,0.1,1.0,3.615699999999999,,36,1.0,7.0,3.0,12.0
+b) dólares de exportadores (lei nova),1.5,substituível,0.1,1.0,3.615699999999999,,48,1.0,7.0,3.0,12.0
+b) dólares de exportadores (lei nova),1.5,substituível,0.1,6.0,3.615699999999999,,12,0.9109,6.0,2.0,12.0
+b) dólares de exportadores (lei nova),1.5,substituível,0.1,6.0,3.615699999999999,,24,1.0,7.0,2.0,12.0
+b) dólares de exportadores (lei nova),1.5,substituível,0.1,6.0,3.615699999999999,,36,1.0,7.0,2.0,12.0
+b) dólares de exportadores (lei nova),1.5,substituível,0.1,6.0,3.615699999999999,,48,1.0,7.0,2.0,12.0
+b) dólares de exportadores (lei nova),1.5,substituível,0.1,12.0,3.615699999999999,,12,0.9365,6.0,2.0,11.0
+b) dólares de exportadores (lei nova),1.5,substituível,0.1,12.0,3.615699999999999,,24,1.0,7.0,2.0,12.0
+b) dólares de exportadores (lei nova),1.5,substituível,0.1,12.0,3.615699999999999,,36,1.0,7.0,2.0,12.0
+b) dólares de exportadores (lei nova),1.5,substituível,0.1,12.0,3.615699999999999,,48,1.0,7.0,2.0,12.0
+b) dólares de exportadores (lei nova),1.5,substituível,0.25,1.0,9.039249999999996,,12,0.7108,5.0,3.0,11.0
+b) dólares de exportadores (lei nova),1.5,substituível,0.25,1.0,9.039249999999996,,24,1.0,8.0,3.0,14.0
+b) dólares de exportadores (lei nova),1.5,substituível,0.25,1.0,9.039249999999996,,36,1.0,8.0,3.0,14.0
+b) dólares de exportadores (lei nova),1.5,substituível,0.25,1.0,9.039249999999996,,48,1.0,8.0,3.0,14.0
+b) dólares de exportadores (lei nova),1.5,substituível,0.25,6.0,9.039249999999996,,12,0.7108,4.0,2.0,11.0
+b) dólares de exportadores (lei nova),1.5,substituível,0.25,6.0,9.039249999999996,,24,1.0,8.0,2.0,14.0
+b) dólares de exportadores (lei nova),1.5,substituível,0.25,6.0,9.039249999999996,,36,1.0,8.0,2.0,14.0
+b) dólares de exportadores (lei nova),1.5,substituível,0.25,6.0,9.039249999999996,,48,1.0,8.0,2.0,14.0
+b) dólares de exportadores (lei nova),1.5,substituível,0.25,12.0,9.039249999999996,,12,0.9028,6.0,2.0,11.0
+b) dólares de exportadores (lei nova),1.5,substituível,0.25,12.0,9.039249999999996,,24,1.0,7.0,2.0,12.0
+b) dólares de exportadores (lei nova),1.5,substituível,0.25,12.0,9.039249999999996,,36,1.0,7.0,2.0,12.0
+b) dólares de exportadores (lei nova),1.5,substituível,0.25,12.0,9.039249999999996,,48,1.0,7.0,2.0,12.0
+b) dólares de exportadores (lei nova),1.5,substituível,0.5,1.0,18.07849999999999,,12,0.6431,5.0,3.0,11.0
+b) dólares de exportadores (lei nova),1.5,substituível,0.5,1.0,18.07849999999999,,24,1.0,9.0,4.0,15.0
+b) dólares de exportadores (lei nova),1.5,substituível,0.5,1.0,18.07849999999999,,36,1.0,9.0,4.0,15.0
+b) dólares de exportadores (lei nova),1.5,substituível,0.5,1.0,18.07849999999999,,48,1.0,9.0,4.0,15.0
+b) dólares de exportadores (lei nova),1.5,substituível,0.5,6.0,18.07849999999999,,12,0.6636,4.0,2.0,11.0
+b) dólares de exportadores (lei nova),1.5,substituível,0.5,6.0,18.07849999999999,,24,1.0,8.0,2.0,15.0
+b) dólares de exportadores (lei nova),1.5,substituível,0.5,6.0,18.07849999999999,,36,1.0,8.0,2.0,15.0
+b) dólares de exportadores (lei nova),1.5,substituível,0.5,6.0,18.07849999999999,,48,1.0,8.0,2.0,15.0
+b) dólares de exportadores (lei nova),1.5,substituível,0.5,12.0,18.07849999999999,,12,0.8824,6.0,2.0,11.0
+b) dólares de exportadores (lei nova),1.5,substituível,0.5,12.0,18.07849999999999,,24,1.0,7.0,2.0,13.0
+b) dólares de exportadores (lei nova),1.5,substituível,0.5,12.0,18.07849999999999,,36,1.0,7.0,2.0,13.0
+b) dólares de exportadores (lei nova),1.5,substituível,0.5,12.0,18.07849999999999,,48,1.0,7.0,2.0,13.0
+b) dólares de exportadores (lei nova),2.0,não substituível,0.1,1.0,3.615699999999999,,12,1.0,3.0,1.0,6.0
+b) dólares de exportadores (lei nova),2.0,não substituível,0.1,1.0,3.615699999999999,,24,1.0,3.0,1.0,6.0
+b) dólares de exportadores (lei nova),2.0,não substituível,0.1,1.0,3.615699999999999,,36,1.0,3.0,1.0,6.0
+b) dólares de exportadores (lei nova),2.0,não substituível,0.1,1.0,3.615699999999999,,48,1.0,3.0,1.0,6.0
+b) dólares de exportadores (lei nova),2.0,não substituível,0.1,6.0,3.615699999999999,,12,1.0,3.0,1.0,6.0
+b) dólares de exportadores (lei nova),2.0,não substituível,0.1,6.0,3.615699999999999,,24,1.0,3.0,1.0,6.0
+b) dólares de exportadores (lei nova),2.0,não substituível,0.1,6.0,3.615699999999999,,36,1.0,3.0,1.0,6.0
+b) dólares de exportadores (lei nova),2.0,não substituível,0.1,6.0,3.615699999999999,,48,1.0,3.0,1.0,6.0
+b) dólares de exportadores (lei nova),2.0,não substituível,0.1,12.0,3.615699999999999,,12,1.0,3.0,1.0,6.0
+b) dólares de exportadores (lei nova),2.0,não substituível,0.1,12.0,3.615699999999999,,24,1.0,3.0,1.0,6.0
+b) dólares de exportadores (lei nova),2.0,não substituível,0.1,12.0,3.615699999999999,,36,1.0,3.0,1.0,6.0
+b) dólares de exportadores (lei nova),2.0,não substituível,0.1,12.0,3.615699999999999,,48,1.0,3.0,1.0,6.0
+b) dólares de exportadores (lei nova),2.0,não substituível,0.25,1.0,9.039249999999996,,12,1.0,3.0,1.0,6.0
+b) dólares de exportadores (lei nova),2.0,não substituível,0.25,1.0,9.039249999999996,,24,1.0,3.0,1.0,6.0
+b) dólares de exportadores (lei nova),2.0,não substituível,0.25,1.0,9.039249999999996,,36,1.0,3.0,1.0,6.0
+b) dólares de exportadores (lei nova),2.0,não substituível,0.25,1.0,9.039249999999996,,48,1.0,3.0,1.0,6.0
+b) dólares de exportadores (lei nova),2.0,não substituível,0.25,6.0,9.039249999999996,,12,1.0,3.0,1.0,6.0
+b) dólares de exportadores (lei nova),2.0,não substituível,0.25,6.0,9.039249999999996,,24,1.0,3.0,1.0,6.0
+b) dólares de exportadores (lei nova),2.0,não substituível,0.25,6.0,9.039249999999996,,36,1.0,3.0,1.0,6.0
+b) dólares de exportadores (lei nova),2.0,não substituível,0.25,6.0,9.039249999999996,,48,1.0,3.0,1.0,6.0
+b) dólares de exportadores (lei nova),2.0,não substituível,0.25,12.0,9.039249999999996,,12,1.0,3.0,1.0,6.0
+b) dólares de exportadores (lei nova),2.0,não substituível,0.25,12.0,9.039249999999996,,24,1.0,3.0,1.0,6.0
+b) dólares de exportadores (lei nova),2.0,não substituível,0.25,12.0,9.039249999999996,,36,1.0,3.0,1.0,6.0
+b) dólares de exportadores (lei nova),2.0,não substituível,0.25,12.0,9.039249999999996,,48,1.0,3.0,1.0,6.0
+b) dólares de exportadores (lei nova),2.0,não substituível,0.5,1.0,18.07849999999999,,12,1.0,3.0,2.0,6.0
+b) dólares de exportadores (lei nova),2.0,não substituível,0.5,1.0,18.07849999999999,,24,1.0,3.0,2.0,6.0
+b) dólares de exportadores (lei nova),2.0,não substituível,0.5,1.0,18.07849999999999,,36,1.0,3.0,2.0,6.0
+b) dólares de exportadores (lei nova),2.0,não substituível,0.5,1.0,18.07849999999999,,48,1.0,3.0,2.0,6.0
+b) dólares de exportadores (lei nova),2.0,não substituível,0.5,6.0,18.07849999999999,,12,1.0,3.0,1.0,6.0
+b) dólares de exportadores (lei nova),2.0,não substituível,0.5,6.0,18.07849999999999,,24,1.0,3.0,1.0,6.0
+b) dólares de exportadores (lei nova),2.0,não substituível,0.5,6.0,18.07849999999999,,36,1.0,3.0,1.0,6.0
+b) dólares de exportadores (lei nova),2.0,não substituível,0.5,6.0,18.07849999999999,,48,1.0,3.0,1.0,6.0
+b) dólares de exportadores (lei nova),2.0,não substituível,0.5,12.0,18.07849999999999,,12,1.0,3.0,1.0,6.0
+b) dólares de exportadores (lei nova),2.0,não substituível,0.5,12.0,18.07849999999999,,24,1.0,3.0,1.0,6.0
+b) dólares de exportadores (lei nova),2.0,não substituível,0.5,12.0,18.07849999999999,,36,1.0,3.0,1.0,6.0
+b) dólares de exportadores (lei nova),2.0,não substituível,0.5,12.0,18.07849999999999,,48,1.0,3.0,1.0,6.0
+b) dólares de exportadores (lei nova),2.0,substituível,0.1,1.0,3.615699999999999,,12,1.0,5.0,2.0,10.0
+b) dólares de exportadores (lei nova),2.0,substituível,0.1,1.0,3.615699999999999,,24,1.0,5.0,2.0,10.0
+b) dólares de exportadores (lei nova),2.0,substituível,0.1,1.0,3.615699999999999,,36,1.0,5.0,2.0,10.0
+b) dólares de exportadores (lei nova),2.0,substituível,0.1,1.0,3.615699999999999,,48,1.0,5.0,2.0,10.0
+b) dólares de exportadores (lei nova),2.0,substituível,0.1,6.0,3.615699999999999,,12,1.0,5.0,2.0,10.0
+b) dólares de exportadores (lei nova),2.0,substituível,0.1,6.0,3.615699999999999,,24,1.0,5.0,2.0,10.0
+b) dólares de exportadores (lei nova),2.0,substituível,0.1,6.0,3.615699999999999,,36,1.0,5.0,2.0,10.0
+b) dólares de exportadores (lei nova),2.0,substituível,0.1,6.0,3.615699999999999,,48,1.0,5.0,2.0,10.0
+b) dólares de exportadores (lei nova),2.0,substituível,0.1,12.0,3.615699999999999,,12,1.0,5.0,2.0,10.0
+b) dólares de exportadores (lei nova),2.0,substituível,0.1,12.0,3.615699999999999,,24,1.0,5.0,2.0,10.0
+b) dólares de exportadores (lei nova),2.0,substituível,0.1,12.0,3.615699999999999,,36,1.0,5.0,2.0,10.0
+b) dólares de exportadores (lei nova),2.0,substituível,0.1,12.0,3.615699999999999,,48,1.0,5.0,2.0,10.0
+b) dólares de exportadores (lei nova),2.0,substituível,0.25,1.0,9.039249999999996,,12,1.0,6.0,2.0,11.0
+b) dólares de exportadores (lei nova),2.0,substituível,0.25,1.0,9.039249999999996,,24,1.0,6.0,2.0,11.0
+b) dólares de exportadores (lei nova),2.0,substituível,0.25,1.0,9.039249999999996,,36,1.0,6.0,2.0,11.0
+b) dólares de exportadores (lei nova),2.0,substituível,0.25,1.0,9.039249999999996,,48,1.0,6.0,2.0,11.0
+b) dólares de exportadores (lei nova),2.0,substituível,0.25,6.0,9.039249999999996,,12,1.0,5.0,2.0,11.0
+b) dólares de exportadores (lei nova),2.0,substituível,0.25,6.0,9.039249999999996,,24,1.0,5.0,2.0,11.0
+b) dólares de exportadores (lei nova),2.0,substituível,0.25,6.0,9.039249999999996,,36,1.0,5.0,2.0,11.0
+b) dólares de exportadores (lei nova),2.0,substituível,0.25,6.0,9.039249999999996,,48,1.0,5.0,2.0,11.0
+b) dólares de exportadores (lei nova),2.0,substituível,0.25,12.0,9.039249999999996,,12,1.0,5.0,2.0,10.0
+b) dólares de exportadores (lei nova),2.0,substituível,0.25,12.0,9.039249999999996,,24,1.0,5.0,2.0,10.0
+b) dólares de exportadores (lei nova),2.0,substituível,0.25,12.0,9.039249999999996,,36,1.0,5.0,2.0,10.0
+b) dólares de exportadores (lei nova),2.0,substituível,0.25,12.0,9.039249999999996,,48,1.0,5.0,2.0,10.0
+b) dólares de exportadores (lei nova),2.0,substituível,0.5,1.0,18.07849999999999,,12,0.9675,6.0,2.0,12.0
+b) dólares de exportadores (lei nova),2.0,substituível,0.5,1.0,18.07849999999999,,24,1.0,7.0,2.0,12.0
+b) dólares de exportadores (lei nova),2.0,substituível,0.5,1.0,18.07849999999999,,36,1.0,7.0,2.0,12.0
+b) dólares de exportadores (lei nova),2.0,substituível,0.5,1.0,18.07849999999999,,48,1.0,7.0,2.0,12.0
+b) dólares de exportadores (lei nova),2.0,substituível,0.5,6.0,18.07849999999999,,12,0.9675,5.0,2.0,11.0
+b) dólares de exportadores (lei nova),2.0,substituível,0.5,6.0,18.07849999999999,,24,1.0,5.0,2.0,12.0
+b) dólares de exportadores (lei nova),2.0,substituível,0.5,6.0,18.07849999999999,,36,1.0,5.0,2.0,12.0
+b) dólares de exportadores (lei nova),2.0,substituível,0.5,6.0,18.07849999999999,,48,1.0,5.0,2.0,12.0
+b) dólares de exportadores (lei nova),2.0,substituível,0.5,12.0,18.07849999999999,,12,1.0,5.0,2.0,10.0
+b) dólares de exportadores (lei nova),2.0,substituível,0.5,12.0,18.07849999999999,,24,1.0,5.0,2.0,10.0
+b) dólares de exportadores (lei nova),2.0,substituível,0.5,12.0,18.07849999999999,,36,1.0,5.0,2.0,10.0
+b) dólares de exportadores (lei nova),2.0,substituível,0.5,12.0,18.07849999999999,,48,1.0,5.0,2.0,10.0
+c) desindexação das LFTs (De Bolle),0.5,não substituível,,,,0.2070249100977135,24,0.9993,11.0,5.0,19.0
+c) desindexação das LFTs (De Bolle),0.5,não substituível,,,,0.2070249100977135,36,1.0,11.0,5.0,19.0
+c) desindexação das LFTs (De Bolle),0.5,não substituível,,,,0.2070249100977135,48,1.0,11.0,5.0,19.0
+c) desindexação das LFTs (De Bolle),0.5,não substituível,,,,0.414049820195427,24,0.9916,11.0,5.0,20.0
+c) desindexação das LFTs (De Bolle),0.5,não substituível,,,,0.414049820195427,36,1.0,11.0,5.0,20.0
+c) desindexação das LFTs (De Bolle),0.5,não substituível,,,,0.414049820195427,48,1.0,11.0,5.0,20.0
+c) desindexação das LFTs (De Bolle),0.5,substituível,,,,0.2070249100977135,24,0.7764,20.0,10.0,23.0
+c) desindexação das LFTs (De Bolle),0.5,substituível,,,,0.2070249100977135,36,0.9701,21.0,10.0,29.0
+c) desindexação das LFTs (De Bolle),0.5,substituível,,,,0.2070249100977135,48,1.0,22.0,10.0,30.0
+c) desindexação das LFTs (De Bolle),0.5,substituível,,,,0.414049820195427,24,0.4352,20.0,9.0,24.0
+c) desindexação das LFTs (De Bolle),0.5,substituível,,,,0.414049820195427,36,0.9073,25.0,10.0,35.0
+c) desindexação das LFTs (De Bolle),0.5,substituível,,,,0.414049820195427,48,0.9932,25.0,10.0,36.0
+c) desindexação das LFTs (De Bolle),1.0,não substituível,,,,0.2070249100977135,24,1.0,6.0,2.0,10.0
+c) desindexação das LFTs (De Bolle),1.0,não substituível,,,,0.2070249100977135,36,1.0,6.0,2.0,10.0
+c) desindexação das LFTs (De Bolle),1.0,não substituível,,,,0.2070249100977135,48,1.0,6.0,2.0,10.0
+c) desindexação das LFTs (De Bolle),1.0,não substituível,,,,0.414049820195427,24,1.0,6.0,2.0,10.0
+c) desindexação das LFTs (De Bolle),1.0,não substituível,,,,0.414049820195427,36,1.0,6.0,2.0,10.0
+c) desindexação das LFTs (De Bolle),1.0,não substituível,,,,0.414049820195427,48,1.0,6.0,2.0,10.0
+c) desindexação das LFTs (De Bolle),1.0,substituível,,,,0.2070249100977135,24,1.0,9.0,4.0,18.0
+c) desindexação das LFTs (De Bolle),1.0,substituível,,,,0.2070249100977135,36,1.0,9.0,4.0,18.0
+c) desindexação das LFTs (De Bolle),1.0,substituível,,,,0.2070249100977135,48,1.0,9.0,4.0,18.0
+c) desindexação das LFTs (De Bolle),1.0,substituível,,,,0.414049820195427,24,0.9808,9.0,4.0,19.0
+c) desindexação das LFTs (De Bolle),1.0,substituível,,,,0.414049820195427,36,1.0,9.0,4.0,20.0
+c) desindexação das LFTs (De Bolle),1.0,substituível,,,,0.414049820195427,48,1.0,9.0,4.0,20.0
+c) desindexação das LFTs (De Bolle),1.5,não substituível,,,,0.2070249100977135,24,1.0,4.0,2.0,7.0
+c) desindexação das LFTs (De Bolle),1.5,não substituível,,,,0.2070249100977135,36,1.0,4.0,2.0,7.0
+c) desindexação das LFTs (De Bolle),1.5,não substituível,,,,0.2070249100977135,48,1.0,4.0,2.0,7.0
+c) desindexação das LFTs (De Bolle),1.5,não substituível,,,,0.414049820195427,24,1.0,4.0,2.0,7.0
+c) desindexação das LFTs (De Bolle),1.5,não substituível,,,,0.414049820195427,36,1.0,4.0,2.0,7.0
+c) desindexação das LFTs (De Bolle),1.5,não substituível,,,,0.414049820195427,48,1.0,4.0,2.0,7.0
+c) desindexação das LFTs (De Bolle),1.5,substituível,,,,0.2070249100977135,24,1.0,7.0,2.0,12.0
+c) desindexação das LFTs (De Bolle),1.5,substituível,,,,0.2070249100977135,36,1.0,7.0,2.0,12.0
+c) desindexação das LFTs (De Bolle),1.5,substituível,,,,0.2070249100977135,48,1.0,7.0,2.0,12.0
+c) desindexação das LFTs (De Bolle),1.5,substituível,,,,0.414049820195427,24,1.0,7.0,2.0,12.0
+c) desindexação das LFTs (De Bolle),1.5,substituível,,,,0.414049820195427,36,1.0,7.0,2.0,12.0
+c) desindexação das LFTs (De Bolle),1.5,substituível,,,,0.414049820195427,48,1.0,7.0,2.0,12.0
+c) desindexação das LFTs (De Bolle),2.0,não substituível,,,,0.2070249100977135,24,1.0,3.0,1.0,6.0
+c) desindexação das LFTs (De Bolle),2.0,não substituível,,,,0.2070249100977135,36,1.0,3.0,1.0,6.0
+c) desindexação das LFTs (De Bolle),2.0,não substituível,,,,0.2070249100977135,48,1.0,3.0,1.0,6.0
+c) desindexação das LFTs (De Bolle),2.0,não substituível,,,,0.414049820195427,24,1.0,3.0,1.0,6.0
+c) desindexação das LFTs (De Bolle),2.0,não substituível,,,,0.414049820195427,36,1.0,3.0,1.0,6.0
+c) desindexação das LFTs (De Bolle),2.0,não substituível,,,,0.414049820195427,48,1.0,3.0,1.0,6.0
+c) desindexação das LFTs (De Bolle),2.0,substituível,,,,0.2070249100977135,24,1.0,5.0,2.0,10.0
+c) desindexação das LFTs (De Bolle),2.0,substituível,,,,0.2070249100977135,36,1.0,5.0,2.0,10.0
+c) desindexação das LFTs (De Bolle),2.0,substituível,,,,0.2070249100977135,48,1.0,5.0,2.0,10.0
+c) desindexação das LFTs (De Bolle),2.0,substituível,,,,0.414049820195427,24,1.0,5.0,2.0,10.0
+c) desindexação das LFTs (De Bolle),2.0,substituível,,,,0.414049820195427,36,1.0,5.0,2.0,10.0
+c) desindexação das LFTs (De Bolle),2.0,substituível,,,,0.414049820195427,48,1.0,5.0,2.0,10.0

@@ -1,0 +1,93 @@
+# Parâmetros do estudo. Cada bloco declara o tipo (CLAUDE.md, regra 1).
+# Grades de hipótese: valores iniciais de sensibilidade, A CONFIRMAR PELO PEDRO antes da versão final.
+
+simulacao:
+  tipo: configuracao
+  semente: 20261123
+  n_trajetorias: 10000
+  n_convergencia: 5000
+
+data_referencia:
+  tipo: calculado
+  regra: "Último fim de trimestre com todos os componentes da ARA publicados (dívida externa, cronograma, PII, M2, exportações) e reservas."
+
+pisos:
+  tipo: metodologia
+  ara_multiplos: [1.0, 1.2, 1.5]
+  greenspan_guidotti: true
+  fonte: "FMI (2016), Guidance Note, p. 25: faixa de 100–150% da métrica considerada adequada; plano do paper."
+
+ara:
+  tipo: metodologia
+  pesos_flutuante: {dcp: 0.30, outros_passivos: 0.15, moeda_ampla: 0.05, exportacoes: 0.05}
+  fonte_pesos: "FMI (2016), Guidance Note, p. 14 (tabela de pesos revisados, câmbio flutuante)."
+  moeda_ampla: "M2 convertido pelo câmbio de fim de período (Guidance Note, p. 36)."
+  dcp: "Dívida de curto prazo por prazo residual (Guidance Note, p. 36)."
+  outros_passivos: "Passivos de investimento em carteira + outros investimentos − DCP residual (insumos listados na Guidance Note, p. 36; 'MLT debt and equity liabilities', ARA 2011, p. 23)."
+
+swaps:
+  tipo: calculado
+  s_max: "pico histórico do estoque líquido reconstruído (tradicional − reverso)"
+
+horizontes_meses:
+  tipo: parametro_da_proposta
+  valores: [12, 24, 36, 48]
+  fontes:
+    - "12 meses: Lara Resende, Eu Acuso (Substack, 25/09/2026), seção Uma proposta para o Brasil: Selic perto de 7,5% em cerca de 12 meses; plano de 4 a 5 anos (v3: fonte primária verificada)."
+    - "24–48 meses: Lara Resende, 'Uma nota sobre a proposta de meta para os juros' (16/11/2026), p. 3: 'entre dois e quatro anos'."
+
+regimes_premio_risco:
+  tipo: hipotese
+  alivio_fiscal: {lambda: [0.5, 1.0]}
+  perda_credibilidade: {lambda: [1.5, 2.0]}
+  justificativa: "Pressão menor ou maior que nos episódios históricos, conforme o prêmio de risco caia (alívio fiscal) ou suba (perda de credibilidade). λ multiplica o gasto observado por bloco de 20 dias úteis."
+
+corrida:
+  tipo: hipotese
+  pi_mensal: [0.0, 0.02, 0.05]
+  k_meses: calcular   # tipo: calculado (episódio histórico mais longo, em blocos)
+  justificativa: "Obstfeld (1995/1996): crises autorrealizáveis; probabilidade mensal de salto para o ritmo extremo."
+  escopo: "v3.1: só no modelo de pressão permanente (etapa 3); na etapa 5 os episódios recorrentes já fazem esse papel."
+
+cenario_b_exportadores:
+  tipo: hipotese_ancorada_em_dado
+  formato: fluxo                 # v3.1: lei nova obriga a converter a receita futura (fluxo), não a repatriar estoque
+  fracao_f: [0.0, 0.5, 1.0]
+  fracao_f_justificativa: "0 = lei não passa ou é contornada; 0,5 = único recuo observado (2024 reverteu 52% do excesso de 2023); 1 = volta à conversão de 2009–2018 (teto: o hiato inclui pagamentos feitos no exterior)."
+  mes_entrada_m_b: [6, 12, 24]
+  mes_entrada_justificativa: "Exige lei nova (Lei 14.286/2021, art. 26, faculta manter a receita no exterior); entrada no mês 1 não é realista."
+  base: "excesso retido = (norma 2009–2018 − razão de conversão) × exportações; média mensal de 2021–2025 (SGS 13962 / SGS 22708; etapa 0b)"
+  comparacao_estoque: "estoque implícito na afirmação de Lara Resende (400 − reservas), f = 0,5 e 1, entrada no mês 12 — só comparação"
+  justificativa: "Pressuposto ceteris paribus: o fluxo de conversão adicional não altera a pressão (λ) nem o comportamento dos demais agentes."
+
+cenario_c_desindexacao:
+  tipo: hipotese
+  mes_inicio: 13
+  delta_fracoes_de_max: [0.5, 1.0]
+  participacao_alvo_lft: 0.30
+  fonte_alvo: "De Bolle (16/11/2026), p. 8: 'dos atuais 52% para cerca de 30%'."
+  justificativa: "δ_max = 1 − alvo/participação atual (Tesouro). λ multiplicado por (1 − δ) a partir do mês 13; só horizontes ≥ 24 meses."
+
+# ---------------------------------------------------------------------------------------------------
+# v3 — auditoria da segunda rodada (24/11/2026)
+# ---------------------------------------------------------------------------------------------------
+v3_persistencia:
+  lambdas: [0.5, 1.0, 1.5, 2.0]            # mesma grade das etapas 3 e 4 (alívio fiscal / perda de credibilidade)
+  taxas_episodios_por_ano: [0.25, 0.50]    # hipótese ancorada na lista de episódios: 6 episódios em 2002–2026
+                                            # (~0,25/ano). A lista omite 2001 e 2018, então 0,25 é piso da
+                                            # frequência histórica; 0,50 = regime com o dobro de episódios.
+  calmaria_padrao: zero                     # hipótese: fora de episódios o BC não vende nem compra. As compras de
+                                            # 2006–2012 (91% das compras em meses "normais" de 2004–2026) dependeram
+                                            # de entrada de capitais com juro alto; não se assume que se repitam.
+  limiar_material_usd_bi: 1.0               # demanda não atendida "material": >= US$ 1 bi no mês (robustez da T_F)
+  origem: "hipóteses de cenário; justificativa no parecer da segunda rodada (https://claude.ai/artifact/WMrzVMoksL8su7B6TXNzCv) e na seção 8b do relatório"
+v3_ara:
+  regra_escolha: "passo 1 — nível da moeda ampla vs FMI (Art. IV 2026, Tab. 4; erro <= 5%); passo 2 — menor erro da razão"
+  fonte_definicoes: "IMF (2016) Guidance Note on the Assessment of Reserve Adequacy, p. 36 do PDF: Broad money = M2 over ENDE; Short-term debt = remaining maturity basis (WEO)"
+
+# v3.2 — etapa 6 (10_incerteza_custo_externo.py)
+v32_etapa6:
+  bootstrap: {replicas: 300, trajetorias_por_replica: 2000, justificativa: "7 episódios; reamostra episódios inteiros com reposição para medir a dependência da amostra histórica"}
+  custo_swaps: {componente: "só variação cambial sobre o estoque de swaps; diferencial de juros fora", economia_referencia: "4% do PIB ao ano, afirmação do 'Eu Acuso' (hipótese do autor, não dado)"}
+  externo: {fonte: "FMI WPFXI, FXI_BROAD_PROXY_GDP", episodio: "meses de venda líquida, lacuna de até 1 mês", limiar_pct_pib: 0.5, grupo: "18 emergentes com metas de inflação (hipótese de seleção)"}
+  cenario_c: "exportado para apêndice como exploratório"

@@ -1,0 +1,103 @@
+2026-11-24 09:27:31 | GET https://api.bcb.gov.br/dados/serie/bcdata.sgs.13621/dados?formato=json&dataInicial=01%2F09%2F1998&dataFinal=31%2F12%2F2007 -> 200 (89209 bytes)
+2026-11-24 09:27:31 | SALVO .tmp_13621_1998.json sha256=2ed006c4b180b864b4312261f88a42f22218e9b4cd19d1d347f8fa240080cfd9
+2026-11-24 09:27:36 | GET https://api.bcb.gov.br/dados/serie/bcdata.sgs.13621/dados?formato=json&dataInicial=01%2F01%2F2008&dataFinal=31%2F12%2F2017 -> 200 (98008 bytes)
+2026-11-24 09:27:36 | SALVO .tmp_13621_2008.json sha256=f3be98740cd31f2df6a05288dc2622d703ba7311e30728c9720334226e6e6e28
+2026-11-24 09:27:41 | GET https://api.bcb.gov.br/dados/serie/bcdata.sgs.13621/dados?formato=json&dataInicial=01%2F01%2F2018&dataFinal=24%2F11%2F2026 -> 200 (87010 bytes)
+2026-11-24 09:27:41 | SALVO .tmp_13621_2018.json sha256=746de8d9e20ef366e6eda1b0d7ad03853658ceec08e2b8a6424a5689071dfe13
+2026-11-24 09:27:41 | GET https://api.bcb.gov.br/dados/serie/bcdata.sgs.1/dados?formato=json&dataInicial=01%2F01%2F1999&dataFinal=31%2F12%2F2008 -> 200 (97969 bytes)
+2026-11-24 09:27:41 | SALVO .tmp_1_1999.json sha256=de5a00c58a19842fce93d06a8d67113e65a4d48bb8828a98bb80f88c7ca3d3b3
+2026-11-24 09:27:42 | GET https://api.bcb.gov.br/dados/serie/bcdata.sgs.1/dados?formato=json&dataInicial=01%2F01%2F2009&dataFinal=31%2F12%2F2018 -> 200 (97852 bytes)
+2026-11-24 09:27:42 | SALVO .tmp_1_2009.json sha256=fdee30454a5054f61883aa45f56959aba411d19ace53748745656f6d3b072cbb
+2026-11-24 09:27:43 | GET https://api.bcb.gov.br/dados/serie/bcdata.sgs.1/dados?formato=json&dataInicial=01%2F01%2F2019&dataFinal=24%2F11%2F2026 -> 200 (77299 bytes)
+2026-11-24 09:27:43 | SALVO .tmp_1_2019.json sha256=d72091e726e9fbca01fcb311ca80587e5f80f0a7bb4bbb79e3fe987a526d8715
+2026-11-24 09:27:49 | GET https://api.bcb.gov.br/dados/serie/bcdata.sgs.432/dados?formato=json&dataInicial=05%2F03%2F1999&dataFinal=31%2F12%2F2008 -> 200 (136421 bytes)
+2026-11-24 09:27:49 | SALVO .tmp_432_1999.json sha256=c90a6d87988e92d1b0569306c52cbf0fd204afc690b202c2d557b2c485b665a7
+2026-11-24 09:27:50 | GET https://api.bcb.gov.br/dados/serie/bcdata.sgs.432/dados?formato=json&dataInicial=01%2F01%2F2009&dataFinal=31%2F12%2F2018 -> 200 (137261 bytes)
+2026-11-24 09:27:50 | SALVO .tmp_432_2009.json sha256=ababb133529c60d5c6be24e2e4034611f977e0b2e82096a3da2df3bafa253d4c
+2026-11-24 09:27:50 | GET https://api.bcb.gov.br/dados/serie/bcdata.sgs.432/dados?formato=json&dataInicial=01%2F01%2F2019&dataFinal=24%2F11%2F2026 -> 200 (108502 bytes)
+2026-11-24 09:27:50 | SALVO .tmp_432_2019.json sha256=9a0f4a354f785357e56db20e7008ac2fa4d8719f7191e8c43dabfb629c37cb5f
+2026-11-24 09:27:51 | GET https://api.bcb.gov.br/dados/serie/bcdata.sgs.22705/dados?formato=json&dataInicial=01%2F01%2F1995&dataFinal=31%2F12%2F2004 -> 200 (4683 bytes)
+2026-11-24 09:27:51 | SALVO .tmp_22705_1995.json sha256=6a580e3fdc872d9f4cc6a3a2c2b301dcc24faaffd3c7d757ec36f0513799a38e
+2026-11-24 09:27:52 | GET https://api.bcb.gov.br/dados/serie/bcdata.sgs.22705/dados?formato=json&dataInicial=01%2F01%2F2005&dataFinal=31%2F12%2F2014 -> 200 (4799 bytes)
+2026-11-24 09:27:52 | SALVO .tmp_22705_2005.json sha256=c7b86911ecfa15f90b273aee017b527470e3a6cfb5c0478e7959470337d17584
+2026-11-24 09:27:53 | GET https://api.bcb.gov.br/dados/serie/bcdata.sgs.22705/dados?formato=json&dataInicial=01%2F01%2F2015&dataFinal=31%2F12%2F2024 -> 200 (4801 bytes)
+2026-11-24 09:27:53 | SALVO .tmp_22705_2015.json sha256=02c9111c92710e07978967969949d49918b0084c5a0ed40145c2f4700a02e392
+2026-11-24 09:27:54 | GET https://api.bcb.gov.br/dados/serie/bcdata.sgs.22705/dados?formato=json&dataInicial=01%2F01%2F2025&dataFinal=24%2F11%2F2026 -> 200 (841 bytes)
+2026-11-24 09:27:54 | SALVO .tmp_22705_2025.json sha256=ed70760df38949a603a7ceabe21a305dbb79ab4ccb94014afdfe16b0f1336b9c
+2026-11-24 09:27:55 | GET https://api.bcb.gov.br/dados/serie/bcdata.sgs.22708/dados?formato=json&dataInicial=01%2F01%2F1995&dataFinal=31%2F12%2F2004 -> 200 (4681 bytes)
+2026-11-24 09:27:55 | SALVO .tmp_22708_1995.json sha256=57c5dd26b0027273229f956e812e5a217d2b75b3fa5fc4e50ff60f4bdafede10
+2026-11-24 09:27:56 | GET https://api.bcb.gov.br/dados/serie/bcdata.sgs.22708/dados?formato=json&dataInicial=01%2F01%2F2005&dataFinal=31%2F12%2F2014 -> 200 (4790 bytes)
+2026-11-24 09:27:56 | SALVO .tmp_22708_2005.json sha256=73c1c3142227ca64b1c0418d249b298c3731d88f84e7aeb0bbaa07d67c3d2aea
+2026-11-24 09:27:57 | GET https://api.bcb.gov.br/dados/serie/bcdata.sgs.22708/dados?formato=json&dataInicial=01%2F01%2F2015&dataFinal=31%2F12%2F2024 -> 200 (4801 bytes)
+2026-11-24 09:27:57 | SALVO .tmp_22708_2015.json sha256=775dd6f1a51877334e71a9d02d7a6832fbf83f25db7b869156187824ba7ed2f4
+2026-11-24 09:27:57 | GET https://api.bcb.gov.br/dados/serie/bcdata.sgs.22708/dados?formato=json&dataInicial=01%2F01%2F2025&dataFinal=24%2F11%2F2026 -> 200 (841 bytes)
+2026-11-24 09:27:57 | SALVO .tmp_22708_2025.json sha256=5cd26ac467a2e3f91e0973b03ab626f29234476c37cdde381fd51181c8e2603a
+2026-11-24 09:27:58 | GET https://api.bcb.gov.br/dados/serie/bcdata.sgs.22720/dados?formato=json&dataInicial=01%2F01%2F1995&dataFinal=31%2F12%2F2004 -> 200 (4567 bytes)
+2026-11-24 09:27:58 | SALVO .tmp_22720_1995.json sha256=6a83c2057f2e1bdd78ce5c41c1920bb673e79b731c45713984cc549545077533
+2026-11-24 09:27:59 | GET https://api.bcb.gov.br/dados/serie/bcdata.sgs.22720/dados?formato=json&dataInicial=01%2F01%2F2005&dataFinal=31%2F12%2F2014 -> 200 (4681 bytes)
+2026-11-24 09:27:59 | SALVO .tmp_22720_2005.json sha256=5359ad82eb9d99876d9249b914a2aa1b8bae252d8e8e0eb69dc36d1678c8dc3a
+2026-11-24 09:28:00 | GET https://api.bcb.gov.br/dados/serie/bcdata.sgs.22720/dados?formato=json&dataInicial=01%2F01%2F2015&dataFinal=31%2F12%2F2024 -> 200 (4681 bytes)
+2026-11-24 09:28:00 | SALVO .tmp_22720_2015.json sha256=a72019e334b3a0e68a590df339052c66c75486e8029dd8454724f8a1ec44f832
+2026-11-24 09:28:01 | GET https://api.bcb.gov.br/dados/serie/bcdata.sgs.22720/dados?formato=json&dataInicial=01%2F01%2F2025&dataFinal=24%2F11%2F2026 -> 200 (820 bytes)
+2026-11-24 09:28:01 | SALVO .tmp_22720_2025.json sha256=b17eadc8d99e615f41f46775dddc7b1acb6aa2a31b287b07fed77d0d618da6aa
+2026-11-24 09:28:02 | GET https://api.bcb.gov.br/dados/serie/bcdata.sgs.27810/dados?formato=json&dataInicial=01%2F07%2F2001&dataFinal=31%2F12%2F2010 -> 200 (4747 bytes)
+2026-11-24 09:28:02 | SALVO .tmp_27810_2001.json sha256=233b303dba4ddabf8bcbf84957f2e958c603d33104b7258496b95044ca8a35b3
+2026-11-24 09:28:03 | GET https://api.bcb.gov.br/dados/serie/bcdata.sgs.27810/dados?formato=json&dataInicial=01%2F01%2F2011&dataFinal=31%2F12%2F2020 -> 200 (5161 bytes)
+2026-11-24 09:28:03 | SALVO .tmp_27810_2011.json sha256=91dc17a7252a147715ff0074106103749dde8a0146316a20c180a81f3f0a3639
+2026-11-24 09:28:04 | GET https://api.bcb.gov.br/dados/serie/bcdata.sgs.27810/dados?formato=json&dataInicial=01%2F01%2F2021&dataFinal=24%2F11%2F2026 -> 200 (2968 bytes)
+2026-11-24 09:28:04 | SALVO .tmp_27810_2021.json sha256=6f0d6b45edb51c969688760bebc8ab646e59c575190c2f380463b56360bf299a
+2026-11-24 09:28:05 | GET https://api.bcb.gov.br/dados/serie/bcdata.sgs.27813/dados?formato=json&dataInicial=01%2F07%2F2001&dataFinal=31%2F12%2F2010 -> 200 (4790 bytes)
+2026-11-24 09:28:05 | SALVO .tmp_27813_2001.json sha256=32c9cc13a5550349bf2f5654594c91c1a4ae55862ff5ddc192a7dd3e51779410
+2026-11-24 09:28:05 | GET https://api.bcb.gov.br/dados/serie/bcdata.sgs.27813/dados?formato=json&dataInicial=01%2F01%2F2011&dataFinal=31%2F12%2F2020 -> 200 (5161 bytes)
+2026-11-24 09:28:05 | SALVO .tmp_27813_2011.json sha256=2a78fcf36d2bb635afbb0af078b2e0ddad7146a783ac7ed8e8583ba57d64258c
+2026-11-24 09:28:06 | GET https://api.bcb.gov.br/dados/serie/bcdata.sgs.27813/dados?formato=json&dataInicial=01%2F01%2F2021&dataFinal=24%2F11%2F2026 -> 200 (3010 bytes)
+2026-11-24 09:28:06 | SALVO .tmp_27813_2021.json sha256=fa58b8597bf5da9869d76d5d2c9f71029305f39afff12c2d9e39cab48aa9079b
+2026-11-24 09:28:07 | GET https://api.bcb.gov.br/dados/serie/bcdata.sgs.27815/dados?formato=json&dataInicial=01%2F07%2F2001&dataFinal=31%2F12%2F2010 -> 200 (4659 bytes)
+2026-11-24 09:28:07 | SALVO .tmp_27815_2001.json sha256=b7ac64a138d0fabea818f29483028fc8d53a212911d6f5eede7f3bd12898b4d2
+2026-11-24 09:28:08 | GET https://api.bcb.gov.br/dados/serie/bcdata.sgs.27815/dados?formato=json&dataInicial=01%2F01%2F2011&dataFinal=31%2F12%2F2020 -> 200 (5161 bytes)
+2026-11-24 09:28:08 | SALVO .tmp_27815_2011.json sha256=6574d213dd479d896f7c1b28f51af9422d29f18689f567f507e1f2b5be0c8bfc
+2026-11-24 09:28:08 | GET https://api.bcb.gov.br/dados/serie/bcdata.sgs.27815/dados?formato=json&dataInicial=01%2F01%2F2021&dataFinal=24%2F11%2F2026 -> 200 (3021 bytes)
+2026-11-24 09:28:08 | SALVO .tmp_27815_2021.json sha256=3057acf5012a55d117aa90d206b969328eaa844572c188b2a06730ebdd39dd8b
+2026-11-24 09:28:10 | GET https://www.bcb.gov.br/conteudo/dadosabertos/BCBDepin/historico-atuacoes-mercado-cambio.csv -> 200 (1985978 bytes)
+2026-11-24 09:28:10 | SALVO BCB_historico-atuacoes-mercado-cambio_2026-11-24.csv sha256=6633c61c0ff1157f590cdd6baa873368c00ed53454f9d30ead23789d12265a7d
+2026-11-24 09:28:11 | GET https://www.bcb.gov.br/api/servico/sitebcb/historicotaxasjuros -> 200 (102633 bytes)
+2026-11-24 09:28:11 | SALVO BCB_historico-taxas-juros-copom_2026-11-24.json sha256=3b8bee1210fb078d28508c25950010647791d580712cb96b3b3e6724239d6fce
+2026-11-24 09:28:33 | GET http://www.ipeadata.gov.br/api/odata4/ValoresSerie(SERCODIGO='JPM366_EMBI366') -> 200 (1294640 bytes)
+2026-11-24 09:28:33 | SALVO IPEADATA_JPM366_EMBI366_2026-11-24.json sha256=daee85ba4b4fe1e861588c8937519aa870c4b7c36788a7bb508ae65c2147924c
+2026-11-24 09:28:54 | GET http://www.ipeadata.gov.br/api/odata4/Metadados('JPM366_EMBI366') -> 200 (1876 bytes)
+2026-11-24 09:28:54 | SALVO IPEADATA_JPM366_EMBI366_metadados_2026-11-24.json sha256=d4589fd4ec07d78687532a1c8ad968750611b0ff0eca3338bda7762fd3baca8d
+2026-11-24 09:29:08 | GET https://www.tesourotransparente.gov.br/ckan/dataset/0998f610-bc25-4ce3-b32c-a873447500c2/resource/b6280ed3-ef7e-4569-954a-bded97c2c8a1/download/estoquedpf.csv -> 200 (12218566 bytes)
+2026-11-24 09:29:08 | SALVO TESOURO_estoque-dpf_2026-11-24.csv sha256=dffbf76850f8c78c08e1f97f84a5926537d0cf4e3178600a417cfa4b71fdc5a9
+2026-11-24 09:29:10 | GET https://www.bcb.gov.br/content/estatisticas/hist_estatisticassetorexterno/201904_Tabelas_de_estatisticas_do_setor_externo.xlsx -> 200 (234257 bytes)
+2026-11-24 09:29:10 | SALVO BCB_tabelas-setor-externo_201904.xlsx sha256=ad81332b9d751a7e5d7120423fc3c48ec05712bf89089ef5881574d4bfd02d23
+2026-11-24 09:29:12 | GET https://www.bcb.gov.br/content/estatisticas/hist_estatisticassetorexterno/201910_Tabelas_de_estatisticas_do_setor_externo.xlsx -> 200 (226807 bytes)
+2026-11-24 09:29:12 | SALVO BCB_tabelas-setor-externo_201910.xlsx sha256=5eff194ceaeebcc01272b941c983764c06f21c4ae8405529643954352732c3b3
+2026-11-24 09:29:14 | GET https://www.bcb.gov.br/content/estatisticas/hist_estatisticassetorexterno/202004_Tabelas_de_estatisticas_do_setor_externo.xlsx -> 200 (319856 bytes)
+2026-11-24 09:29:14 | SALVO BCB_tabelas-setor-externo_202004.xlsx sha256=cb926f785403d00b04180abcc4e74eaccbed2f2c4c9a20ee0a1c8cee7302396c
+2026-11-24 09:29:17 | GET https://www.bcb.gov.br/content/estatisticas/hist_estatisticassetorexterno/202010_Tabelas_de_estatisticas_do_setor_externo.xlsx -> 200 (303119 bytes)
+2026-11-24 09:29:17 | SALVO BCB_tabelas-setor-externo_202010.xlsx sha256=8dff7e9ac13881155436bee7a0c4f2a77de43d38ab200aa3b03a433c904fce2c
+2026-11-24 09:29:18 | GET https://www.bcb.gov.br/content/estatisticas/hist_estatisticassetorexterno/202104_Tabelas_de_estatisticas_do_setor_externo.xlsx -> 200 (302282 bytes)
+2026-11-24 09:29:18 | SALVO BCB_tabelas-setor-externo_202104.xlsx sha256=3303cc5c987a3a1f03cce2c5644f312f4ba6987665b478692a509f15f8d6f404
+2026-11-24 09:29:20 | GET https://www.bcb.gov.br/content/estatisticas/hist_estatisticassetorexterno/202110_Tabelas_de_estatisticas_do_setor_externo.xlsx -> 200 (391943 bytes)
+2026-11-24 09:29:20 | SALVO BCB_tabelas-setor-externo_202110.xlsx sha256=aacd80f8ff2cf813fe6f796b3aef4371f1bb562a9c5564c5829dedb2388030fd
+2026-11-24 09:29:22 | GET https://www.bcb.gov.br/content/estatisticas/hist_estatisticassetorexterno/202204_Tabelas_de_estatisticas_do_setor_externo.xlsx -> 200 (394577 bytes)
+2026-11-24 09:29:22 | SALVO BCB_tabelas-setor-externo_202204.xlsx sha256=40c8114472398147c748dc390bd4db80ec1407dfaf07be4c2de53a39fcd72d92
+2026-11-24 09:29:25 | GET https://www.bcb.gov.br/content/estatisticas/hist_estatisticassetorexterno/202210_Tabelas_de_estatisticas_do_setor_externo.xlsx -> 200 (396977 bytes)
+2026-11-24 09:29:25 | SALVO BCB_tabelas-setor-externo_202210.xlsx sha256=286251fe8e0df9d457ee8d3920358c54e01ef4cb0e640291e7aa4c8859335b2d
+2026-11-24 09:29:28 | GET https://www.bcb.gov.br/content/estatisticas/hist_estatisticassetorexterno/202304_Tabelas_de_estatisticas_do_setor_externo.xlsx -> 200 (381880 bytes)
+2026-11-24 09:29:28 | SALVO BCB_tabelas-setor-externo_202304.xlsx sha256=ae5c94c042b4c3d691dfb78eaf8388a752222edfaeb3ddee495d777380a01b54
+2026-11-24 09:29:30 | GET https://www.bcb.gov.br/content/estatisticas/hist_estatisticassetorexterno/202310_Tabelas_de_estatisticas_do_setor_externo.xlsx -> 200 (386963 bytes)
+2026-11-24 09:29:30 | SALVO BCB_tabelas-setor-externo_202310.xlsx sha256=4812671fed80ee30c881a1273b464d08f2578aea8d3472cb9ccce4cf915c3353
+2026-11-24 09:29:32 | GET https://www.bcb.gov.br/content/estatisticas/hist_estatisticassetorexterno/202404_Tabelas_de_estatisticas_do_setor_externo.xlsx -> 200 (220504 bytes)
+2026-11-24 09:29:32 | SALVO BCB_tabelas-setor-externo_202404.xlsx sha256=d8dbc8f8521cc9bd7984d2569539148c640f030d1c96a467d76b51a2f2765c1d
+2026-11-24 09:29:34 | GET https://www.bcb.gov.br/content/estatisticas/hist_estatisticassetorexterno/202410_Tabelas_de_estatisticas_do_setor_externo.xlsx -> 200 (238738 bytes)
+2026-11-24 09:29:34 | SALVO BCB_tabelas-setor-externo_202410.xlsx sha256=138010cd71f08f54f34baa04317a7b930f3346971577306172c0f9526c6a0a6f
+2026-11-24 09:29:35 | GET https://www.bcb.gov.br/content/estatisticas/hist_estatisticassetorexterno/202504_Tabelas_de_estatisticas_do_setor_externo.xlsx -> 200 (232925 bytes)
+2026-11-24 09:29:35 | SALVO BCB_tabelas-setor-externo_202504.xlsx sha256=a1bef589771c60c7077b06fc8ad8ca3e22786703daed6505c618c0d55d70737c
+2026-11-24 09:29:38 | GET https://www.bcb.gov.br/content/estatisticas/hist_estatisticassetorexterno/202510_Tabelas_de_estatisticas_do_setor_externo.xlsx -> 200 (237896 bytes)
+2026-11-24 09:29:38 | SALVO BCB_tabelas-setor-externo_202510.xlsx sha256=1a21e4e5b5e06838b96db114ffa2f0fee0899656a36af1cbbe16ff28ee5f2c38
+2026-11-24 09:29:40 | GET https://www.bcb.gov.br/content/estatisticas/hist_estatisticassetorexterno/202604_Tabelas_de_estatisticas_do_setor_externo.xlsx -> 200 (137997 bytes)
+2026-11-24 09:29:40 | SALVO BCB_tabelas-setor-externo_202604.xlsx sha256=31d489766920f1b3ac57974f4690f953ba322f828189a3549bfb1f368bfb1238
+2026-11-24 09:29:41 | GET https://www.bcb.gov.br/content/estatisticas/hist_estatisticassetorexterno/202610_Tabelas_de_estatisticas_do_setor_externo.xlsx -> 200 (116357 bytes)
+2026-11-24 09:29:41 | SALVO BCB_tabelas-setor-externo_202610.xlsx sha256=8888aaef2ee5279a8e2f247c0c417247caa24733a659b90e04b618742de71c3a
+2026-11-24 09:29:41 | FIM. Falhas: 0 (detalhe em pendencias_download_2026-11-24.json)

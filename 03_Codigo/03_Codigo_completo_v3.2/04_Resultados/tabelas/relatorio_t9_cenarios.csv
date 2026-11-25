@@ -1,0 +1,401 @@
+cenario,lambda,versao,f,mes_entrada,aporte_usd_bi,delta,horizonte_meses,p_esgotar_ate_H,mediana_entre_esgotadas,p10_entre_esgotadas,p90_entre_esgotadas
+b') estoque implícito (comparação),0.5,não substituível,0.5,12.0,18.07849999999999,,12,0.5834,7.0,4.0,11.0
+b') estoque implícito (comparação),0.5,não substituível,0.5,12.0,18.07849999999999,,24,1.0,10.0,5.0,18.0
+b') estoque implícito (comparação),0.5,não substituível,0.5,12.0,18.07849999999999,,36,1.0,10.0,5.0,18.0
+b') estoque implícito (comparação),0.5,não substituível,0.5,12.0,18.07849999999999,,48,1.0,10.0,5.0,18.0
+b') estoque implícito (comparação),0.5,não substituível,1.0,12.0,36.15699999999998,,12,0.5834,7.0,4.0,11.0
+b') estoque implícito (comparação),0.5,não substituível,1.0,12.0,36.15699999999998,,24,1.0,10.0,5.0,18.0
+b') estoque implícito (comparação),0.5,não substituível,1.0,12.0,36.15699999999998,,36,1.0,10.0,5.0,18.0
+b') estoque implícito (comparação),0.5,não substituível,1.0,12.0,36.15699999999998,,48,1.0,10.0,5.0,18.0
+b') estoque implícito (comparação),0.5,substituível,0.5,12.0,18.07849999999999,,12,0.051,10.0,8.0,11.0
+b') estoque implícito (comparação),0.5,substituível,0.5,12.0,18.07849999999999,,24,0.1295,17.0,8.0,24.0
+b') estoque implícito (comparação),0.5,substituível,0.5,12.0,18.07849999999999,,36,0.7118,28.0,18.0,35.0
+b') estoque implícito (comparação),0.5,substituível,0.5,12.0,18.07849999999999,,48,0.9907,31.0,22.0,40.0
+b') estoque implícito (comparação),0.5,substituível,1.0,12.0,36.15699999999998,,12,0.051,10.0,8.0,11.0
+b') estoque implícito (comparação),0.5,substituível,1.0,12.0,36.15699999999998,,24,0.0647,10.0,8.0,22.0
+b') estoque implícito (comparação),0.5,substituível,1.0,12.0,36.15699999999998,,36,0.4041,32.0,10.0,35.0
+b') estoque implícito (comparação),0.5,substituível,1.0,12.0,36.15699999999998,,48,0.8785,38.0,29.0,44.0
+b') estoque implícito (comparação),1.0,não substituível,0.5,12.0,18.07849999999999,,12,0.9988,6.0,2.0,10.0
+b') estoque implícito (comparação),1.0,não substituível,0.5,12.0,18.07849999999999,,24,1.0,6.0,2.0,10.0
+b') estoque implícito (comparação),1.0,não substituível,0.5,12.0,18.07849999999999,,36,1.0,6.0,2.0,10.0
+b') estoque implícito (comparação),1.0,não substituível,0.5,12.0,18.07849999999999,,48,1.0,6.0,2.0,10.0
+b') estoque implícito (comparação),1.0,não substituível,1.0,12.0,36.15699999999998,,12,0.9987,6.0,2.0,10.0
+b') estoque implícito (comparação),1.0,não substituível,1.0,12.0,36.15699999999998,,24,1.0,6.0,2.0,10.0
+b') estoque implícito (comparação),1.0,não substituível,1.0,12.0,36.15699999999998,,36,1.0,6.0,2.0,10.0
+b') estoque implícito (comparação),1.0,não substituível,1.0,12.0,36.15699999999998,,48,1.0,6.0,2.0,10.0
+b') estoque implícito (comparação),1.0,substituível,0.5,12.0,18.07849999999999,,12,0.5548,7.0,5.0,11.0
+b') estoque implícito (comparação),1.0,substituível,0.5,12.0,18.07849999999999,,24,0.9151,10.0,5.0,20.0
+b') estoque implícito (comparação),1.0,substituível,0.5,12.0,18.07849999999999,,36,1.0,11.0,5.0,23.0
+b') estoque implícito (comparação),1.0,substituível,0.5,12.0,18.07849999999999,,48,1.0,11.0,5.0,23.0
+b') estoque implícito (comparação),1.0,substituível,1.0,12.0,36.15699999999998,,12,0.5534,7.0,5.0,11.0
+b') estoque implícito (comparação),1.0,substituível,1.0,12.0,36.15699999999998,,24,0.8826,9.0,5.0,21.0
+b') estoque implícito (comparação),1.0,substituível,1.0,12.0,36.15699999999998,,36,1.0,11.0,5.0,26.0
+b') estoque implícito (comparação),1.0,substituível,1.0,12.0,36.15699999999998,,48,1.0,11.0,5.0,26.0
+b') estoque implícito (comparação),1.5,não substituível,0.5,12.0,18.07849999999999,,12,1.0,4.0,2.0,7.0
+b') estoque implícito (comparação),1.5,não substituível,0.5,12.0,18.07849999999999,,24,1.0,4.0,2.0,7.0
+b') estoque implícito (comparação),1.5,não substituível,0.5,12.0,18.07849999999999,,36,1.0,4.0,2.0,7.0
+b') estoque implícito (comparação),1.5,não substituível,0.5,12.0,18.07849999999999,,48,1.0,4.0,2.0,7.0
+b') estoque implícito (comparação),1.5,não substituível,1.0,12.0,36.15699999999998,,12,1.0,4.0,2.0,7.0
+b') estoque implícito (comparação),1.5,não substituível,1.0,12.0,36.15699999999998,,24,1.0,4.0,2.0,7.0
+b') estoque implícito (comparação),1.5,não substituível,1.0,12.0,36.15699999999998,,36,1.0,4.0,2.0,7.0
+b') estoque implícito (comparação),1.5,não substituível,1.0,12.0,36.15699999999998,,48,1.0,4.0,2.0,7.0
+b') estoque implícito (comparação),1.5,substituível,0.5,12.0,18.07849999999999,,12,0.6753,5.0,2.0,10.0
+b') estoque implícito (comparação),1.5,substituível,0.5,12.0,18.07849999999999,,24,1.0,7.0,3.0,17.0
+b') estoque implícito (comparação),1.5,substituível,0.5,12.0,18.07849999999999,,36,1.0,7.0,3.0,17.0
+b') estoque implícito (comparação),1.5,substituível,0.5,12.0,18.07849999999999,,48,1.0,7.0,3.0,17.0
+b') estoque implícito (comparação),1.5,substituível,1.0,12.0,36.15699999999998,,12,0.6608,4.0,2.0,10.0
+b') estoque implícito (comparação),1.5,substituível,1.0,12.0,36.15699999999998,,24,0.9823,7.0,3.0,19.0
+b') estoque implícito (comparação),1.5,substituível,1.0,12.0,36.15699999999998,,36,1.0,7.0,3.0,21.0
+b') estoque implícito (comparação),1.5,substituível,1.0,12.0,36.15699999999998,,48,1.0,7.0,3.0,21.0
+b') estoque implícito (comparação),2.0,não substituível,0.5,12.0,18.07849999999999,,12,1.0,3.0,1.0,6.0
+b') estoque implícito (comparação),2.0,não substituível,0.5,12.0,18.07849999999999,,24,1.0,3.0,1.0,6.0
+b') estoque implícito (comparação),2.0,não substituível,0.5,12.0,18.07849999999999,,36,1.0,3.0,1.0,6.0
+b') estoque implícito (comparação),2.0,não substituível,0.5,12.0,18.07849999999999,,48,1.0,3.0,1.0,6.0
+b') estoque implícito (comparação),2.0,não substituível,1.0,12.0,36.15699999999998,,12,1.0,3.0,1.0,6.0
+b') estoque implícito (comparação),2.0,não substituível,1.0,12.0,36.15699999999998,,24,1.0,3.0,1.0,6.0
+b') estoque implícito (comparação),2.0,não substituível,1.0,12.0,36.15699999999998,,36,1.0,3.0,1.0,6.0
+b') estoque implícito (comparação),2.0,não substituível,1.0,12.0,36.15699999999998,,48,1.0,3.0,1.0,6.0
+b') estoque implícito (comparação),2.0,substituível,0.5,12.0,18.07849999999999,,12,0.966,5.0,2.0,11.0
+b') estoque implícito (comparação),2.0,substituível,0.5,12.0,18.07849999999999,,24,1.0,6.0,2.0,11.0
+b') estoque implícito (comparação),2.0,substituível,0.5,12.0,18.07849999999999,,36,1.0,6.0,2.0,11.0
+b') estoque implícito (comparação),2.0,substituível,0.5,12.0,18.07849999999999,,48,1.0,6.0,2.0,11.0
+b') estoque implícito (comparação),2.0,substituível,1.0,12.0,36.15699999999998,,12,0.9355,5.0,2.0,10.0
+b') estoque implícito (comparação),2.0,substituível,1.0,12.0,36.15699999999998,,24,1.0,6.0,2.0,11.0
+b') estoque implícito (comparação),2.0,substituível,1.0,12.0,36.15699999999998,,36,1.0,6.0,2.0,11.0
+b') estoque implícito (comparação),2.0,substituível,1.0,12.0,36.15699999999998,,48,1.0,6.0,2.0,11.0
+"b) conversão das exportações (lei nova, fluxo)",0.5,não substituível,0.0,6.0,0.0,,12,0.5836,7.0,4.0,11.0
+"b) conversão das exportações (lei nova, fluxo)",0.5,não substituível,0.0,6.0,0.0,,24,1.0,10.0,5.0,18.0
+"b) conversão das exportações (lei nova, fluxo)",0.5,não substituível,0.0,6.0,0.0,,36,1.0,10.0,5.0,18.0
+"b) conversão das exportações (lei nova, fluxo)",0.5,não substituível,0.0,6.0,0.0,,48,1.0,10.0,5.0,18.0
+"b) conversão das exportações (lei nova, fluxo)",0.5,não substituível,0.0,12.0,0.0,,12,0.5836,7.0,4.0,11.0
+"b) conversão das exportações (lei nova, fluxo)",0.5,não substituível,0.0,12.0,0.0,,24,1.0,10.0,5.0,18.0
+"b) conversão das exportações (lei nova, fluxo)",0.5,não substituível,0.0,12.0,0.0,,36,1.0,10.0,5.0,18.0
+"b) conversão das exportações (lei nova, fluxo)",0.5,não substituível,0.0,12.0,0.0,,48,1.0,10.0,5.0,18.0
+"b) conversão das exportações (lei nova, fluxo)",0.5,não substituível,0.0,24.0,0.0,,12,0.5836,7.0,4.0,11.0
+"b) conversão das exportações (lei nova, fluxo)",0.5,não substituível,0.0,24.0,0.0,,24,1.0,10.0,5.0,18.0
+"b) conversão das exportações (lei nova, fluxo)",0.5,não substituível,0.0,24.0,0.0,,36,1.0,10.0,5.0,18.0
+"b) conversão das exportações (lei nova, fluxo)",0.5,não substituível,0.0,24.0,0.0,,48,1.0,10.0,5.0,18.0
+"b) conversão das exportações (lei nova, fluxo)",0.5,não substituível,0.5,6.0,1.6675721805762247,,12,0.5813,7.0,4.0,11.0
+"b) conversão das exportações (lei nova, fluxo)",0.5,não substituível,0.5,6.0,1.6675721805762247,,24,1.0,10.0,5.0,18.0
+"b) conversão das exportações (lei nova, fluxo)",0.5,não substituível,0.5,6.0,1.6675721805762247,,36,1.0,10.0,5.0,18.0
+"b) conversão das exportações (lei nova, fluxo)",0.5,não substituível,0.5,6.0,1.6675721805762247,,48,1.0,10.0,5.0,18.0
+"b) conversão das exportações (lei nova, fluxo)",0.5,não substituível,0.5,12.0,1.6675721805762247,,12,0.5835,7.0,4.0,11.0
+"b) conversão das exportações (lei nova, fluxo)",0.5,não substituível,0.5,12.0,1.6675721805762247,,24,1.0,10.0,5.0,18.0
+"b) conversão das exportações (lei nova, fluxo)",0.5,não substituível,0.5,12.0,1.6675721805762247,,36,1.0,10.0,5.0,18.0
+"b) conversão das exportações (lei nova, fluxo)",0.5,não substituível,0.5,12.0,1.6675721805762247,,48,1.0,10.0,5.0,18.0
+"b) conversão das exportações (lei nova, fluxo)",0.5,não substituível,0.5,24.0,1.6675721805762247,,12,0.5836,7.0,4.0,11.0
+"b) conversão das exportações (lei nova, fluxo)",0.5,não substituível,0.5,24.0,1.6675721805762247,,24,1.0,10.0,5.0,18.0
+"b) conversão das exportações (lei nova, fluxo)",0.5,não substituível,0.5,24.0,1.6675721805762247,,36,1.0,10.0,5.0,18.0
+"b) conversão das exportações (lei nova, fluxo)",0.5,não substituível,0.5,24.0,1.6675721805762247,,48,1.0,10.0,5.0,18.0
+"b) conversão das exportações (lei nova, fluxo)",0.5,não substituível,1.0,6.0,3.3351443611524494,,12,0.5813,7.0,4.0,11.0
+"b) conversão das exportações (lei nova, fluxo)",0.5,não substituível,1.0,6.0,3.3351443611524494,,24,1.0,10.0,5.0,18.0
+"b) conversão das exportações (lei nova, fluxo)",0.5,não substituível,1.0,6.0,3.3351443611524494,,36,1.0,10.0,5.0,18.0
+"b) conversão das exportações (lei nova, fluxo)",0.5,não substituível,1.0,6.0,3.3351443611524494,,48,1.0,10.0,5.0,18.0
+"b) conversão das exportações (lei nova, fluxo)",0.5,não substituível,1.0,12.0,3.3351443611524494,,12,0.5835,7.0,4.0,11.0
+"b) conversão das exportações (lei nova, fluxo)",0.5,não substituível,1.0,12.0,3.3351443611524494,,24,1.0,10.0,5.0,18.0
+"b) conversão das exportações (lei nova, fluxo)",0.5,não substituível,1.0,12.0,3.3351443611524494,,36,1.0,10.0,5.0,18.0
+"b) conversão das exportações (lei nova, fluxo)",0.5,não substituível,1.0,12.0,3.3351443611524494,,48,1.0,10.0,5.0,18.0
+"b) conversão das exportações (lei nova, fluxo)",0.5,não substituível,1.0,24.0,3.3351443611524494,,12,0.5836,7.0,4.0,11.0
+"b) conversão das exportações (lei nova, fluxo)",0.5,não substituível,1.0,24.0,3.3351443611524494,,24,1.0,10.0,5.0,18.0
+"b) conversão das exportações (lei nova, fluxo)",0.5,não substituível,1.0,24.0,3.3351443611524494,,36,1.0,10.0,5.0,18.0
+"b) conversão das exportações (lei nova, fluxo)",0.5,não substituível,1.0,24.0,3.3351443611524494,,48,1.0,10.0,5.0,18.0
+"b) conversão das exportações (lei nova, fluxo)",0.5,substituível,0.0,6.0,0.0,,12,0.075,10.0,8.0,12.0
+"b) conversão das exportações (lei nova, fluxo)",0.5,substituível,0.0,6.0,0.0,,24,0.4973,21.0,11.0,24.0
+"b) conversão das exportações (lei nova, fluxo)",0.5,substituível,0.0,6.0,0.0,,36,0.9688,24.0,13.0,31.0
+"b) conversão das exportações (lei nova, fluxo)",0.5,substituível,0.0,6.0,0.0,,48,1.0,25.0,13.0,32.0
+"b) conversão das exportações (lei nova, fluxo)",0.5,substituível,0.0,12.0,0.0,,12,0.075,10.0,8.0,12.0
+"b) conversão das exportações (lei nova, fluxo)",0.5,substituível,0.0,12.0,0.0,,24,0.4973,21.0,11.0,24.0
+"b) conversão das exportações (lei nova, fluxo)",0.5,substituível,0.0,12.0,0.0,,36,0.9688,24.0,13.0,31.0
+"b) conversão das exportações (lei nova, fluxo)",0.5,substituível,0.0,12.0,0.0,,48,1.0,25.0,13.0,32.0
+"b) conversão das exportações (lei nova, fluxo)",0.5,substituível,0.0,24.0,0.0,,12,0.075,10.0,8.0,12.0
+"b) conversão das exportações (lei nova, fluxo)",0.5,substituível,0.0,24.0,0.0,,24,0.4973,21.0,11.0,24.0
+"b) conversão das exportações (lei nova, fluxo)",0.5,substituível,0.0,24.0,0.0,,36,0.9688,24.0,13.0,31.0
+"b) conversão das exportações (lei nova, fluxo)",0.5,substituível,0.0,24.0,0.0,,48,1.0,25.0,13.0,32.0
+"b) conversão das exportações (lei nova, fluxo)",0.5,substituível,0.5,6.0,1.6675721805762247,,12,0.0179,10.0,8.0,12.0
+"b) conversão das exportações (lei nova, fluxo)",0.5,substituível,0.5,6.0,1.6675721805762247,,24,0.056,16.0,10.0,23.0
+"b) conversão das exportações (lei nova, fluxo)",0.5,substituível,0.5,6.0,1.6675721805762247,,36,0.2002,31.0,13.0,35.0
+"b) conversão das exportações (lei nova, fluxo)",0.5,substituível,0.5,6.0,1.6675721805762247,,48,0.3556,35.0,18.0,47.0
+"b) conversão das exportações (lei nova, fluxo)",0.5,substituível,0.5,12.0,1.6675721805762247,,12,0.0692,10.0,8.0,12.0
+"b) conversão das exportações (lei nova, fluxo)",0.5,substituível,0.5,12.0,1.6675721805762247,,24,0.144,13.0,8.900000000000006,22.0
+"b) conversão das exportações (lei nova, fluxo)",0.5,substituível,0.5,12.0,1.6675721805762247,,36,0.3906,29.0,10.0,34.0
+"b) conversão das exportações (lei nova, fluxo)",0.5,substituível,0.5,12.0,1.6675721805762247,,48,0.6627,33.0,12.0,46.0
+"b) conversão das exportações (lei nova, fluxo)",0.5,substituível,0.5,24.0,1.6675721805762247,,12,0.075,10.0,8.0,12.0
+"b) conversão das exportações (lei nova, fluxo)",0.5,substituível,0.5,24.0,1.6675721805762247,,24,0.4611,21.0,11.0,24.0
+"b) conversão das exportações (lei nova, fluxo)",0.5,substituível,0.5,24.0,1.6675721805762247,,36,0.7954,24.0,13.0,33.0
+"b) conversão das exportações (lei nova, fluxo)",0.5,substituível,0.5,24.0,1.6675721805762247,,48,0.9169,24.0,13.0,38.0
+"b) conversão das exportações (lei nova, fluxo)",0.5,substituível,1.0,6.0,3.3351443611524494,,12,0.0034,9.0,5.0,12.0
+"b) conversão das exportações (lei nova, fluxo)",0.5,substituível,1.0,6.0,3.3351443611524494,,24,0.0085,14.0,6.0,18.60000000000001
+"b) conversão das exportações (lei nova, fluxo)",0.5,substituível,1.0,6.0,3.3351443611524494,,36,0.0092,14.0,6.0,22.0
+"b) conversão das exportações (lei nova, fluxo)",0.5,substituível,1.0,6.0,3.3351443611524494,,48,0.0099,14.0,6.0,33.2
+"b) conversão das exportações (lei nova, fluxo)",0.5,substituível,1.0,12.0,3.3351443611524494,,12,0.0552,10.0,8.0,11.0
+"b) conversão das exportações (lei nova, fluxo)",0.5,substituível,1.0,12.0,3.3351443611524494,,24,0.076,10.0,8.0,16.0
+"b) conversão das exportações (lei nova, fluxo)",0.5,substituível,1.0,12.0,3.3351443611524494,,36,0.0801,10.0,8.0,18.0
+"b) conversão das exportações (lei nova, fluxo)",0.5,substituível,1.0,12.0,3.3351443611524494,,48,0.0826,10.0,8.0,21.5
+"b) conversão das exportações (lei nova, fluxo)",0.5,substituível,1.0,24.0,3.3351443611524494,,12,0.075,10.0,8.0,12.0
+"b) conversão das exportações (lei nova, fluxo)",0.5,substituível,1.0,24.0,3.3351443611524494,,24,0.4328,20.0,11.0,23.0
+"b) conversão das exportações (lei nova, fluxo)",0.5,substituível,1.0,24.0,3.3351443611524494,,36,0.6296,22.0,12.0,29.0
+"b) conversão das exportações (lei nova, fluxo)",0.5,substituível,1.0,24.0,3.3351443611524494,,48,0.6523,23.0,12.0,30.0
+"b) conversão das exportações (lei nova, fluxo)",1.0,não substituível,0.0,6.0,0.0,,12,1.0,6.0,2.0,10.0
+"b) conversão das exportações (lei nova, fluxo)",1.0,não substituível,0.0,6.0,0.0,,24,1.0,6.0,2.0,10.0
+"b) conversão das exportações (lei nova, fluxo)",1.0,não substituível,0.0,6.0,0.0,,36,1.0,6.0,2.0,10.0
+"b) conversão das exportações (lei nova, fluxo)",1.0,não substituível,0.0,6.0,0.0,,48,1.0,6.0,2.0,10.0
+"b) conversão das exportações (lei nova, fluxo)",1.0,não substituível,0.0,12.0,0.0,,12,1.0,6.0,2.0,10.0
+"b) conversão das exportações (lei nova, fluxo)",1.0,não substituível,0.0,12.0,0.0,,24,1.0,6.0,2.0,10.0
+"b) conversão das exportações (lei nova, fluxo)",1.0,não substituível,0.0,12.0,0.0,,36,1.0,6.0,2.0,10.0
+"b) conversão das exportações (lei nova, fluxo)",1.0,não substituível,0.0,12.0,0.0,,48,1.0,6.0,2.0,10.0
+"b) conversão das exportações (lei nova, fluxo)",1.0,não substituível,0.0,24.0,0.0,,12,1.0,6.0,2.0,10.0
+"b) conversão das exportações (lei nova, fluxo)",1.0,não substituível,0.0,24.0,0.0,,24,1.0,6.0,2.0,10.0
+"b) conversão das exportações (lei nova, fluxo)",1.0,não substituível,0.0,24.0,0.0,,36,1.0,6.0,2.0,10.0
+"b) conversão das exportações (lei nova, fluxo)",1.0,não substituível,0.0,24.0,0.0,,48,1.0,6.0,2.0,10.0
+"b) conversão das exportações (lei nova, fluxo)",1.0,não substituível,0.5,6.0,1.6675721805762247,,12,0.9988,6.0,2.0,10.0
+"b) conversão das exportações (lei nova, fluxo)",1.0,não substituível,0.5,6.0,1.6675721805762247,,24,1.0,6.0,2.0,10.0
+"b) conversão das exportações (lei nova, fluxo)",1.0,não substituível,0.5,6.0,1.6675721805762247,,36,1.0,6.0,2.0,10.0
+"b) conversão das exportações (lei nova, fluxo)",1.0,não substituível,0.5,6.0,1.6675721805762247,,48,1.0,6.0,2.0,10.0
+"b) conversão das exportações (lei nova, fluxo)",1.0,não substituível,0.5,12.0,1.6675721805762247,,12,0.9988,6.0,2.0,10.0
+"b) conversão das exportações (lei nova, fluxo)",1.0,não substituível,0.5,12.0,1.6675721805762247,,24,1.0,6.0,2.0,10.0
+"b) conversão das exportações (lei nova, fluxo)",1.0,não substituível,0.5,12.0,1.6675721805762247,,36,1.0,6.0,2.0,10.0
+"b) conversão das exportações (lei nova, fluxo)",1.0,não substituível,0.5,12.0,1.6675721805762247,,48,1.0,6.0,2.0,10.0
+"b) conversão das exportações (lei nova, fluxo)",1.0,não substituível,0.5,24.0,1.6675721805762247,,12,1.0,6.0,2.0,10.0
+"b) conversão das exportações (lei nova, fluxo)",1.0,não substituível,0.5,24.0,1.6675721805762247,,24,1.0,6.0,2.0,10.0
+"b) conversão das exportações (lei nova, fluxo)",1.0,não substituível,0.5,24.0,1.6675721805762247,,36,1.0,6.0,2.0,10.0
+"b) conversão das exportações (lei nova, fluxo)",1.0,não substituível,0.5,24.0,1.6675721805762247,,48,1.0,6.0,2.0,10.0
+"b) conversão das exportações (lei nova, fluxo)",1.0,não substituível,1.0,6.0,3.3351443611524494,,12,0.9983,6.0,2.0,10.0
+"b) conversão das exportações (lei nova, fluxo)",1.0,não substituível,1.0,6.0,3.3351443611524494,,24,1.0,6.0,2.0,10.0
+"b) conversão das exportações (lei nova, fluxo)",1.0,não substituível,1.0,6.0,3.3351443611524494,,36,1.0,6.0,2.0,10.0
+"b) conversão das exportações (lei nova, fluxo)",1.0,não substituível,1.0,6.0,3.3351443611524494,,48,1.0,6.0,2.0,10.0
+"b) conversão das exportações (lei nova, fluxo)",1.0,não substituível,1.0,12.0,3.3351443611524494,,12,0.9988,6.0,2.0,10.0
+"b) conversão das exportações (lei nova, fluxo)",1.0,não substituível,1.0,12.0,3.3351443611524494,,24,1.0,6.0,2.0,10.0
+"b) conversão das exportações (lei nova, fluxo)",1.0,não substituível,1.0,12.0,3.3351443611524494,,36,1.0,6.0,2.0,10.0
+"b) conversão das exportações (lei nova, fluxo)",1.0,não substituível,1.0,12.0,3.3351443611524494,,48,1.0,6.0,2.0,10.0
+"b) conversão das exportações (lei nova, fluxo)",1.0,não substituível,1.0,24.0,3.3351443611524494,,12,1.0,6.0,2.0,10.0
+"b) conversão das exportações (lei nova, fluxo)",1.0,não substituível,1.0,24.0,3.3351443611524494,,24,1.0,6.0,2.0,10.0
+"b) conversão das exportações (lei nova, fluxo)",1.0,não substituível,1.0,24.0,3.3351443611524494,,36,1.0,6.0,2.0,10.0
+"b) conversão das exportações (lei nova, fluxo)",1.0,não substituível,1.0,24.0,3.3351443611524494,,48,1.0,6.0,2.0,10.0
+"b) conversão das exportações (lei nova, fluxo)",1.0,substituível,0.0,6.0,0.0,,12,0.5834,7.0,5.0,11.0
+"b) conversão das exportações (lei nova, fluxo)",1.0,substituível,0.0,6.0,0.0,,24,0.9956,11.0,5.0,20.0
+"b) conversão das exportações (lei nova, fluxo)",1.0,substituível,0.0,6.0,0.0,,36,1.0,11.0,5.0,20.0
+"b) conversão das exportações (lei nova, fluxo)",1.0,substituível,0.0,6.0,0.0,,48,1.0,11.0,5.0,20.0
+"b) conversão das exportações (lei nova, fluxo)",1.0,substituível,0.0,12.0,0.0,,12,0.5834,7.0,5.0,11.0
+"b) conversão das exportações (lei nova, fluxo)",1.0,substituível,0.0,12.0,0.0,,24,0.9956,11.0,5.0,20.0
+"b) conversão das exportações (lei nova, fluxo)",1.0,substituível,0.0,12.0,0.0,,36,1.0,11.0,5.0,20.0
+"b) conversão das exportações (lei nova, fluxo)",1.0,substituível,0.0,12.0,0.0,,48,1.0,11.0,5.0,20.0
+"b) conversão das exportações (lei nova, fluxo)",1.0,substituível,0.0,24.0,0.0,,12,0.5834,7.0,5.0,11.0
+"b) conversão das exportações (lei nova, fluxo)",1.0,substituível,0.0,24.0,0.0,,24,0.9956,11.0,5.0,20.0
+"b) conversão das exportações (lei nova, fluxo)",1.0,substituível,0.0,24.0,0.0,,36,1.0,11.0,5.0,20.0
+"b) conversão das exportações (lei nova, fluxo)",1.0,substituível,0.0,24.0,0.0,,48,1.0,11.0,5.0,20.0
+"b) conversão das exportações (lei nova, fluxo)",1.0,substituível,0.5,6.0,1.6675721805762247,,12,0.5017,7.0,5.0,11.0
+"b) conversão das exportações (lei nova, fluxo)",1.0,substituível,0.5,6.0,1.6675721805762247,,24,0.8908,11.0,5.0,20.0
+"b) conversão das exportações (lei nova, fluxo)",1.0,substituível,0.5,6.0,1.6675721805762247,,36,0.9764,12.0,5.0,23.0
+"b) conversão das exportações (lei nova, fluxo)",1.0,substituível,0.5,6.0,1.6675721805762247,,48,1.0,12.0,5.0,26.0
+"b) conversão das exportações (lei nova, fluxo)",1.0,substituível,0.5,12.0,1.6675721805762247,,12,0.5834,7.0,5.0,11.0
+"b) conversão das exportações (lei nova, fluxo)",1.0,substituível,0.5,12.0,1.6675721805762247,,24,0.9046,10.0,5.0,18.0
+"b) conversão das exportações (lei nova, fluxo)",1.0,substituível,0.5,12.0,1.6675721805762247,,36,0.9925,10.0,5.0,23.0
+"b) conversão das exportações (lei nova, fluxo)",1.0,substituível,0.5,12.0,1.6675721805762247,,48,1.0,11.0,5.0,24.0
+"b) conversão das exportações (lei nova, fluxo)",1.0,substituível,0.5,24.0,1.6675721805762247,,12,0.5834,7.0,5.0,11.0
+"b) conversão das exportações (lei nova, fluxo)",1.0,substituível,0.5,24.0,1.6675721805762247,,24,0.9873,10.0,5.0,19.0
+"b) conversão das exportações (lei nova, fluxo)",1.0,substituível,0.5,24.0,1.6675721805762247,,36,1.0,11.0,5.0,20.0
+"b) conversão das exportações (lei nova, fluxo)",1.0,substituível,0.5,24.0,1.6675721805762247,,48,1.0,11.0,5.0,20.0
+"b) conversão das exportações (lei nova, fluxo)",1.0,substituível,1.0,6.0,3.3351443611524494,,12,0.4314,7.0,5.0,10.0
+"b) conversão das exportações (lei nova, fluxo)",1.0,substituível,1.0,6.0,3.3351443611524494,,24,0.8068,11.0,5.0,23.0
+"b) conversão das exportações (lei nova, fluxo)",1.0,substituível,1.0,6.0,3.3351443611524494,,36,0.9162,13.0,5.0,26.0
+"b) conversão das exportações (lei nova, fluxo)",1.0,substituível,1.0,6.0,3.3351443611524494,,48,0.9666,14.0,5.0,31.0
+"b) conversão das exportações (lei nova, fluxo)",1.0,substituível,1.0,12.0,3.3351443611524494,,12,0.5793,7.0,5.0,11.0
+"b) conversão das exportações (lei nova, fluxo)",1.0,substituível,1.0,12.0,3.3351443611524494,,24,0.8841,9.0,5.0,20.0
+"b) conversão das exportações (lei nova, fluxo)",1.0,substituível,1.0,12.0,3.3351443611524494,,36,0.9664,10.0,5.0,22.0
+"b) conversão das exportações (lei nova, fluxo)",1.0,substituível,1.0,12.0,3.3351443611524494,,48,0.9887,10.0,5.0,26.0
+"b) conversão das exportações (lei nova, fluxo)",1.0,substituível,1.0,24.0,3.3351443611524494,,12,0.5834,7.0,5.0,11.0
+"b) conversão das exportações (lei nova, fluxo)",1.0,substituível,1.0,24.0,3.3351443611524494,,24,0.9823,10.0,5.0,19.0
+"b) conversão das exportações (lei nova, fluxo)",1.0,substituível,1.0,24.0,3.3351443611524494,,36,0.9985,11.0,5.0,20.0
+"b) conversão das exportações (lei nova, fluxo)",1.0,substituível,1.0,24.0,3.3351443611524494,,48,0.9993,11.0,5.0,20.0
+"b) conversão das exportações (lei nova, fluxo)",1.5,não substituível,0.0,6.0,0.0,,12,1.0,4.0,2.0,7.0
+"b) conversão das exportações (lei nova, fluxo)",1.5,não substituível,0.0,6.0,0.0,,24,1.0,4.0,2.0,7.0
+"b) conversão das exportações (lei nova, fluxo)",1.5,não substituível,0.0,6.0,0.0,,36,1.0,4.0,2.0,7.0
+"b) conversão das exportações (lei nova, fluxo)",1.5,não substituível,0.0,6.0,0.0,,48,1.0,4.0,2.0,7.0
+"b) conversão das exportações (lei nova, fluxo)",1.5,não substituível,0.0,12.0,0.0,,12,1.0,4.0,2.0,7.0
+"b) conversão das exportações (lei nova, fluxo)",1.5,não substituível,0.0,12.0,0.0,,24,1.0,4.0,2.0,7.0
+"b) conversão das exportações (lei nova, fluxo)",1.5,não substituível,0.0,12.0,0.0,,36,1.0,4.0,2.0,7.0
+"b) conversão das exportações (lei nova, fluxo)",1.5,não substituível,0.0,12.0,0.0,,48,1.0,4.0,2.0,7.0
+"b) conversão das exportações (lei nova, fluxo)",1.5,não substituível,0.0,24.0,0.0,,12,1.0,4.0,2.0,7.0
+"b) conversão das exportações (lei nova, fluxo)",1.5,não substituível,0.0,24.0,0.0,,24,1.0,4.0,2.0,7.0
+"b) conversão das exportações (lei nova, fluxo)",1.5,não substituível,0.0,24.0,0.0,,36,1.0,4.0,2.0,7.0
+"b) conversão das exportações (lei nova, fluxo)",1.5,não substituível,0.0,24.0,0.0,,48,1.0,4.0,2.0,7.0
+"b) conversão das exportações (lei nova, fluxo)",1.5,não substituível,0.5,6.0,1.6675721805762247,,12,1.0,4.0,2.0,7.0
+"b) conversão das exportações (lei nova, fluxo)",1.5,não substituível,0.5,6.0,1.6675721805762247,,24,1.0,4.0,2.0,7.0
+"b) conversão das exportações (lei nova, fluxo)",1.5,não substituível,0.5,6.0,1.6675721805762247,,36,1.0,4.0,2.0,7.0
+"b) conversão das exportações (lei nova, fluxo)",1.5,não substituível,0.5,6.0,1.6675721805762247,,48,1.0,4.0,2.0,7.0
+"b) conversão das exportações (lei nova, fluxo)",1.5,não substituível,0.5,12.0,1.6675721805762247,,12,1.0,4.0,2.0,7.0
+"b) conversão das exportações (lei nova, fluxo)",1.5,não substituível,0.5,12.0,1.6675721805762247,,24,1.0,4.0,2.0,7.0
+"b) conversão das exportações (lei nova, fluxo)",1.5,não substituível,0.5,12.0,1.6675721805762247,,36,1.0,4.0,2.0,7.0
+"b) conversão das exportações (lei nova, fluxo)",1.5,não substituível,0.5,12.0,1.6675721805762247,,48,1.0,4.0,2.0,7.0
+"b) conversão das exportações (lei nova, fluxo)",1.5,não substituível,0.5,24.0,1.6675721805762247,,12,1.0,4.0,2.0,7.0
+"b) conversão das exportações (lei nova, fluxo)",1.5,não substituível,0.5,24.0,1.6675721805762247,,24,1.0,4.0,2.0,7.0
+"b) conversão das exportações (lei nova, fluxo)",1.5,não substituível,0.5,24.0,1.6675721805762247,,36,1.0,4.0,2.0,7.0
+"b) conversão das exportações (lei nova, fluxo)",1.5,não substituível,0.5,24.0,1.6675721805762247,,48,1.0,4.0,2.0,7.0
+"b) conversão das exportações (lei nova, fluxo)",1.5,não substituível,1.0,6.0,3.3351443611524494,,12,1.0,4.0,2.0,7.0
+"b) conversão das exportações (lei nova, fluxo)",1.5,não substituível,1.0,6.0,3.3351443611524494,,24,1.0,4.0,2.0,7.0
+"b) conversão das exportações (lei nova, fluxo)",1.5,não substituível,1.0,6.0,3.3351443611524494,,36,1.0,4.0,2.0,7.0
+"b) conversão das exportações (lei nova, fluxo)",1.5,não substituível,1.0,6.0,3.3351443611524494,,48,1.0,4.0,2.0,7.0
+"b) conversão das exportações (lei nova, fluxo)",1.5,não substituível,1.0,12.0,3.3351443611524494,,12,1.0,4.0,2.0,7.0
+"b) conversão das exportações (lei nova, fluxo)",1.5,não substituível,1.0,12.0,3.3351443611524494,,24,1.0,4.0,2.0,7.0
+"b) conversão das exportações (lei nova, fluxo)",1.5,não substituível,1.0,12.0,3.3351443611524494,,36,1.0,4.0,2.0,7.0
+"b) conversão das exportações (lei nova, fluxo)",1.5,não substituível,1.0,12.0,3.3351443611524494,,48,1.0,4.0,2.0,7.0
+"b) conversão das exportações (lei nova, fluxo)",1.5,não substituível,1.0,24.0,3.3351443611524494,,12,1.0,4.0,2.0,7.0
+"b) conversão das exportações (lei nova, fluxo)",1.5,não substituível,1.0,24.0,3.3351443611524494,,24,1.0,4.0,2.0,7.0
+"b) conversão das exportações (lei nova, fluxo)",1.5,não substituível,1.0,24.0,3.3351443611524494,,36,1.0,4.0,2.0,7.0
+"b) conversão das exportações (lei nova, fluxo)",1.5,não substituível,1.0,24.0,3.3351443611524494,,48,1.0,4.0,2.0,7.0
+"b) conversão das exportações (lei nova, fluxo)",1.5,substituível,0.0,6.0,0.0,,12,0.6893,5.0,2.0,10.0
+"b) conversão das exportações (lei nova, fluxo)",1.5,substituível,0.0,6.0,0.0,,24,1.0,7.0,3.0,15.0
+"b) conversão das exportações (lei nova, fluxo)",1.5,substituível,0.0,6.0,0.0,,36,1.0,7.0,3.0,15.0
+"b) conversão das exportações (lei nova, fluxo)",1.5,substituível,0.0,6.0,0.0,,48,1.0,7.0,3.0,15.0
+"b) conversão das exportações (lei nova, fluxo)",1.5,substituível,0.0,12.0,0.0,,12,0.6893,5.0,2.0,10.0
+"b) conversão das exportações (lei nova, fluxo)",1.5,substituível,0.0,12.0,0.0,,24,1.0,7.0,3.0,15.0
+"b) conversão das exportações (lei nova, fluxo)",1.5,substituível,0.0,12.0,0.0,,36,1.0,7.0,3.0,15.0
+"b) conversão das exportações (lei nova, fluxo)",1.5,substituível,0.0,12.0,0.0,,48,1.0,7.0,3.0,15.0
+"b) conversão das exportações (lei nova, fluxo)",1.5,substituível,0.0,24.0,0.0,,12,0.6893,5.0,2.0,10.0
+"b) conversão das exportações (lei nova, fluxo)",1.5,substituível,0.0,24.0,0.0,,24,1.0,7.0,3.0,15.0
+"b) conversão das exportações (lei nova, fluxo)",1.5,substituível,0.0,24.0,0.0,,36,1.0,7.0,3.0,15.0
+"b) conversão das exportações (lei nova, fluxo)",1.5,substituível,0.0,24.0,0.0,,48,1.0,7.0,3.0,15.0
+"b) conversão das exportações (lei nova, fluxo)",1.5,substituível,0.5,6.0,1.6675721805762247,,12,0.6478,4.0,2.0,11.0
+"b) conversão das exportações (lei nova, fluxo)",1.5,substituível,0.5,6.0,1.6675721805762247,,24,1.0,8.0,3.0,18.0
+"b) conversão das exportações (lei nova, fluxo)",1.5,substituível,0.5,6.0,1.6675721805762247,,36,1.0,8.0,3.0,18.0
+"b) conversão das exportações (lei nova, fluxo)",1.5,substituível,0.5,6.0,1.6675721805762247,,48,1.0,8.0,3.0,18.0
+"b) conversão das exportações (lei nova, fluxo)",1.5,substituível,0.5,12.0,1.6675721805762247,,12,0.6893,5.0,2.0,10.0
+"b) conversão das exportações (lei nova, fluxo)",1.5,substituível,0.5,12.0,1.6675721805762247,,24,1.0,7.0,3.0,16.0
+"b) conversão das exportações (lei nova, fluxo)",1.5,substituível,0.5,12.0,1.6675721805762247,,36,1.0,7.0,3.0,16.0
+"b) conversão das exportações (lei nova, fluxo)",1.5,substituível,0.5,12.0,1.6675721805762247,,48,1.0,7.0,3.0,16.0
+"b) conversão das exportações (lei nova, fluxo)",1.5,substituível,0.5,24.0,1.6675721805762247,,12,0.6893,5.0,2.0,10.0
+"b) conversão das exportações (lei nova, fluxo)",1.5,substituível,0.5,24.0,1.6675721805762247,,24,1.0,7.0,3.0,15.0
+"b) conversão das exportações (lei nova, fluxo)",1.5,substituível,0.5,24.0,1.6675721805762247,,36,1.0,7.0,3.0,15.0
+"b) conversão das exportações (lei nova, fluxo)",1.5,substituível,0.5,24.0,1.6675721805762247,,48,1.0,7.0,3.0,15.0
+"b) conversão das exportações (lei nova, fluxo)",1.5,substituível,1.0,6.0,3.3351443611524494,,12,0.615,4.0,2.0,10.0
+"b) conversão das exportações (lei nova, fluxo)",1.5,substituível,1.0,6.0,3.3351443611524494,,24,0.9096,7.0,3.0,18.0
+"b) conversão das exportações (lei nova, fluxo)",1.5,substituível,1.0,6.0,3.3351443611524494,,36,0.986,8.0,3.0,22.0
+"b) conversão das exportações (lei nova, fluxo)",1.5,substituível,1.0,6.0,3.3351443611524494,,48,1.0,8.0,3.0,23.0
+"b) conversão das exportações (lei nova, fluxo)",1.5,substituível,1.0,12.0,3.3351443611524494,,12,0.6893,5.0,2.0,10.0
+"b) conversão das exportações (lei nova, fluxo)",1.5,substituível,1.0,12.0,3.3351443611524494,,24,0.9757,7.0,3.0,17.0
+"b) conversão das exportações (lei nova, fluxo)",1.5,substituível,1.0,12.0,3.3351443611524494,,36,1.0,7.0,3.0,18.0
+"b) conversão das exportações (lei nova, fluxo)",1.5,substituível,1.0,12.0,3.3351443611524494,,48,1.0,7.0,3.0,18.0
+"b) conversão das exportações (lei nova, fluxo)",1.5,substituível,1.0,24.0,3.3351443611524494,,12,0.6893,5.0,2.0,10.0
+"b) conversão das exportações (lei nova, fluxo)",1.5,substituível,1.0,24.0,3.3351443611524494,,24,1.0,7.0,3.0,15.0
+"b) conversão das exportações (lei nova, fluxo)",1.5,substituível,1.0,24.0,3.3351443611524494,,36,1.0,7.0,3.0,15.0
+"b) conversão das exportações (lei nova, fluxo)",1.5,substituível,1.0,24.0,3.3351443611524494,,48,1.0,7.0,3.0,15.0
+"b) conversão das exportações (lei nova, fluxo)",2.0,não substituível,0.0,6.0,0.0,,12,1.0,3.0,1.0,6.0
+"b) conversão das exportações (lei nova, fluxo)",2.0,não substituível,0.0,6.0,0.0,,24,1.0,3.0,1.0,6.0
+"b) conversão das exportações (lei nova, fluxo)",2.0,não substituível,0.0,6.0,0.0,,36,1.0,3.0,1.0,6.0
+"b) conversão das exportações (lei nova, fluxo)",2.0,não substituível,0.0,6.0,0.0,,48,1.0,3.0,1.0,6.0
+"b) conversão das exportações (lei nova, fluxo)",2.0,não substituível,0.0,12.0,0.0,,12,1.0,3.0,1.0,6.0
+"b) conversão das exportações (lei nova, fluxo)",2.0,não substituível,0.0,12.0,0.0,,24,1.0,3.0,1.0,6.0
+"b) conversão das exportações (lei nova, fluxo)",2.0,não substituível,0.0,12.0,0.0,,36,1.0,3.0,1.0,6.0
+"b) conversão das exportações (lei nova, fluxo)",2.0,não substituível,0.0,12.0,0.0,,48,1.0,3.0,1.0,6.0
+"b) conversão das exportações (lei nova, fluxo)",2.0,não substituível,0.0,24.0,0.0,,12,1.0,3.0,1.0,6.0
+"b) conversão das exportações (lei nova, fluxo)",2.0,não substituível,0.0,24.0,0.0,,24,1.0,3.0,1.0,6.0
+"b) conversão das exportações (lei nova, fluxo)",2.0,não substituível,0.0,24.0,0.0,,36,1.0,3.0,1.0,6.0
+"b) conversão das exportações (lei nova, fluxo)",2.0,não substituível,0.0,24.0,0.0,,48,1.0,3.0,1.0,6.0
+"b) conversão das exportações (lei nova, fluxo)",2.0,não substituível,0.5,6.0,1.6675721805762247,,12,1.0,3.0,1.0,6.0
+"b) conversão das exportações (lei nova, fluxo)",2.0,não substituível,0.5,6.0,1.6675721805762247,,24,1.0,3.0,1.0,6.0
+"b) conversão das exportações (lei nova, fluxo)",2.0,não substituível,0.5,6.0,1.6675721805762247,,36,1.0,3.0,1.0,6.0
+"b) conversão das exportações (lei nova, fluxo)",2.0,não substituível,0.5,6.0,1.6675721805762247,,48,1.0,3.0,1.0,6.0
+"b) conversão das exportações (lei nova, fluxo)",2.0,não substituível,0.5,12.0,1.6675721805762247,,12,1.0,3.0,1.0,6.0
+"b) conversão das exportações (lei nova, fluxo)",2.0,não substituível,0.5,12.0,1.6675721805762247,,24,1.0,3.0,1.0,6.0
+"b) conversão das exportações (lei nova, fluxo)",2.0,não substituível,0.5,12.0,1.6675721805762247,,36,1.0,3.0,1.0,6.0
+"b) conversão das exportações (lei nova, fluxo)",2.0,não substituível,0.5,12.0,1.6675721805762247,,48,1.0,3.0,1.0,6.0
+"b) conversão das exportações (lei nova, fluxo)",2.0,não substituível,0.5,24.0,1.6675721805762247,,12,1.0,3.0,1.0,6.0
+"b) conversão das exportações (lei nova, fluxo)",2.0,não substituível,0.5,24.0,1.6675721805762247,,24,1.0,3.0,1.0,6.0
+"b) conversão das exportações (lei nova, fluxo)",2.0,não substituível,0.5,24.0,1.6675721805762247,,36,1.0,3.0,1.0,6.0
+"b) conversão das exportações (lei nova, fluxo)",2.0,não substituível,0.5,24.0,1.6675721805762247,,48,1.0,3.0,1.0,6.0
+"b) conversão das exportações (lei nova, fluxo)",2.0,não substituível,1.0,6.0,3.3351443611524494,,12,1.0,3.0,1.0,6.0
+"b) conversão das exportações (lei nova, fluxo)",2.0,não substituível,1.0,6.0,3.3351443611524494,,24,1.0,3.0,1.0,6.0
+"b) conversão das exportações (lei nova, fluxo)",2.0,não substituível,1.0,6.0,3.3351443611524494,,36,1.0,3.0,1.0,6.0
+"b) conversão das exportações (lei nova, fluxo)",2.0,não substituível,1.0,6.0,3.3351443611524494,,48,1.0,3.0,1.0,6.0
+"b) conversão das exportações (lei nova, fluxo)",2.0,não substituível,1.0,12.0,3.3351443611524494,,12,1.0,3.0,1.0,6.0
+"b) conversão das exportações (lei nova, fluxo)",2.0,não substituível,1.0,12.0,3.3351443611524494,,24,1.0,3.0,1.0,6.0
+"b) conversão das exportações (lei nova, fluxo)",2.0,não substituível,1.0,12.0,3.3351443611524494,,36,1.0,3.0,1.0,6.0
+"b) conversão das exportações (lei nova, fluxo)",2.0,não substituível,1.0,12.0,3.3351443611524494,,48,1.0,3.0,1.0,6.0
+"b) conversão das exportações (lei nova, fluxo)",2.0,não substituível,1.0,24.0,3.3351443611524494,,12,1.0,3.0,1.0,6.0
+"b) conversão das exportações (lei nova, fluxo)",2.0,não substituível,1.0,24.0,3.3351443611524494,,24,1.0,3.0,1.0,6.0
+"b) conversão das exportações (lei nova, fluxo)",2.0,não substituível,1.0,24.0,3.3351443611524494,,36,1.0,3.0,1.0,6.0
+"b) conversão das exportações (lei nova, fluxo)",2.0,não substituível,1.0,24.0,3.3351443611524494,,48,1.0,3.0,1.0,6.0
+"b) conversão das exportações (lei nova, fluxo)",2.0,substituível,0.0,6.0,0.0,,12,0.9955,6.0,2.0,11.0
+"b) conversão das exportações (lei nova, fluxo)",2.0,substituível,0.0,6.0,0.0,,24,1.0,6.0,2.0,11.0
+"b) conversão das exportações (lei nova, fluxo)",2.0,substituível,0.0,6.0,0.0,,36,1.0,6.0,2.0,11.0
+"b) conversão das exportações (lei nova, fluxo)",2.0,substituível,0.0,6.0,0.0,,48,1.0,6.0,2.0,11.0
+"b) conversão das exportações (lei nova, fluxo)",2.0,substituível,0.0,12.0,0.0,,12,0.9955,6.0,2.0,11.0
+"b) conversão das exportações (lei nova, fluxo)",2.0,substituível,0.0,12.0,0.0,,24,1.0,6.0,2.0,11.0
+"b) conversão das exportações (lei nova, fluxo)",2.0,substituível,0.0,12.0,0.0,,36,1.0,6.0,2.0,11.0
+"b) conversão das exportações (lei nova, fluxo)",2.0,substituível,0.0,12.0,0.0,,48,1.0,6.0,2.0,11.0
+"b) conversão das exportações (lei nova, fluxo)",2.0,substituível,0.0,24.0,0.0,,12,0.9955,6.0,2.0,11.0
+"b) conversão das exportações (lei nova, fluxo)",2.0,substituível,0.0,24.0,0.0,,24,1.0,6.0,2.0,11.0
+"b) conversão das exportações (lei nova, fluxo)",2.0,substituível,0.0,24.0,0.0,,36,1.0,6.0,2.0,11.0
+"b) conversão das exportações (lei nova, fluxo)",2.0,substituível,0.0,24.0,0.0,,48,1.0,6.0,2.0,11.0
+"b) conversão das exportações (lei nova, fluxo)",2.0,substituível,0.5,6.0,1.6675721805762247,,12,0.8337,5.0,2.0,11.0
+"b) conversão das exportações (lei nova, fluxo)",2.0,substituível,0.5,6.0,1.6675721805762247,,24,1.0,6.0,2.0,13.0
+"b) conversão das exportações (lei nova, fluxo)",2.0,substituível,0.5,6.0,1.6675721805762247,,36,1.0,6.0,2.0,13.0
+"b) conversão das exportações (lei nova, fluxo)",2.0,substituível,0.5,6.0,1.6675721805762247,,48,1.0,6.0,2.0,13.0
+"b) conversão das exportações (lei nova, fluxo)",2.0,substituível,0.5,12.0,1.6675721805762247,,12,0.9955,6.0,2.0,11.0
+"b) conversão das exportações (lei nova, fluxo)",2.0,substituível,0.5,12.0,1.6675721805762247,,24,1.0,6.0,2.0,11.0
+"b) conversão das exportações (lei nova, fluxo)",2.0,substituível,0.5,12.0,1.6675721805762247,,36,1.0,6.0,2.0,11.0
+"b) conversão das exportações (lei nova, fluxo)",2.0,substituível,0.5,12.0,1.6675721805762247,,48,1.0,6.0,2.0,11.0
+"b) conversão das exportações (lei nova, fluxo)",2.0,substituível,0.5,24.0,1.6675721805762247,,12,0.9955,6.0,2.0,11.0
+"b) conversão das exportações (lei nova, fluxo)",2.0,substituível,0.5,24.0,1.6675721805762247,,24,1.0,6.0,2.0,11.0
+"b) conversão das exportações (lei nova, fluxo)",2.0,substituível,0.5,24.0,1.6675721805762247,,36,1.0,6.0,2.0,11.0
+"b) conversão das exportações (lei nova, fluxo)",2.0,substituível,0.5,24.0,1.6675721805762247,,48,1.0,6.0,2.0,11.0
+"b) conversão das exportações (lei nova, fluxo)",2.0,substituível,1.0,6.0,3.3351443611524494,,12,0.7117,4.0,2.0,10.0
+"b) conversão das exportações (lei nova, fluxo)",2.0,substituível,1.0,6.0,3.3351443611524494,,24,1.0,6.0,2.0,16.0
+"b) conversão das exportações (lei nova, fluxo)",2.0,substituível,1.0,6.0,3.3351443611524494,,36,1.0,6.0,2.0,16.0
+"b) conversão das exportações (lei nova, fluxo)",2.0,substituível,1.0,6.0,3.3351443611524494,,48,1.0,6.0,2.0,16.0
+"b) conversão das exportações (lei nova, fluxo)",2.0,substituível,1.0,12.0,3.3351443611524494,,12,0.9752,6.0,2.0,11.0
+"b) conversão das exportações (lei nova, fluxo)",2.0,substituível,1.0,12.0,3.3351443611524494,,24,1.0,6.0,2.0,11.0
+"b) conversão das exportações (lei nova, fluxo)",2.0,substituível,1.0,12.0,3.3351443611524494,,36,1.0,6.0,2.0,11.0
+"b) conversão das exportações (lei nova, fluxo)",2.0,substituível,1.0,12.0,3.3351443611524494,,48,1.0,6.0,2.0,11.0
+"b) conversão das exportações (lei nova, fluxo)",2.0,substituível,1.0,24.0,3.3351443611524494,,12,0.9955,6.0,2.0,11.0
+"b) conversão das exportações (lei nova, fluxo)",2.0,substituível,1.0,24.0,3.3351443611524494,,24,1.0,6.0,2.0,11.0
+"b) conversão das exportações (lei nova, fluxo)",2.0,substituível,1.0,24.0,3.3351443611524494,,36,1.0,6.0,2.0,11.0
+"b) conversão das exportações (lei nova, fluxo)",2.0,substituível,1.0,24.0,3.3351443611524494,,48,1.0,6.0,2.0,11.0
+c) desindexação das LFTs (De Bolle),0.5,não substituível,,,,0.2070249100977135,24,0.9988,10.0,5.0,18.0
+c) desindexação das LFTs (De Bolle),0.5,não substituível,,,,0.2070249100977135,36,1.0,10.0,5.0,18.0
+c) desindexação das LFTs (De Bolle),0.5,não substituível,,,,0.2070249100977135,48,1.0,10.0,5.0,18.0
+c) desindexação das LFTs (De Bolle),0.5,não substituível,,,,0.414049820195427,24,0.9935,10.0,5.0,20.0
+c) desindexação das LFTs (De Bolle),0.5,não substituível,,,,0.414049820195427,36,1.0,10.0,5.0,20.0
+c) desindexação das LFTs (De Bolle),0.5,não substituível,,,,0.414049820195427,48,1.0,10.0,5.0,20.0
+c) desindexação das LFTs (De Bolle),0.5,substituível,,,,0.2070249100977135,24,0.3018,17.0,10.0,24.0
+c) desindexação das LFTs (De Bolle),0.5,substituível,,,,0.2070249100977135,36,0.9075,27.0,13.0,35.0
+c) desindexação das LFTs (De Bolle),0.5,substituível,,,,0.2070249100977135,48,0.9934,28.0,13.0,36.0
+c) desindexação das LFTs (De Bolle),0.5,substituível,,,,0.414049820195427,24,0.1671,13.0,9.0,23.0
+c) desindexação das LFTs (De Bolle),0.5,substituível,,,,0.414049820195427,36,0.5692,28.0,12.0,34.0
+c) desindexação das LFTs (De Bolle),0.5,substituível,,,,0.414049820195427,48,0.9224,32.0,13.0,43.0
+c) desindexação das LFTs (De Bolle),1.0,não substituível,,,,0.2070249100977135,24,1.0,6.0,2.0,10.0
+c) desindexação das LFTs (De Bolle),1.0,não substituível,,,,0.2070249100977135,36,1.0,6.0,2.0,10.0
+c) desindexação das LFTs (De Bolle),1.0,não substituível,,,,0.2070249100977135,48,1.0,6.0,2.0,10.0
+c) desindexação das LFTs (De Bolle),1.0,não substituível,,,,0.414049820195427,24,1.0,6.0,2.0,10.0
+c) desindexação das LFTs (De Bolle),1.0,não substituível,,,,0.414049820195427,36,1.0,6.0,2.0,10.0
+c) desindexação das LFTs (De Bolle),1.0,não substituível,,,,0.414049820195427,48,1.0,6.0,2.0,10.0
+c) desindexação das LFTs (De Bolle),1.0,substituível,,,,0.2070249100977135,24,0.9623,10.0,5.0,19.0
+c) desindexação das LFTs (De Bolle),1.0,substituível,,,,0.2070249100977135,36,1.0,11.0,5.0,22.0
+c) desindexação das LFTs (De Bolle),1.0,substituível,,,,0.2070249100977135,48,1.0,11.0,5.0,22.0
+c) desindexação das LFTs (De Bolle),1.0,substituível,,,,0.414049820195427,24,0.9146,10.0,5.0,19.0
+c) desindexação das LFTs (De Bolle),1.0,substituível,,,,0.414049820195427,36,1.0,11.0,5.0,24.0
+c) desindexação das LFTs (De Bolle),1.0,substituível,,,,0.414049820195427,48,1.0,11.0,5.0,24.0
+c) desindexação das LFTs (De Bolle),1.5,não substituível,,,,0.2070249100977135,24,1.0,4.0,2.0,7.0
+c) desindexação das LFTs (De Bolle),1.5,não substituível,,,,0.2070249100977135,36,1.0,4.0,2.0,7.0
+c) desindexação das LFTs (De Bolle),1.5,não substituível,,,,0.2070249100977135,48,1.0,4.0,2.0,7.0
+c) desindexação das LFTs (De Bolle),1.5,não substituível,,,,0.414049820195427,24,1.0,4.0,2.0,7.0
+c) desindexação das LFTs (De Bolle),1.5,não substituível,,,,0.414049820195427,36,1.0,4.0,2.0,7.0
+c) desindexação das LFTs (De Bolle),1.5,não substituível,,,,0.414049820195427,48,1.0,4.0,2.0,7.0
+c) desindexação das LFTs (De Bolle),1.5,substituível,,,,0.2070249100977135,24,1.0,7.0,3.0,15.0
+c) desindexação das LFTs (De Bolle),1.5,substituível,,,,0.2070249100977135,36,1.0,7.0,3.0,15.0
+c) desindexação das LFTs (De Bolle),1.5,substituível,,,,0.2070249100977135,48,1.0,7.0,3.0,15.0
+c) desindexação das LFTs (De Bolle),1.5,substituível,,,,0.414049820195427,24,1.0,7.0,3.0,15.0
+c) desindexação das LFTs (De Bolle),1.5,substituível,,,,0.414049820195427,36,1.0,7.0,3.0,15.0
+c) desindexação das LFTs (De Bolle),1.5,substituível,,,,0.414049820195427,48,1.0,7.0,3.0,15.0
+c) desindexação das LFTs (De Bolle),2.0,não substituível,,,,0.2070249100977135,24,1.0,3.0,1.0,6.0
+c) desindexação das LFTs (De Bolle),2.0,não substituível,,,,0.2070249100977135,36,1.0,3.0,1.0,6.0
+c) desindexação das LFTs (De Bolle),2.0,não substituível,,,,0.2070249100977135,48,1.0,3.0,1.0,6.0
+c) desindexação das LFTs (De Bolle),2.0,não substituível,,,,0.414049820195427,24,1.0,3.0,1.0,6.0
+c) desindexação das LFTs (De Bolle),2.0,não substituível,,,,0.414049820195427,36,1.0,3.0,1.0,6.0
+c) desindexação das LFTs (De Bolle),2.0,não substituível,,,,0.414049820195427,48,1.0,3.0,1.0,6.0
+c) desindexação das LFTs (De Bolle),2.0,substituível,,,,0.2070249100977135,24,1.0,6.0,2.0,11.0
+c) desindexação das LFTs (De Bolle),2.0,substituível,,,,0.2070249100977135,36,1.0,6.0,2.0,11.0
+c) desindexação das LFTs (De Bolle),2.0,substituível,,,,0.2070249100977135,48,1.0,6.0,2.0,11.0
+c) desindexação das LFTs (De Bolle),2.0,substituível,,,,0.414049820195427,24,1.0,6.0,2.0,11.0
+c) desindexação das LFTs (De Bolle),2.0,substituível,,,,0.414049820195427,36,1.0,6.0,2.0,11.0
+c) desindexação das LFTs (De Bolle),2.0,substituível,,,,0.414049820195427,48,1.0,6.0,2.0,11.0

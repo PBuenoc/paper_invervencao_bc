@@ -1,0 +1,52 @@
+2026-11-24 11:54:39 | Etapa 4 concluída: 8000 linhas. Estoque exportadores implícito = 36.16; δ_max = 0.4140
+                                             cenario    f  mes_entrada  delta  horizonte_meses  p_esgotar_ate_H  mediana_entre_esgotadas  p10_entre_esgotadas  p90_entre_esgotadas
+2003  b) conversão das exportações (lei nova, fluxo)  0.0          6.0    NaN               12            0.583                      7.0                  5.0                 11.0
+2007  b) conversão das exportações (lei nova, fluxo)  0.0          6.0    NaN               24            0.996                     11.0                  5.0                 20.0
+2011  b) conversão das exportações (lei nova, fluxo)  0.0          6.0    NaN               36            1.000                     11.0                  5.0                 20.0
+2015  b) conversão das exportações (lei nova, fluxo)  0.0          6.0    NaN               48            1.000                     11.0                  5.0                 20.0
+2163  b) conversão das exportações (lei nova, fluxo)  0.0         12.0    NaN               12            0.583                      7.0                  5.0                 11.0
+2167  b) conversão das exportações (lei nova, fluxo)  0.0         12.0    NaN               24            0.996                     11.0                  5.0                 20.0
+2171  b) conversão das exportações (lei nova, fluxo)  0.0         12.0    NaN               36            1.000                     11.0                  5.0                 20.0
+2175  b) conversão das exportações (lei nova, fluxo)  0.0         12.0    NaN               48            1.000                     11.0                  5.0                 20.0
+2323  b) conversão das exportações (lei nova, fluxo)  0.0         24.0    NaN               12            0.583                      7.0                  5.0                 11.0
+2327  b) conversão das exportações (lei nova, fluxo)  0.0         24.0    NaN               24            0.996                     11.0                  5.0                 20.0
+2331  b) conversão das exportações (lei nova, fluxo)  0.0         24.0    NaN               36            1.000                     11.0                  5.0                 20.0
+2335  b) conversão das exportações (lei nova, fluxo)  0.0         24.0    NaN               48            1.000                     11.0                  5.0                 20.0
+2483  b) conversão das exportações (lei nova, fluxo)  0.5          6.0    NaN               12            0.502                      7.0                  5.0                 11.0
+2487  b) conversão das exportações (lei nova, fluxo)  0.5          6.0    NaN               24            0.891                     11.0                  5.0                 20.0
+2491  b) conversão das exportações (lei nova, fluxo)  0.5          6.0    NaN               36            0.976                     12.0                  5.0                 23.0
+2495  b) conversão das exportações (lei nova, fluxo)  0.5          6.0    NaN               48            1.000                     12.0                  5.0                 26.0
+2643  b) conversão das exportações (lei nova, fluxo)  0.5         12.0    NaN               12            0.583                      7.0                  5.0                 11.0
+2647  b) conversão das exportações (lei nova, fluxo)  0.5         12.0    NaN               24            0.905                     10.0                  5.0                 18.0
+2651  b) conversão das exportações (lei nova, fluxo)  0.5         12.0    NaN               36            0.992                     10.0                  5.0                 23.0
+2655  b) conversão das exportações (lei nova, fluxo)  0.5         12.0    NaN               48            1.000                     11.0                  5.0                 24.0
+2803  b) conversão das exportações (lei nova, fluxo)  0.5         24.0    NaN               12            0.583                      7.0                  5.0                 11.0
+2807  b) conversão das exportações (lei nova, fluxo)  0.5         24.0    NaN               24            0.987                     10.0                  5.0                 19.0
+2811  b) conversão das exportações (lei nova, fluxo)  0.5         24.0    NaN               36            1.000                     11.0                  5.0                 20.0
+2815  b) conversão das exportações (lei nova, fluxo)  0.5         24.0    NaN               48            1.000                     11.0                  5.0                 20.0
+2963  b) conversão das exportações (lei nova, fluxo)  1.0          6.0    NaN               12            0.431                      7.0                  5.0                 10.0
+2967  b) conversão das exportações (lei nova, fluxo)  1.0          6.0    NaN               24            0.807                     11.0                  5.0                 23.0
+2971  b) conversão das exportações (lei nova, fluxo)  1.0          6.0    NaN               36            0.916                     13.0                  5.0                 26.0
+2975  b) conversão das exportações (lei nova, fluxo)  1.0          6.0    NaN               48            0.967                     14.0                  5.0                 31.0
+3123  b) conversão das exportações (lei nova, fluxo)  1.0         12.0    NaN               12            0.579                      7.0                  5.0                 11.0
+3127  b) conversão das exportações (lei nova, fluxo)  1.0         12.0    NaN               24            0.884                      9.0                  5.0                 20.0
+3131  b) conversão das exportações (lei nova, fluxo)  1.0         12.0    NaN               36            0.966                     10.0                  5.0                 22.0
+3135  b) conversão das exportações (lei nova, fluxo)  1.0         12.0    NaN               48            0.989                     10.0                  5.0                 26.0
+3283  b) conversão das exportações (lei nova, fluxo)  1.0         24.0    NaN               12            0.583                      7.0                  5.0                 11.0
+3287  b) conversão das exportações (lei nova, fluxo)  1.0         24.0    NaN               24            0.982                     10.0                  5.0                 19.0
+3291  b) conversão das exportações (lei nova, fluxo)  1.0         24.0    NaN               36            0.998                     11.0                  5.0                 20.0
+3295  b) conversão das exportações (lei nova, fluxo)  1.0         24.0    NaN               48            0.999                     11.0                  5.0                 20.0
+3443              b') estoque implícito (comparação)  0.5         12.0    NaN               12            0.555                      7.0                  5.0                 11.0
+3447              b') estoque implícito (comparação)  0.5         12.0    NaN               24            0.915                     10.0                  5.0                 20.0
+3451              b') estoque implícito (comparação)  0.5         12.0    NaN               36            1.000                     11.0                  5.0                 23.0
+3455              b') estoque implícito (comparação)  0.5         12.0    NaN               48            1.000                     11.0                  5.0                 23.0
+3603              b') estoque implícito (comparação)  1.0         12.0    NaN               12            0.553                      7.0                  5.0                 11.0
+3607              b') estoque implícito (comparação)  1.0         12.0    NaN               24            0.883                      9.0                  5.0                 21.0
+3611              b') estoque implícito (comparação)  1.0         12.0    NaN               36            1.000                     11.0                  5.0                 26.0
+3615              b') estoque implícito (comparação)  1.0         12.0    NaN               48            1.000                     11.0                  5.0                 26.0
+3763             c) desindexação das LFTs (De Bolle)  NaN          NaN  0.207               24            0.962                     10.0                  5.0                 19.0
+3767             c) desindexação das LFTs (De Bolle)  NaN          NaN  0.207               36            1.000                     11.0                  5.0                 22.0
+3771             c) desindexação das LFTs (De Bolle)  NaN          NaN  0.207               48            1.000                     11.0                  5.0                 22.0
+3883             c) desindexação das LFTs (De Bolle)  NaN          NaN  0.414               24            0.915                     10.0                  5.0                 19.0
+3887             c) desindexação das LFTs (De Bolle)  NaN          NaN  0.414               36            1.000                     11.0                  5.0                 24.0
+3891             c) desindexação das LFTs (De Bolle)  NaN          NaN  0.414               48            1.000                     11.0                  5.0                 24.0

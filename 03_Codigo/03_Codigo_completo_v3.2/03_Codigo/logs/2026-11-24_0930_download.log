@@ -1,0 +1,78 @@
+2026-11-24 09:30:45 | META 29722: {'nome': 'Estoque de Linhas com Recompra - diária', 'unidade': 'US$ (milhões)', 'periodicidade': 'D'}
+2026-11-24 09:30:51 | GET https://api.bcb.gov.br/dados/serie/bcdata.sgs.29722/dados?formato=json&dataInicial=01%2F01%2F2001&dataFinal=31%2F12%2F2005 -> 200 (48849 bytes) tentativa 1
+2026-11-24 09:30:54 | GET https://api.bcb.gov.br/dados/serie/bcdata.sgs.29722/dados?formato=json&dataInicial=01%2F01%2F2006&dataFinal=31%2F12%2F2010 -> 200 (48948 bytes) tentativa 1
+2026-11-24 09:30:57 | GET https://api.bcb.gov.br/dados/serie/bcdata.sgs.29722/dados?formato=json&dataInicial=01%2F01%2F2011&dataFinal=31%2F12%2F2015 -> 200 (50543 bytes) tentativa 1
+2026-11-24 09:31:01 | GET https://api.bcb.gov.br/dados/serie/bcdata.sgs.29722/dados?formato=json&dataInicial=01%2F01%2F2016&dataFinal=31%2F12%2F2020 -> 200 (52065 bytes) tentativa 1
+2026-11-24 09:31:04 | GET https://api.bcb.gov.br/dados/serie/bcdata.sgs.29722/dados?formato=json&dataInicial=01%2F01%2F2021&dataFinal=31%2F12%2F2025 -> 200 (50673 bytes) tentativa 1
+2026-11-24 09:31:06 | GET https://api.bcb.gov.br/dados/serie/bcdata.sgs.29722/dados?formato=json&dataInicial=01%2F01%2F2026&dataFinal=24%2F11%2F2026 -> 200 (9209 bytes) tentativa 1
+2026-11-24 09:31:06 | SALVO BCB-SGS_29722_linhas_estoque_oficial_diario_2026-11-24.json sha256=9f6c0f3ea9ad7b16abe4f17febf1119845c27f8e8fe5bd6f48a783a29d9aede6
+2026-11-24 09:31:06 | OK 29722 linhas_estoque_oficial_diario: 6752 obs, 01/01/2001 a 23/11/2026
+2026-11-24 09:31:07 | META 29723: {'nome': 'Estoque de Swap Cambial - Nocional - diária', 'unidade': 'US$ (milhões)', 'periodicidade': 'D'}
+2026-11-24 09:31:10 | GET https://api.bcb.gov.br/dados/serie/bcdata.sgs.29723/dados?formato=json&dataInicial=01%2F01%2F2001&dataFinal=31%2F12%2F2005 -> 200 (37004 bytes) tentativa 1
+2026-11-24 09:31:13 | GET https://api.bcb.gov.br/dados/serie/bcdata.sgs.29723/dados?formato=json&dataInicial=01%2F01%2F2006&dataFinal=31%2F12%2F2010 -> 200 (52536 bytes) tentativa 1
+2026-11-24 09:31:17 | GET https://api.bcb.gov.br/dados/serie/bcdata.sgs.29723/dados?formato=json&dataInicial=01%2F01%2F2011&dataFinal=31%2F12%2F2015 -> 200 (51932 bytes) tentativa 1
+2026-11-24 09:31:20 | GET https://api.bcb.gov.br/dados/serie/bcdata.sgs.29723/dados?formato=json&dataInicial=01%2F01%2F2016&dataFinal=31%2F12%2F2020 -> 200 (53579 bytes) tentativa 1
+2026-11-24 09:31:29 | GET https://api.bcb.gov.br/dados/serie/bcdata.sgs.29723/dados?formato=json&dataInicial=01%2F01%2F2021&dataFinal=31%2F12%2F2025 -> 200 (54421 bytes) tentativa 1
+2026-11-24 09:31:31 | GET https://api.bcb.gov.br/dados/serie/bcdata.sgs.29723/dados?formato=json&dataInicial=01%2F01%2F2026&dataFinal=24%2F11%2F2026 -> 200 (9432 bytes) tentativa 1
+2026-11-24 09:31:31 | PENDENCIA 29723: [Errno 2] No such file or directory: 'C:\\Users\\PedroBueno\\Downloads\\Pesquisa_Capacidade-Intervencao-BC_LaraResende-20261124T122227Z-1-001\\Pesquisa_Capacidade-Intervencao-BC_LaraResende\\03_Codigo\\03_Codigo_completo_v3.2\\02_Dados\\01_brutos\\BCB-SGS_29723_swap_estoque_nocional_oficial_diario_2026-11-24.json'
+2026-11-24 09:31:32 | META 29724: {'nome': 'Estoque de Swap Cambial - Número de contratos - diária', 'unidade': 'Unidades', 'periodicidade': 'D'}
+2026-11-24 09:31:38 | GET https://api.bcb.gov.br/dados/serie/bcdata.sgs.29724/dados?formato=json&dataInicial=01%2F01%2F2001&dataFinal=31%2F12%2F2005 -> 200 (35404 bytes) tentativa 1
+2026-11-24 09:31:41 | GET https://api.bcb.gov.br/dados/serie/bcdata.sgs.29724/dados?formato=json&dataInicial=01%2F01%2F2006&dataFinal=31%2F12%2F2010 -> 200 (49575 bytes) tentativa 1
+2026-11-24 09:31:46 | GET https://api.bcb.gov.br/dados/serie/bcdata.sgs.29724/dados?formato=json&dataInicial=01%2F01%2F2011&dataFinal=31%2F12%2F2015 -> 200 (49828 bytes) tentativa 1
+2026-11-24 09:31:49 | GET https://api.bcb.gov.br/dados/serie/bcdata.sgs.29724/dados?formato=json&dataInicial=01%2F01%2F2016&dataFinal=31%2F12%2F2020 -> 200 (51584 bytes) tentativa 1
+2026-11-24 09:31:53 | GET https://api.bcb.gov.br/dados/serie/bcdata.sgs.29724/dados?formato=json&dataInicial=01%2F01%2F2021&dataFinal=31%2F12%2F2025 -> 200 (52161 bytes) tentativa 1
+2026-11-24 09:31:54 | GET https://api.bcb.gov.br/dados/serie/bcdata.sgs.29724/dados?formato=json&dataInicial=01%2F01%2F2026&dataFinal=24%2F11%2F2026 -> 200 (9161 bytes) tentativa 1
+2026-11-24 09:31:54 | SALVO BCB-SGS_29724_swap_contratos_oficial_diario_2026-11-24.json sha256=67f5c0e8e458cc41e2a2823ff93e9f1abbe1fe61f8f6307e9efe9798c41d0d3b
+2026-11-24 09:31:54 | OK 29724 swap_contratos_oficial_diario: 6318 obs, 08/07/2002 a 23/11/2026
+2026-11-24 09:31:55 | META 13961: {'nome': 'Movimento de câmbio contratado - saldo', 'unidade': 'US$ (milhões)', 'periodicidade': 'D'}
+2026-11-24 09:31:56 | GET https://api.bcb.gov.br/dados/serie/bcdata.sgs.13961/dados?formato=json&dataInicial=01%2F01%2F1990&dataFinal=31%2F12%2F1994 -> 404 (112 bytes) tentativa 1
+2026-11-24 09:31:57 | GET https://api.bcb.gov.br/dados/serie/bcdata.sgs.13961/dados?formato=json&dataInicial=01%2F01%2F1995&dataFinal=31%2F12%2F1999 -> 404 (112 bytes) tentativa 1
+2026-11-24 09:31:59 | GET https://api.bcb.gov.br/dados/serie/bcdata.sgs.13961/dados?formato=json&dataInicial=01%2F01%2F2000&dataFinal=31%2F12%2F2004 -> 404 (112 bytes) tentativa 1
+2026-11-24 09:32:02 | GET https://api.bcb.gov.br/dados/serie/bcdata.sgs.13961/dados?formato=json&dataInicial=01%2F01%2F2005&dataFinal=31%2F12%2F2009 -> 200 (15228 bytes) tentativa 1
+2026-11-24 09:32:03 | GET https://api.bcb.gov.br/dados/serie/bcdata.sgs.13961/dados?formato=json&dataInicial=01%2F01%2F2010&dataFinal=31%2F12%2F2014 -> 200 (57237 bytes) tentativa 1
+2026-11-24 09:32:04 | GET https://api.bcb.gov.br/dados/serie/bcdata.sgs.13961/dados?formato=json&dataInicial=01%2F01%2F2015&dataFinal=31%2F12%2F2019 -> 200 (56844 bytes) tentativa 1
+2026-11-24 09:32:05 | GET https://api.bcb.gov.br/dados/serie/bcdata.sgs.13961/dados?formato=json&dataInicial=01%2F01%2F2020&dataFinal=31%2F12%2F2024 -> 200 (56988 bytes) tentativa 1
+2026-11-24 09:32:06 | GET https://api.bcb.gov.br/dados/serie/bcdata.sgs.13961/dados?formato=json&dataInicial=01%2F01%2F2025&dataFinal=24%2F11%2F2026 -> 200 (21324 bytes) tentativa 1
+2026-11-24 09:32:06 | SALVO BCB-SGS_13961_fluxo_cambial_total_diario_2026-11-24.json sha256=335361de331ec8cb3a57e32a06c824d31aa88ecafc2c4f7ed9733c19eead0ab8
+2026-11-24 09:32:06 | OK 13961 fluxo_cambial_total_diario: 4563 obs, 01/09/2008 a 13/11/2026
+2026-11-24 09:32:08 | META 13967: {'nome': 'Cambio contratado-Operações no segmento comercial-saldo', 'unidade': 'US$ (milhões)', 'periodicidade': 'D'}
+2026-11-24 09:32:09 | GET https://api.bcb.gov.br/dados/serie/bcdata.sgs.13967/dados?formato=json&dataInicial=01%2F01%2F1990&dataFinal=31%2F12%2F1994 -> 404 (112 bytes) tentativa 1
+2026-11-24 09:32:10 | GET https://api.bcb.gov.br/dados/serie/bcdata.sgs.13967/dados?formato=json&dataInicial=01%2F01%2F1995&dataFinal=31%2F12%2F1999 -> 404 (112 bytes) tentativa 1
+2026-11-24 09:32:11 | GET https://api.bcb.gov.br/dados/serie/bcdata.sgs.13967/dados?formato=json&dataInicial=01%2F01%2F2000&dataFinal=31%2F12%2F2004 -> 404 (112 bytes) tentativa 1
+2026-11-24 09:32:14 | GET https://api.bcb.gov.br/dados/serie/bcdata.sgs.13967/dados?formato=json&dataInicial=01%2F01%2F2005&dataFinal=31%2F12%2F2009 -> 200 (15148 bytes) tentativa 1
+2026-11-24 09:32:16 | GET https://api.bcb.gov.br/dados/serie/bcdata.sgs.13967/dados?formato=json&dataInicial=01%2F01%2F2010&dataFinal=31%2F12%2F2014 -> 200 (56957 bytes) tentativa 1
+2026-11-24 09:32:17 | GET https://api.bcb.gov.br/dados/serie/bcdata.sgs.13967/dados?formato=json&dataInicial=01%2F01%2F2015&dataFinal=31%2F12%2F2019 -> 200 (56294 bytes) tentativa 1
+2026-11-24 09:32:19 | GET https://api.bcb.gov.br/dados/serie/bcdata.sgs.13967/dados?formato=json&dataInicial=01%2F01%2F2020&dataFinal=31%2F12%2F2024 -> 200 (56523 bytes) tentativa 1
+2026-11-24 09:32:21 | GET https://api.bcb.gov.br/dados/serie/bcdata.sgs.13967/dados?formato=json&dataInicial=01%2F01%2F2025&dataFinal=24%2F11%2F2026 -> 200 (21140 bytes) tentativa 1
+2026-11-24 09:32:21 | PENDENCIA 13967: [Errno 2] No such file or directory: 'C:\\Users\\PedroBueno\\Downloads\\Pesquisa_Capacidade-Intervencao-BC_LaraResende-20261124T122227Z-1-001\\Pesquisa_Capacidade-Intervencao-BC_LaraResende\\03_Codigo\\03_Codigo_completo_v3.2\\02_Dados\\01_brutos\\BCB-SGS_13967_fluxo_cambial_comercial_diario_2026-11-24.json'
+2026-11-24 09:32:25 | META 13970: {'nome': 'Cambio contratado-Operações com cliente no segmento financeiro-saldo', 'unidade': 'US$ (milhões)', 'periodicidade': 'D'}
+2026-11-24 09:32:27 | GET https://api.bcb.gov.br/dados/serie/bcdata.sgs.13970/dados?formato=json&dataInicial=01%2F01%2F1990&dataFinal=31%2F12%2F1994 -> 404 (112 bytes) tentativa 1
+2026-11-24 09:32:28 | GET https://api.bcb.gov.br/dados/serie/bcdata.sgs.13970/dados?formato=json&dataInicial=01%2F01%2F1995&dataFinal=31%2F12%2F1999 -> 404 (112 bytes) tentativa 1
+2026-11-24 09:32:31 | GET https://api.bcb.gov.br/dados/serie/bcdata.sgs.13970/dados?formato=json&dataInicial=01%2F01%2F2000&dataFinal=31%2F12%2F2004 -> 404 (112 bytes) tentativa 1
+2026-11-24 09:32:34 | GET https://api.bcb.gov.br/dados/serie/bcdata.sgs.13970/dados?formato=json&dataInicial=01%2F01%2F2005&dataFinal=31%2F12%2F2009 -> 200 (15241 bytes) tentativa 1
+2026-11-24 09:32:41 | GET https://api.bcb.gov.br/dados/serie/bcdata.sgs.13970/dados?formato=json&dataInicial=01%2F01%2F2010&dataFinal=31%2F12%2F2014 -> 200 (57173 bytes) tentativa 1
+2026-11-24 09:32:48 | GET https://api.bcb.gov.br/dados/serie/bcdata.sgs.13970/dados?formato=json&dataInicial=01%2F01%2F2015&dataFinal=31%2F12%2F2019 -> 200 (56962 bytes) tentativa 1
+2026-11-24 09:32:56 | GET https://api.bcb.gov.br/dados/serie/bcdata.sgs.13970/dados?formato=json&dataInicial=01%2F01%2F2020&dataFinal=31%2F12%2F2024 -> 200 (56999 bytes) tentativa 1
+2026-11-24 09:32:58 | GET https://api.bcb.gov.br/dados/serie/bcdata.sgs.13970/dados?formato=json&dataInicial=01%2F01%2F2025&dataFinal=24%2F11%2F2026 -> 200 (21368 bytes) tentativa 1
+2026-11-24 09:32:58 | PENDENCIA 13970: [Errno 2] No such file or directory: 'C:\\Users\\PedroBueno\\Downloads\\Pesquisa_Capacidade-Intervencao-BC_LaraResende-20261124T122227Z-1-001\\Pesquisa_Capacidade-Intervencao-BC_LaraResende\\03_Codigo\\03_Codigo_completo_v3.2\\02_Dados\\01_brutos\\BCB-SGS_13970_fluxo_cambial_financeiro_diario_2026-11-24.json'
+2026-11-24 09:33:00 | META 4385: {'nome': 'PIB mensal - Em US$ milhões', 'unidade': 'US$ (milhões)', 'periodicidade': 'M'}
+2026-11-24 09:33:01 | GET https://api.bcb.gov.br/dados/serie/bcdata.sgs.4385/dados?formato=json&dataInicial=01%2F01%2F1990&dataFinal=31%2F12%2F1994 -> 200 (2243 bytes) tentativa 1
+2026-11-24 09:33:03 | GET https://api.bcb.gov.br/dados/serie/bcdata.sgs.4385/dados?formato=json&dataInicial=01%2F01%2F1995&dataFinal=31%2F12%2F1999 -> 200 (2281 bytes) tentativa 1
+2026-11-24 09:33:04 | GET https://api.bcb.gov.br/dados/serie/bcdata.sgs.4385/dados?formato=json&dataInicial=01%2F01%2F2000&dataFinal=31%2F12%2F2004 -> 200 (2281 bytes) tentativa 1
+2026-11-24 09:33:05 | GET https://api.bcb.gov.br/dados/serie/bcdata.sgs.4385/dados?formato=json&dataInicial=01%2F01%2F2005&dataFinal=31%2F12%2F2009 -> 200 (2318 bytes) tentativa 1
+2026-11-24 09:33:07 | GET https://api.bcb.gov.br/dados/serie/bcdata.sgs.4385/dados?formato=json&dataInicial=01%2F01%2F2010&dataFinal=31%2F12%2F2014 -> 200 (2341 bytes) tentativa 1
+2026-11-24 09:33:08 | GET https://api.bcb.gov.br/dados/serie/bcdata.sgs.4385/dados?formato=json&dataInicial=01%2F01%2F2015&dataFinal=31%2F12%2F2019 -> 200 (2341 bytes) tentativa 1
+2026-11-24 09:33:09 | GET https://api.bcb.gov.br/dados/serie/bcdata.sgs.4385/dados?formato=json&dataInicial=01%2F01%2F2020&dataFinal=31%2F12%2F2024 -> 200 (2341 bytes) tentativa 1
+2026-11-24 09:33:11 | GET https://api.bcb.gov.br/dados/serie/bcdata.sgs.4385/dados?formato=json&dataInicial=01%2F01%2F2025&dataFinal=24%2F11%2F2026 -> 200 (859 bytes) tentativa 1
+2026-11-24 09:33:11 | SALVO BCB-SGS_4385_pib_mensal_usd_2026-11-24.json sha256=74b66b5d6b055cfef32559f4bc34e9e0504d56a7af14f5f2b7aadd047c06f5e4
+2026-11-24 09:33:11 | OK 4385 pib_mensal_usd: 441 obs, 01/02/1990 a 01/10/2026
+2026-11-24 09:33:12 | META 13962: {'nome': 'Cambio contratado-Operações com clientes no segmento comercial-exportação - total', 'unidade': 'US$ (milhões)', 'periodicidade': 'D'}
+2026-11-24 09:33:13 | GET https://api.bcb.gov.br/dados/serie/bcdata.sgs.13962/dados?formato=json&dataInicial=01%2F01%2F1990&dataFinal=31%2F12%2F1994 -> 404 (112 bytes) tentativa 1
+2026-11-24 09:33:15 | GET https://api.bcb.gov.br/dados/serie/bcdata.sgs.13962/dados?formato=json&dataInicial=01%2F01%2F1995&dataFinal=31%2F12%2F1999 -> 404 (112 bytes) tentativa 1
+2026-11-24 09:33:16 | GET https://api.bcb.gov.br/dados/serie/bcdata.sgs.13962/dados?formato=json&dataInicial=01%2F01%2F2000&dataFinal=31%2F12%2F2004 -> 404 (112 bytes) tentativa 1
+2026-11-24 09:33:18 | GET https://api.bcb.gov.br/dados/serie/bcdata.sgs.13962/dados?formato=json&dataInicial=01%2F01%2F2005&dataFinal=31%2F12%2F2009 -> 200 (15132 bytes) tentativa 1
+2026-11-24 09:33:23 | GET https://api.bcb.gov.br/dados/serie/bcdata.sgs.13962/dados?formato=json&dataInicial=01%2F01%2F2010&dataFinal=31%2F12%2F2014 -> 200 (56981 bytes) tentativa 1
+2026-11-24 09:33:27 | GET https://api.bcb.gov.br/dados/serie/bcdata.sgs.13962/dados?formato=json&dataInicial=01%2F01%2F2015&dataFinal=31%2F12%2F2019 -> 200 (56417 bytes) tentativa 1
+2026-11-24 09:33:31 | GET https://api.bcb.gov.br/dados/serie/bcdata.sgs.13962/dados?formato=json&dataInicial=01%2F01%2F2020&dataFinal=31%2F12%2F2024 -> 200 (56806 bytes) tentativa 1
+2026-11-24 09:33:33 | GET https://api.bcb.gov.br/dados/serie/bcdata.sgs.13962/dados?formato=json&dataInicial=01%2F01%2F2025&dataFinal=24%2F11%2F2026 -> 200 (21337 bytes) tentativa 1
+2026-11-24 09:33:33 | PENDENCIA 13962: [Errno 2] No such file or directory: 'C:\\Users\\PedroBueno\\Downloads\\Pesquisa_Capacidade-Intervencao-BC_LaraResende-20261124T122227Z-1-001\\Pesquisa_Capacidade-Intervencao-BC_LaraResende\\03_Codigo\\03_Codigo_completo_v3.2\\02_Dados\\01_brutos\\BCB-SGS_13962_cambio_contratado_exportacao_diario_2026-11-24.json'

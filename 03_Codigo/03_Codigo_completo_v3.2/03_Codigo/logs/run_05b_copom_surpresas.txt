@@ -1,0 +1,100 @@
+2026-11-24 11:53:52 | Etapa 2c concluída.
+                                                   modelo          variavel    coef  ep_hc1       p  ic95_inf  ic95_sup    n      r2                                    amostra
+0                                  M1 variação ~ surpresa             const -0.0540  0.0768  0.4821   -0.2045    0.0965  167  0.0081     todas as reuniões ordinárias com Focus
+1                                  M1 variação ~ surpresa       surpresa_pp -0.7388  0.7471  0.3227   -2.2031    0.7255  167  0.0081     todas as reuniões ordinárias com Focus
+2                         M2 variação ~ mudança observada             const -0.0507  0.0772  0.5108   -0.2020    0.1005  167  0.0023  mesma amostra (comparação com a etapa 2b)
+3                         M2 variação ~ mudança observada        mudanca_pp -0.0905  0.1446  0.5313   -0.3739    0.1928  167  0.0023  mesma amostra (comparação com a etapa 2b)
+4                       M3 variação ~ esperada + surpresa             const -0.0543  0.0771  0.4811   -0.2053    0.0968  167  0.0082                              mesma amostra
+5                       M3 variação ~ esperada + surpresa       esperada_pp -0.0262  0.1438  0.8556   -0.3079    0.2556  167  0.0082                              mesma amostra
+6                       M3 variação ~ esperada + surpresa       surpresa_pp -0.7189  0.7463  0.3354   -2.1815    0.7438  167  0.0082                              mesma amostra
+7                      M4 variação ~ surpresa × Selic<10%             const -0.1816  0.0944  0.0544   -0.3667    0.0035  167  0.0472                              mesma amostra
+8                      M4 variação ~ surpresa × Selic<10%       surpresa_pp -0.5110  0.7679  0.5057   -2.0160    0.9940  167  0.0472                              mesma amostra
+9                      M4 variação ~ surpresa × Selic<10%       selic_baixa  0.3850  0.1570  0.0142    0.0774    0.6927  167  0.0472                              mesma amostra
+10                     M4 variação ~ surpresa × Selic<10%  surpresa_x_baixa -1.4519  1.9391  0.4540   -5.2524    2.3486  167  0.0472                              mesma amostra
+11  M5 variação ~ surpresa (só reuniões com surpresa ≠ 0)             const  0.0654  0.2185  0.7647   -0.3628    0.4936   30  0.0265                 surpresa diferente de zero
+12  M5 variação ~ surpresa (só reuniões com surpresa ≠ 0)       surpresa_pp -0.6776  0.7613  0.3734   -2.1697    0.8145   30  0.0265                 surpresa diferente de zero
+{
+ "n_reunioes_com_focus": 167,
+ "n_amostra_ate_10_dias": 167,
+ "periodo": [
+  "2006-01-18",
+  "2026-11-04"
+ ],
+ "prop_reunioes_sem_surpresa": 0.8203592814371258,
+ "surpresa_abs_media_pp": 0.04940119760479042,
+ "surpresa_max_pp": 0.25,
+ "surpresa_min_pp": -0.5,
+ "cortes": {
+  "n": 62,
+  "prop_antecipados_integralmente": 0.8064516129032258,
+  "esperada_media_pp": -0.4879032258064516,
+  "surpresa_media_pp": -0.056451612903225805
+ },
+ "maiores_surpresas": [
+  {
+   "data_reuniao": "2009-03-11",
+   "meta_anterior": "12.75",
+   "meta_nova": "11.25",
+   "mediana_focus": "11.75",
+   "surpresa_pp": "-0.5",
+   "variacao_cambio_pct": "-0.8901823161859057"
+  },
+  {
+   "data_reuniao": "2016-01-20",
+   "meta_anterior": "14.25",
+   "meta_nova": "14.25",
+   "mediana_focus": "14.75",
+   "surpresa_pp": "-0.5",
+   "variacao_cambio_pct": "1.7057830204840752"
+  },
+  {
+   "data_reuniao": "2011-08-31",
+   "meta_anterior": "12.5",
+   "meta_nova": "12.0",
+   "mediana_focus": "12.5",
+   "surpresa_pp": "-0.5",
+   "variacao_cambio_pct": "1.0584677419354982"
+  },
+  {
+   "data_reuniao": "2008-10-29",
+   "meta_anterior": "13.75",
+   "meta_nova": "13.75",
+   "mediana_focus": "14.0",
+   "surpresa_pp": "-0.25",
+   "variacao_cambio_pct": "-0.7926829268292801"
+  },
+  {
+   "data_reuniao": "2008-04-16",
+   "meta_anterior": "11.25",
+   "meta_nova": "11.75",
+   "mediana_focus": "11.5",
+   "surpresa_pp": "0.25",
+   "variacao_cambio_pct": "-0.6647104617042876"
+  },
+  {
+   "data_reuniao": "2009-06-10",
+   "meta_anterior": "10.25",
+   "meta_nova": "9.25",
+   "mediana_focus": "9.5",
+   "surpresa_pp": "-0.25",
+   "variacao_cambio_pct": "-0.888363972476125"
+  },
+  {
+   "data_reuniao": "2006-08-30",
+   "meta_anterior": "14.75",
+   "meta_nova": "14.25",
+   "mediana_focus": "14.5",
+   "surpresa_pp": "-0.25",
+   "variacao_cambio_pct": "0.2719174871073537"
+  },
+  {
+   "data_reuniao": "2009-01-21",
+   "meta_anterior": "13.75",
+   "meta_nova": "12.75",
+   "mediana_focus": "13.0",
+   "surpresa_pp": "-0.25",
+   "variacao_cambio_pct": "-1.0406048250085065"
+  }
+ ]
+}
+anos com numeração divergente: {2026: {'reunioes_copom': 7, 'max_k_focus': 8}}

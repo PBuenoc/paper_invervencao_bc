@@ -1,0 +1,66 @@
+C:\Users\PedroBueno\Downloads\Pesquisa_BC\03_Codigo\03_Codigo_completo_v3.2\03_Codigo\10_incerteza_custo_externo.py:103: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`). Please use a specific unit instead.
+  a, z = cam.loc[:pd.Timestamp(ini) - pd.Timedelta(days=1)], cam.loc[:pd.Timestamp(fim)]
+          persistencia            versao  replicas  p48_mediana  p48_p05  p48_p95  p12_mediana  p12_p05  p12_p95  p48_sem_2013  p48_com_2013  prop_replicas_sem_2013
+0       episódio único  não substituível       300        0.570    0.278    0.860        0.570    0.278    0.860         0.448         0.576                   0.357
+1       episódio único      substituível       300        0.138    0.000    0.412        0.138    0.000    0.412         0.000         0.147                   0.357
+2           permanente  não substituível       300        1.000    1.000    1.000        1.000    1.000    1.000         1.000         1.000                   0.357
+3           permanente      substituível       300        1.000    1.000    1.000        0.586    0.310    1.000         1.000         1.000                   0.357
+4  recorrente 0,25/ano  não substituível       300        0.805    0.618    0.942        0.630    0.367    0.880         0.759         0.814                   0.357
+5  recorrente 0,25/ano      substituível       300        0.542    0.355    0.696        0.205    0.052    0.459         0.482         0.586                   0.357
+           persistencia            versao  horizonte_meses  custo_mediana_rs_bi  custo_p10_rs_bi  custo_p90_rs_bi  custo_mediana_pct_pib  custo_p90_pct_pib  custo_p90_sobre_economia_alegada  deprec_mediana_pct
+0            permanente      substituível               12                78.23           -17.82           349.38                   0.61               2.70                              0.68               14.24
+1            permanente      substituível               48               680.44           292.18          1110.07                   5.27               8.59                              0.54              116.44
+2            permanente  não substituível               12                78.23           -17.82           349.38                   0.61               2.70                              0.68               14.24
+3            permanente  não substituível               48               680.13           291.47          1109.94                   5.26               8.59                              0.54              116.44
+4        episódio único      substituível               12                42.67           -26.15           148.20                   0.33               1.15                              0.29                7.96
+5        episódio único      substituível               48                42.67           -26.15           278.73                   0.33               2.16                              0.13                8.21
+6        episódio único  não substituível               12                42.67           -26.15           148.20                   0.33               1.15                              0.29                7.96
+7        episódio único  não substituível               48                42.67           -26.15           278.73                   0.33               2.16                              0.13                8.21
+8   recorrente 0,25/ano      substituível               12                42.67           -26.15           148.20                   0.33               1.15                              0.29                7.96
+9   recorrente 0,25/ano      substituível               48               132.46             0.05           350.88                   1.03               2.72                              0.17               26.12
+10  recorrente 0,25/ano  não substituível               12                42.67           -26.15           148.20                   0.33               1.15                              0.29                7.96
+11  recorrente 0,25/ano  não substituível               48               132.46            -1.82           350.88                   1.03               2.72                              0.17               26.12
+{'100% ARA (utilizável)': 2.455313333822439, 'só espaço em swaps': 0.868202890537038, 'Greenspan-Guidotti': 6.60320987182067}
+                                                                    0                        1
+grupo                             18 emergentes com metas de inflação  todos os países da base
+n_episodios                                                       323                     2252
+n_paises                                                           18                      119
+tamanho_p50                                                      1.51                     1.61
+tamanho_p75                                                      2.51                     2.96
+tamanho_p90                                                      4.19                    5.458
+meses_p50                                                         4.0                      4.0
+meses_p75                                                         9.0                      8.0
+meses_p90                                                        14.0                     13.0
+prop_acima_100% ARA (utilizável)                                 0.26                    0.323
+prop_acima_só espaço em swaps                                   0.728                    0.766
+prop_acima_Greenspan-Guidotti                                   0.059                    0.075
+     pais  emergente_metas     inicio        fim  meses  venda_acumulada_pct_pib  maior_mes_pct_pib
+511   CZE             True 2021-09-01 2022-09-01     13                    17.01               4.42
+378   CHL             True 2003-11-01 2006-03-01     29                    15.83               2.04
+1785  ROU             True 2005-11-01 2007-02-01     16                    15.71               6.11
+879   HUN             True 2014-04-01 2015-08-01     17                    15.02               3.48
+1810  RUS             True 2008-08-01 2009-03-01      8                    14.80               3.97
+2070  TUR             True 2020-01-01 2020-09-01      9                    10.35               1.63
+1990  THA             True 2011-08-01 2014-01-01     30                     8.21               1.19
+1789  ROU             True 2008-11-01 2009-11-01     13                     8.19               5.41
+1682  PER             True 2008-05-01 2009-06-01     14                     8.00               2.29
+2056  TUR             True 2001-02-01 2002-09-01     20                     7.94               1.90
+865   HUN             True 2003-02-01 2003-11-01     10                     7.40               4.05
+881   HUN             True 2016-03-01 2017-10-01     20                     7.35               1.97
+1995  THA             True 2021-09-01 2022-10-01     14                     7.17               2.50
+1815  RUS             True 2013-11-01 2015-05-01     19                     7.14               1.38
+908   IND             True 2008-05-01 2009-03-01     11                     6.90               2.22
+    pais  emergente_metas     inicio        fim  meses  venda_acumulada_pct_pib  maior_mes_pct_pib
+282  BRA             True 2000-04-01 2000-06-01      3                     0.58               0.43
+283  BRA             True 2001-06-01 2003-04-01     23                     3.34               0.47
+284  BRA             True 2008-10-01 2008-12-01      3                     2.68               1.32
+285  BRA             True 2013-04-01 2015-06-01     27                     4.70               0.79
+286  BRA             True 2017-05-01 2017-05-01      1                     0.55               0.55
+287  BRA             True 2017-11-01 2018-09-01     11                     2.38               2.00
+288  BRA             True 2019-05-01 2019-07-01      3                     0.88               0.32
+289  BRA             True 2019-11-01 2020-05-01      7                     2.35               1.43
+290  BRA             True 2020-09-01 2021-03-01      7                     1.51               0.80
+291  BRA             True 2021-10-01 2023-01-01     16                     2.89               1.11
+292  BRA             True 2024-08-01 2024-12-01      5                     1.71               1.52
+{'grupo_emergentes': {'BRA': 'Brasil', 'CHL': 'Chile', 'COL': 'Colômbia', 'MEX': 'México', 'PER': 'Peru', 'CZE': 'Rep. Tcheca', 'HUN': 'Hungria', 'POL': 'Polônia', 'ROU': 'Romênia', 'TUR': 'Turquia', 'RUS': 'Rússia', 'ZAF': 'África do Sul', 'IND': 'Índia', 'IDN': 'Indonésia', 'KOR': 'Coreia do Sul', 'PHL': 'Filipinas', 'THA': 'Tailândia', 'ISR': 'Israel'}, 'paises_do_grupo_na_base': ['BRA', 'CHL', 'COL', 'CZE', 'HUN', 'IDN', 'IND', 'ISR', 'KOR', 'MEX', 'PER', 'PHL', 'POL', 'ROU', 'RUS', 'THA', 'TUR', 'ZAF']}
+2026-11-24 11:55:20 | Etapa 6 concluída em 23s

@@ -1,0 +1,60 @@
+{
+  "bootstrap": {
+    "replicas": 300,
+    "n_por_replica": 2000
+  },
+  "custo_swaps": {
+    "pib_rs_bi_aprox": 12919.395917999998,
+    "economia_alegada_rs_bi_ano": 516.7758367199999
+  },
+  "capacidade_pct_pib": {
+    "100% ARA (utilizável)": 2.455313333822439,
+    "só espaço em swaps": 0.868202890537038,
+    "Greenspan-Guidotti": 6.60320987182067
+  },
+  "externo": {
+    "grupo_emergentes": {
+      "BRA": "Brasil",
+      "CHL": "Chile",
+      "COL": "Colômbia",
+      "MEX": "México",
+      "PER": "Peru",
+      "CZE": "Rep. Tcheca",
+      "HUN": "Hungria",
+      "POL": "Polônia",
+      "ROU": "Romênia",
+      "TUR": "Turquia",
+      "RUS": "Rússia",
+      "ZAF": "África do Sul",
+      "IND": "Índia",
+      "IDN": "Indonésia",
+      "KOR": "Coreia do Sul",
+      "PHL": "Filipinas",
+      "THA": "Tailândia",
+      "ISR": "Israel"
+    },
+    "paises_do_grupo_na_base": [
+      "BRA",
+      "CHL",
+      "COL",
+      "CZE",
+      "HUN",
+      "IDN",
+      "IND",
+      "ISR",
+      "KOR",
+      "MEX",
+      "PER",
+      "PHL",
+      "POL",
+      "ROU",
+      "RUS",
+      "THA",
+      "TUR",
+      "ZAF"
+    ]
+  },
+  "pib12_usd_bi": 2495.73,
+  "fx0": 5.1766,
+  "segundos": 40.1
+}

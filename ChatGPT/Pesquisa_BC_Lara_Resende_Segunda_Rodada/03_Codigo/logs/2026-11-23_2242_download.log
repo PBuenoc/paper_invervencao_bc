@@ -1,0 +1,42 @@
+2026-11-23 22:42:19 | Etapa 1 concluída.
+2026-11-23 22:42:57 | CACHE BCB-SGS_13621_reservas_diarias_2026-11-23.json
+2026-11-23 22:42:57 | CACHE BCB-SGS_1_cambio_venda_diario_2026-11-23.json
+2026-11-23 22:42:57 | CACHE BCB-SGS_432_meta_selic_2026-11-23.json
+2026-11-23 22:42:57 | CACHE BCB-SGS_22705_export_bens_servicos_mensal_2026-11-23.json
+2026-11-23 22:42:57 | CACHE BCB-SGS_22708_export_bens_mensal_2026-11-23.json
+2026-11-23 22:42:57 | CACHE BCB-SGS_22720_export_servicos_mensal_2026-11-23.json
+2026-11-23 22:42:57 | CACHE BCB-SGS_27810_m2_mensal_2026-11-23.json
+2026-11-23 22:42:58 | GET https://api.bcb.gov.br/dados/serie/bcdata.sgs.27813/dados?formato=json&dataInicial=01%2F07%2F2001&dataFinal=31%2F12%2F2010 -> 200 (4790 bytes)
+2026-11-23 22:42:58 | SALVO .tmp_27813_2001.json sha256=32c9cc13a5550349bf2f5654594c91c1a4ae55862ff5ddc192a7dd3e51779410
+2026-11-23 22:42:59 | GET https://api.bcb.gov.br/dados/serie/bcdata.sgs.27813/dados?formato=json&dataInicial=01%2F01%2F2011&dataFinal=31%2F12%2F2020 -> 200 (5161 bytes)
+2026-11-23 22:42:59 | SALVO .tmp_27813_2011.json sha256=2a78fcf36d2bb635afbb0af078b2e0ddad7146a783ac7ed8e8583ba57d64258c
+2026-11-23 22:43:01 | GET https://api.bcb.gov.br/dados/serie/bcdata.sgs.27813/dados?formato=json&dataInicial=01%2F01%2F2021&dataFinal=23%2F11%2F2026 -> 200 (3010 bytes)
+2026-11-23 22:43:01 | SALVO .tmp_27813_2021.json sha256=fa58b8597bf5da9869d76d5d2c9f71029305f39afff12c2d9e39cab48aa9079b
+2026-11-23 22:43:02 | GET https://api.bcb.gov.br/dados/serie/bcdata.sgs.27815/dados?formato=json&dataInicial=01%2F07%2F2001&dataFinal=31%2F12%2F2010 -> 200 (4659 bytes)
+2026-11-23 22:43:02 | SALVO .tmp_27815_2001.json sha256=b7ac64a138d0fabea818f29483028fc8d53a212911d6f5eede7f3bd12898b4d2
+2026-11-23 22:43:03 | GET https://api.bcb.gov.br/dados/serie/bcdata.sgs.27815/dados?formato=json&dataInicial=01%2F01%2F2011&dataFinal=31%2F12%2F2020 -> 200 (5161 bytes)
+2026-11-23 22:43:03 | SALVO .tmp_27815_2011.json sha256=6574d213dd479d896f7c1b28f51af9422d29f18689f567f507e1f2b5be0c8bfc
+2026-11-23 22:43:04 | GET https://api.bcb.gov.br/dados/serie/bcdata.sgs.27815/dados?formato=json&dataInicial=01%2F01%2F2021&dataFinal=23%2F11%2F2026 -> 200 (3021 bytes)
+2026-11-23 22:43:04 | SALVO .tmp_27815_2021.json sha256=3057acf5012a55d117aa90d206b969328eaa844572c188b2a06730ebdd39dd8b
+2026-11-23 22:43:04 | CACHE BCB_historico-atuacoes-mercado-cambio_2026-11-23.csv
+2026-11-23 22:43:04 | CACHE BCB_historico-taxas-juros-copom_2026-11-23.json
+2026-11-23 22:43:04 | CACHE IPEADATA_JPM366_EMBI366_2026-11-23.json
+2026-11-23 22:43:04 | CACHE IPEADATA_JPM366_EMBI366_metadados_2026-11-23.json
+2026-11-23 22:43:04 | CACHE TESOURO_estoque-dpf_2026-11-23.csv
+2026-11-23 22:43:04 | CACHE BCB_tabelas-setor-externo_201904.xlsx
+2026-11-23 22:43:04 | CACHE BCB_tabelas-setor-externo_201910.xlsx
+2026-11-23 22:43:04 | CACHE BCB_tabelas-setor-externo_202004.xlsx
+2026-11-23 22:43:04 | CACHE BCB_tabelas-setor-externo_202010.xlsx
+2026-11-23 22:43:04 | CACHE BCB_tabelas-setor-externo_202104.xlsx
+2026-11-23 22:43:04 | CACHE BCB_tabelas-setor-externo_202110.xlsx
+2026-11-23 22:43:04 | CACHE BCB_tabelas-setor-externo_202204.xlsx
+2026-11-23 22:43:04 | CACHE BCB_tabelas-setor-externo_202210.xlsx
+2026-11-23 22:43:04 | CACHE BCB_tabelas-setor-externo_202304.xlsx
+2026-11-23 22:43:04 | CACHE BCB_tabelas-setor-externo_202310.xlsx
+2026-11-23 22:43:04 | CACHE BCB_tabelas-setor-externo_202404.xlsx
+2026-11-23 22:43:04 | CACHE BCB_tabelas-setor-externo_202410.xlsx
+2026-11-23 22:43:04 | CACHE BCB_tabelas-setor-externo_202504.xlsx
+2026-11-23 22:43:04 | CACHE BCB_tabelas-setor-externo_202510.xlsx
+2026-11-23 22:43:04 | CACHE BCB_tabelas-setor-externo_202604.xlsx
+2026-11-23 22:43:04 | CACHE BCB_tabelas-setor-externo_202610.xlsx
+2026-11-23 22:43:04 | FIM. Falhas: 0 (detalhe em pendencias_download_2026-11-23.json)

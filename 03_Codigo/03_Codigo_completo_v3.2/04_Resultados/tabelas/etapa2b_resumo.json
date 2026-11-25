@@ -1,0 +1,19 @@
+{
+  "n_decisoes": 258,
+  "periodo": [
+    "1999-03-04",
+    "2026-11-04"
+  ],
+  "n_cortes": 95,
+  "var_media_por_pp_de_corte_pct": 0.27916634091157905,
+  "var_mediana_por_pp_de_corte_pct": 0.0293235588137275,
+  "referencia_wps552": {
+    "fonte": "Vicente, Marins e Gaglianone (2021), BCB Working Paper 552",
+    "arquivo": "01_Bibliografia/03_Working-Papers_Textos-para-Discussao/VicenteMarinsGaglianone_2021_BCB-WPS552.pdf",
+    "estimativa": "surpresa de afrouxamento de 100 bp → depreciação de cerca de 3,4 p.p. (coeficiente −3,41, Modelo A, Tabela 1)",
+    "paginas": "p. 8 e p. 14 do PDF",
+    "ressalva": "com Selic de um dígito a surpresa não é significativa (Modelo C), com poucas observações (p. 15 do PDF)",
+    "natureza": "surpresa medida por DI futuro; aqui usamos decisão bruta, que inclui a parte já esperada"
+  },
+  "surpresa_di": "não calculada: dados históricos de DI futuro da B3 não foram obtidos de forma pública e automatizável nesta rodada (pendência)"
+}

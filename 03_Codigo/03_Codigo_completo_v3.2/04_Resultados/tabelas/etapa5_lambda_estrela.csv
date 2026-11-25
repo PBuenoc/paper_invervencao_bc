@@ -1,0 +1,57 @@
+episodio,teto,versao,lambda_estrela
+2002,pico histórico (preferência revelada),substituível,1.6274783707467577
+2002,pico histórico (preferência revelada),não substituível,0.6653615838695259
+2002,pico escalado pelo PIB em US$,substituível,1.7766162045063538
+2002,pico escalado pelo PIB em US$,não substituível,0.8491892329038819
+2002,pico +50% (hipótese sem âncora histórica),substituível,3.0589210980542703
+2002,pico +50% (hipótese sem âncora histórica),não substituível,2.429761298290032
+2002,sem teto (limite só nas reservas),substituível,inf
+2002,sem teto (limite só nas reservas),não substituível,4.671580686936068
+2008,pico histórico (preferência revelada),substituível,1.0991627340899868
+2008,pico histórico (preferência revelada),não substituível,0.6339657679473021
+2008,pico escalado pelo PIB em US$,substituível,1.2014529075531755
+2008,pico escalado pelo PIB em US$,não substituível,0.8091193077871139
+2008,pico +50% (hipótese sem âncora histórica),substituível,2.080956026829881
+2008,pico +50% (hipótese sem âncora histórica),não substituível,1.6534694713845965
+2008,sem teto (limite só nas reservas),substituível,inf
+2008,sem teto (limite só nas reservas),não substituível,1.6534694713845965
+2013,pico histórico (preferência revelada),substituível,0.5233859897271032
+2013,pico histórico (preferência revelada),não substituível,0.1892104210674006
+2013,pico escalado pelo PIB em US$,substituível,0.5713477040717407
+2013,pico escalado pelo PIB em US$,não substituível,0.24148591715857037
+2013,pico +50% (hipótese sem âncora histórica),substituível,0.98372824805665
+2013,pico +50% (hipótese sem âncora histórica),não substituível,0.6909568714036141
+2013,sem teto (limite só nas reservas),substituível,inf
+2013,sem teto (limite só nas reservas),não substituível,2.6481464466633042
+2015,pico histórico (preferência revelada),substituível,5.212180449889274
+2015,pico histórico (preferência revelada),não substituível,4.8865517032572825
+2015,pico escalado pelo PIB em US$,substituível,5.704895286226019
+2015,pico escalado pelo PIB em US$,não substituível,5.399316636130607
+2015,pico +50% (hipótese sem âncora histórica),substituível,9.941316252361503
+2015,pico +50% (hipótese sem âncora histórica),não substituível,5.399316636130607
+2015,sem teto (limite só nas reservas),substituível,inf
+2015,sem teto (limite só nas reservas),não substituível,5.399316636130607
+2018,pico histórico (preferência revelada),substituível,1.07645223369218
+2018,pico histórico (preferência revelada),não substituível,0.39647427867748775
+2018,pico escalado pelo PIB em US$,substituível,1.1782107954422827
+2018,pico escalado pelo PIB em US$,não substituível,0.5060131163827464
+2018,pico +50% (hipótese sem âncora histórica),substituível,2.0531430537721462
+2018,pico +50% (hipótese sem âncora histórica),não substituível,1.4478411159416282
+2018,sem teto (limite só nas reservas),substituível,inf
+2018,sem teto (limite só nas reservas),não substituível,9.969912248316177
+mar/2020,pico histórico (preferência revelada),substituível,1.0149240883583843
+mar/2020,pico histórico (preferência revelada),não substituível,1.0075795861394
+mar/2020,pico escalado pelo PIB em US$,substituível,1.1093748533130565
+mar/2020,pico escalado pelo PIB em US$,não substituível,1.0186956155848748
+mar/2020,pico +50% (hipótese sem âncora histórica),substituível,1.9214738026857958
+mar/2020,pico +50% (hipótese sem âncora histórica),não substituível,1.0186956155848748
+mar/2020,sem teto (limite só nas reservas),substituível,inf
+mar/2020,sem teto (limite só nas reservas),não substituível,1.0186956155848748
+dez/2024,pico histórico (preferência revelada),substituível,1.561742477961161
+dez/2024,pico histórico (preferência revelada),não substituível,1.0356909436450223
+dez/2024,pico escalado pelo PIB em US$,substituível,1.7070812017118442
+dez/2024,pico escalado pelo PIB em US$,não substituível,1.0356909436450223
+dez/2024,pico +50% (hipótese sem âncora histórica),substituível,2.956720894053433
+dez/2024,pico +50% (hipótese sem âncora histórica),não substituível,1.0356909436450223
+dez/2024,sem teto (limite só nas reservas),substituível,inf
+dez/2024,sem teto (limite só nas reservas),não substituível,1.0356909436450223

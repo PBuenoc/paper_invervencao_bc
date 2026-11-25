@@ -1,0 +1,5 @@
+2026-11-24 11:31:22 | PENDENCIA fmi_art4: PDF do Article IV não encontrado (nem em 01_brutos nem nos uploads)
+2026-11-24 11:31:22 | PENDENCIA estoques_oficiais: [Errno 2] No such file or directory: 'C:\\Users\\PedroBueno\\Downloads\\Pesquisa_BC\\03_Codigo\\03_Codigo_completo_v3.2\\02_Dados\\02_tratados\\estoques_swap_linha_diario.csv'
+2026-11-24 11:31:35 | Demonstrativo de reservas: 99 meses, 2018-07-01 a 2026-09-01
+2026-11-24 11:31:36 | Conversão das exportações: norma 0.9444; excesso 2021–2025 US$ 200.1 bi
+2026-11-24 11:31:37 | WPFXI: 75787 obs., 124 países, 2000-M01 a 2024-M12 (FMI-portal_WPFXI_intervencao_cambial_largo_2026-11-24.csv)

@@ -1,0 +1,7 @@
+persistencia,versao,p48_mediana,p48_p05,p48_p95,p12_mediana,p48_sem_2013,p48_com_2013
+episódio único,não substituível,0.57,0.2785,0.8605,0.57,0.4485,0.576
+episódio único,substituível,0.1385,0.0,0.412225,0.1385,0.0,0.147
+permanente,não substituível,1.0,1.0,1.0,1.0,1.0,1.0
+permanente,substituível,1.0,1.0,1.0,0.586,1.0,1.0
+"recorrente 0,25/ano",não substituível,0.8049999999999999,0.6179,0.941525,0.6295,0.759,0.8135
+"recorrente 0,25/ano",substituível,0.5415,0.355475,0.69625,0.20525,0.4815,0.5855

@@ -1,0 +1,37 @@
+2026-11-24 11:54:08 | Etapa 3 concluída em 13.4s; 1920 linhas.
+                      regime  lambda            versao  horizonte_meses  p_esgotar_ate_H  mediana_entre_esgotadas  p10_entre_esgotadas  p90_entre_esgotadas  mediana_incondicional
+3              alívio fiscal     0.5      substituível               12            0.075                     10.0                  8.0                 12.0                    NaN
+7              alívio fiscal     0.5      substituível               24            0.497                     21.0                 11.0                 24.0                    NaN
+11             alívio fiscal     0.5      substituível               36            0.969                     24.0                 13.0                 31.0                   25.0
+15             alívio fiscal     0.5      substituível               48            1.000                     25.0                 13.0                 32.0                   25.0
+19             alívio fiscal     0.5  não substituível               12            0.584                      7.0                  4.0                 11.0                   10.0
+23             alívio fiscal     0.5  não substituível               24            1.000                     10.0                  5.0                 18.0                   10.0
+27             alívio fiscal     0.5  não substituível               36            1.000                     10.0                  5.0                 18.0                   10.0
+31             alívio fiscal     0.5  não substituível               48            1.000                     10.0                  5.0                 18.0                   10.0
+483            alívio fiscal     1.0      substituível               12            0.583                      7.0                  5.0                 11.0                   11.0
+487            alívio fiscal     1.0      substituível               24            0.996                     11.0                  5.0                 20.0                   11.0
+491            alívio fiscal     1.0      substituível               36            1.000                     11.0                  5.0                 20.0                   11.0
+495            alívio fiscal     1.0      substituível               48            1.000                     11.0                  5.0                 20.0                   11.0
+499            alívio fiscal     1.0  não substituível               12            1.000                      6.0                  2.0                 10.0                    6.0
+503            alívio fiscal     1.0  não substituível               24            1.000                      6.0                  2.0                 10.0                    6.0
+507            alívio fiscal     1.0  não substituível               36            1.000                      6.0                  2.0                 10.0                    6.0
+511            alívio fiscal     1.0  não substituível               48            1.000                      6.0                  2.0                 10.0                    6.0
+963   perda de credibilidade     1.5      substituível               12            0.689                      5.0                  2.0                 10.0                    7.0
+967   perda de credibilidade     1.5      substituível               24            1.000                      7.0                  3.0                 15.0                    7.0
+971   perda de credibilidade     1.5      substituível               36            1.000                      7.0                  3.0                 15.0                    7.0
+975   perda de credibilidade     1.5      substituível               48            1.000                      7.0                  3.0                 15.0                    7.0
+979   perda de credibilidade     1.5  não substituível               12            1.000                      4.0                  2.0                  7.0                    4.0
+983   perda de credibilidade     1.5  não substituível               24            1.000                      4.0                  2.0                  7.0                    4.0
+987   perda de credibilidade     1.5  não substituível               36            1.000                      4.0                  2.0                  7.0                    4.0
+991   perda de credibilidade     1.5  não substituível               48            1.000                      4.0                  2.0                  7.0                    4.0
+1443  perda de credibilidade     2.0      substituível               12            0.996                      6.0                  2.0                 11.0                    6.0
+1447  perda de credibilidade     2.0      substituível               24            1.000                      6.0                  2.0                 11.0                    6.0
+1451  perda de credibilidade     2.0      substituível               36            1.000                      6.0                  2.0                 11.0                    6.0
+1455  perda de credibilidade     2.0      substituível               48            1.000                      6.0                  2.0                 11.0                    6.0
+1459  perda de credibilidade     2.0  não substituível               12            1.000                      3.0                  1.0                  6.0                    3.0
+1463  perda de credibilidade     2.0  não substituível               24            1.000                      3.0                  1.0                  6.0                    3.0
+1467  perda de credibilidade     2.0  não substituível               36            1.000                      3.0                  1.0                  6.0                    3.0
+1471  perda de credibilidade     2.0  não substituível               48            1.000                      3.0                  1.0                  6.0                    3.0
+       n  p_esgotar_ate_48  mediana_entre_esgotadas  p10   p90
+0   5000               1.0                     10.0  5.0  20.0
+1  10000               1.0                     11.0  5.0  20.0

@@ -1,0 +1,32 @@
+SAMPLE 273 3.516918132418874 [[0.82488479 0.17511521]
+ [0.69090909 0.30909091]] means         dep      spot      temp        sw
+0 -1.368750 -0.783550  1.036784 -0.189192
+1  6.487042 -0.074912  1.679903  1.973915
+missing {'fx': 0, 'dep': 0, 'sel': 0, 'ds': 0, 'emb': 26, 'de': 26, 'sw': 0, 'spot': 0, 'temp': 0}
+REG 246 0.4467728182372709              beta        lo         hi             p
+const    1.146936  0.047783   2.246088  4.083820e-02
+ds      -0.372378 -1.333539   0.588784  4.476501e-01
+de       8.803539  7.061278  10.545800  4.016385e-23
+dep_lag -0.016683 -0.118940   0.085573  7.491445e-01
+sel_lag -0.072347 -0.173054   0.028359  1.591208e-01
+WELCH 20 75 0.7586687373447324 TtestResult(statistic=np.float64(3.3384802980187294), pvalue=np.float64(0.0024277823007533153), df=np.float64(27.52274204852375))
+PROXY 0.3 ([np.float64(0.2), np.float64(1.2), np.float64(6.6), '>48'], [np.float64(0.0), np.float64(0.0), np.float64(0.0), '>48'])
+PROXY 0.4 ([np.float64(1.2), np.float64(4.9), np.float64(16.0), '>48'], [np.float64(0.0), np.float64(0.0), np.float64(0.0), '>48'])
+PROXY 0.5 ([np.float64(3.5), np.float64(10.0), np.float64(25.6), '>48'], [np.float64(0.0), np.float64(0.0), np.float64(0.0), '>48'])
+PROXY 1 ([np.float64(18.8), np.float64(35.5), np.float64(55.9), 40], [np.float64(0.3), np.float64(1.2), np.float64(2.9), '>48'])
+PROXY 1.5 ([np.float64(33.7), np.float64(52.7), np.float64(70.4), 22], [np.float64(4.5), np.float64(8.8), np.float64(14.3), '>48'])
+PROXY 2 ([np.float64(44.5), np.float64(63.4), np.float64(77.8), 15], [np.float64(12.4), np.float64(20.3), np.float64(27.8), '>48'])
+RESIDUAL 2018-07-01 00:00:00 2026-09-01 00:00:00 (99, 6)        net_nonintervention  Receitas de juros
+count            99.000000          99.000000
+mean              0.913413           0.611242
+std               3.667883           0.135916
+min              -9.084125           0.351403
+25%              -0.803134           0.499748
+50%               1.317977           0.621647
+75%               2.926484           0.715620
+max              14.723216           0.902436
+JUNE {'Variação total': -3.5786926186958983, 'Intervenções do Banco Central': 0.05, 'Receitas de juros': 0.8544144363679295, 'Saldo de linhas com recompra': 4.05, 'Posição das reservas': 367.5579976488702, 'net_nonintervention': -3.628692618695898}
+INCOME 0 ([np.float64(18.8), np.float64(35.5), np.float64(55.9), 40], [np.float64(0.3), np.float64(1.2), np.float64(2.9), '>48'])
+INCOME 0.6216474387023865 ([np.float64(18.7), np.float64(35.3), np.float64(55.6), 40], [np.float64(0.2), np.float64(0.4), np.float64(0.7), '>48'])
+INCOME 0.91341283061435 ([np.float64(18.7), np.float64(35.3), np.float64(55.5), 40], [np.float64(0.2), np.float64(0.3), np.float64(0.4), '>48'])
+INCOME -1.0 ([np.float64(19.2), np.float64(37.7), np.float64(62.9), 35], [np.float64(1.3), np.float64(7.0), np.float64(30.0), '>48'])

@@ -1,0 +1,64 @@
+{
+  "n_blocos_validos": 52,
+  "n_blocos_reescalados": 3,
+  "n_blocos_descartados": 4,
+  "moderado_mediana_usd_bi": 3.7495000000000234,
+  "forte_p75_usd_bi": 10.4090875,
+  "extremo_max_usd_bi": 40.964285714285715,
+  "media_usd_bi": 7.244605493395591,
+  "desvio_padrao_usd_bi": 9.491785546784007,
+  "minimo_usd_bi": -4.052499999999947,
+  "por_episodio": {
+    "2002": {
+      "count": 13,
+      "mean": 3.0877,
+      "median": 2.8699,
+      "max": 9.2685,
+      "std": 2.2327
+    },
+    "2008": {
+      "count": 5,
+      "mean": 12.3381,
+      "median": 10.4364,
+      "max": 30.5574,
+      "std": 12.5936
+    },
+    "2013": {
+      "count": 23,
+      "mean": 5.3399,
+      "median": 3.76,
+      "max": 19.667,
+      "std": 6.4301
+    },
+    "2015": {
+      "count": 1,
+      "mean": 12.15,
+      "median": 12.15,
+      "max": 12.15,
+      "std": NaN
+    },
+    "2018": {
+      "count": 2,
+      "mean": 29.4151,
+      "median": 29.4151,
+      "max": 40.9643,
+      "std": 16.333
+    },
+    "dez/2024": {
+      "count": 3,
+      "mean": 13.0633,
+      "median": 4.6154,
+      "max": 32.5745,
+      "std": 16.9477
+    },
+    "mar/2020": {
+      "count": 5,
+      "mean": 8.38,
+      "median": 6.2727,
+      "max": 28.7586,
+      "std": 12.2149
+    }
+  },
+  "k_meses_episodio_mais_longo": 23,
+  "episodio_mais_longo": "2013"
+}

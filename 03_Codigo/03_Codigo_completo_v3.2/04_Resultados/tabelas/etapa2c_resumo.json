@@ -1,0 +1,170 @@
+{
+  "n_reunioes_com_focus": 167,
+  "n_amostra_ate_10_dias": 167,
+  "periodo": [
+    "2006-01-18",
+    "2026-11-04"
+  ],
+  "checagem_numeracao": {
+    "2006": {
+      "reunioes_copom": 8,
+      "max_k_focus": 8
+    },
+    "2007": {
+      "reunioes_copom": 8,
+      "max_k_focus": 8
+    },
+    "2008": {
+      "reunioes_copom": 8,
+      "max_k_focus": 8
+    },
+    "2009": {
+      "reunioes_copom": 8,
+      "max_k_focus": 8
+    },
+    "2010": {
+      "reunioes_copom": 8,
+      "max_k_focus": 8
+    },
+    "2011": {
+      "reunioes_copom": 8,
+      "max_k_focus": 8
+    },
+    "2012": {
+      "reunioes_copom": 8,
+      "max_k_focus": 8
+    },
+    "2013": {
+      "reunioes_copom": 8,
+      "max_k_focus": 8
+    },
+    "2014": {
+      "reunioes_copom": 8,
+      "max_k_focus": 8
+    },
+    "2015": {
+      "reunioes_copom": 8,
+      "max_k_focus": 8
+    },
+    "2016": {
+      "reunioes_copom": 8,
+      "max_k_focus": 8
+    },
+    "2017": {
+      "reunioes_copom": 8,
+      "max_k_focus": 8
+    },
+    "2018": {
+      "reunioes_copom": 8,
+      "max_k_focus": 8
+    },
+    "2019": {
+      "reunioes_copom": 8,
+      "max_k_focus": 8
+    },
+    "2020": {
+      "reunioes_copom": 8,
+      "max_k_focus": 8
+    },
+    "2021": {
+      "reunioes_copom": 8,
+      "max_k_focus": 8
+    },
+    "2022": {
+      "reunioes_copom": 8,
+      "max_k_focus": 8
+    },
+    "2023": {
+      "reunioes_copom": 8,
+      "max_k_focus": 8
+    },
+    "2024": {
+      "reunioes_copom": 8,
+      "max_k_focus": 8
+    },
+    "2025": {
+      "reunioes_copom": 8,
+      "max_k_focus": 8
+    },
+    "2026": {
+      "reunioes_copom": 7,
+      "max_k_focus": 8
+    }
+  },
+  "prop_reunioes_sem_surpresa": 0.8203592814371258,
+  "surpresa_abs_media_pp": 0.04940119760479042,
+  "surpresa_max_pp": 0.25,
+  "surpresa_min_pp": -0.5,
+  "cortes": {
+    "n": 62,
+    "prop_antecipados_integralmente": 0.8064516129032258,
+    "esperada_media_pp": -0.4879032258064516,
+    "surpresa_media_pp": -0.056451612903225805
+  },
+  "maiores_surpresas": [
+    {
+      "data_reuniao": "2009-03-11",
+      "meta_anterior": "12.75",
+      "meta_nova": "11.25",
+      "mediana_focus": "11.75",
+      "surpresa_pp": "-0.5",
+      "variacao_cambio_pct": "-0.8901823161859057"
+    },
+    {
+      "data_reuniao": "2016-01-20",
+      "meta_anterior": "14.25",
+      "meta_nova": "14.25",
+      "mediana_focus": "14.75",
+      "surpresa_pp": "-0.5",
+      "variacao_cambio_pct": "1.7057830204840752"
+    },
+    {
+      "data_reuniao": "2011-08-31",
+      "meta_anterior": "12.5",
+      "meta_nova": "12.0",
+      "mediana_focus": "12.5",
+      "surpresa_pp": "-0.5",
+      "variacao_cambio_pct": "1.0584677419354982"
+    },
+    {
+      "data_reuniao": "2008-10-29",
+      "meta_anterior": "13.75",
+      "meta_nova": "13.75",
+      "mediana_focus": "14.0",
+      "surpresa_pp": "-0.25",
+      "variacao_cambio_pct": "-0.7926829268292801"
+    },
+    {
+      "data_reuniao": "2008-04-16",
+      "meta_anterior": "11.25",
+      "meta_nova": "11.75",
+      "mediana_focus": "11.5",
+      "surpresa_pp": "0.25",
+      "variacao_cambio_pct": "-0.6647104617042876"
+    },
+    {
+      "data_reuniao": "2009-06-10",
+      "meta_anterior": "10.25",
+      "meta_nova": "9.25",
+      "mediana_focus": "9.5",
+      "surpresa_pp": "-0.25",
+      "variacao_cambio_pct": "-0.888363972476125"
+    },
+    {
+      "data_reuniao": "2006-08-30",
+      "meta_anterior": "14.75",
+      "meta_nova": "14.25",
+      "mediana_focus": "14.5",
+      "surpresa_pp": "-0.25",
+      "variacao_cambio_pct": "0.2719174871073537"
+    },
+    {
+      "data_reuniao": "2009-01-21",
+      "meta_anterior": "13.75",
+      "meta_nova": "12.75",
+      "mediana_focus": "13.0",
+      "surpresa_pp": "-0.25",
+      "variacao_cambio_pct": "-1.0406048250085065"
+    }
+  ]
+}

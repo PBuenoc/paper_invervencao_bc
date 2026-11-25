@@ -1,0 +1,26 @@
+{
+  "entradas": {
+    "data_ref": "2026-06-30",
+    "R0": 367.558,
+    "S0": 93.25000000000036,
+    "SMAX": 114.91800000000038,
+    "pisos": {
+      "100% ARA (M4)": 336.5503787164058,
+      "120% ARA (M4)": 403.860454459687,
+      "150% ARA (M4)": 504.8255680746087,
+      "Greenspan-Guidotti": 167.76354638407,
+      "100% ARA (M3, sensibilidade)": 319.44838395150225
+    }
+  },
+  "k_corrida": 23,
+  "bloco_extremo": 47,
+  "n_blocos": 50,
+  "prazos_recompra_meses_por_bloco": [
+    2,
+    3,
+    5,
+    7,
+    10
+  ],
+  "segundos": 6.6
+}
